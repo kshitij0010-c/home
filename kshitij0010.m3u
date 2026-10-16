@@ -5,8 +5,6 @@
 #EXTINF:-1,  tvg-name="Super Hungama" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg", "Super Hungama"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=ext_name=gdgnlfdenkmjcfgjpnookbglpndleahm
-#KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://hotstar.com
