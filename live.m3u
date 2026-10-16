@@ -1,40 +1,36 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" group-title="Movies" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-category="Movies",MN+ HD
+#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" group-title="Movies" provider-languages="English" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-category="Movies",MN+ HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
-#EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" group-title="Movies" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" tvg-category="Movies",Romedy Now
+#EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" group-title="Movies" provider-languages="English" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" tvg-category="Movies",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 
-#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" group-title="Movies" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-category="Movies",Movies Now HD
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" group-title="Movies" provider-languages="English" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-category="Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
-#EXTINF:-1 tvg-id="877" tvg-name="MNX HD" group-title="Movies" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-category="Movies",MNX HD
+#EXTINF:-1 tvg-id="877" tvg-name="MNX HD" group-title="Movies" provider-languages="English" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-category="Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
-#EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",Cricket Gold
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224/variant.m3u8?x-plex-token=3YRrCCdbpgyXyDDyyRhC&x-plex-advertising-identifier=&x-plex-client-identifier=xgkz9ui5tipdsflhzmh1ar3h&x-plex-playback-id=p_09f7ee54-5228-4623-ad70-b692b5f45ae7&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Web&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=8.1.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=8.19.3.26473&x-plex-provider-streaming-start=1790695046&url=6cb42a7ed76ecf93674d34f3d77afb19-70d470d3896f32fbe6a49d786e0cbd50d9da0995d273dfe46164946de35bd0cd7a0480d46cc3554a0d903e4a8354febc0d3c9430c78d7d126371edd47fb88701ad180ca682515b2934dcf8d20e06b231b0212d2feae66e52eae4f72b4b255f7371c08b0af27eaf232aed5b1771f03cf3d13230f5a51f10798513bec4fef925cccf36a830f23f4b6160225ac5d39b70dfaaf8d12d4647f9b649e8605ed8f3f08a
 
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",Cricket Gold HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/262860c4-2c87-46e1-9fb4-27e108b75edf/0.m3u8
+https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-65e0c8c6d899afe817b9d224/variant.m3u8?x-plex-token=xLq1zcTBgUFAEBomLRsL&x-plex-advertising-identifier=&x-plex-client-identifier=15c1ab0c-ebc0-4591-81b4-b7f41275e001&x-plex-playback-id=p_bcfa3847-20b9-4520-b0d9-e0059a5f0b75&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Edge&x-plex-platform-version=155.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1792155534&auto=0&url=24a696c4a075266eed371c286b53b0c6-3697743883f995afb36a8d3ca0689d841023984e8ae18c4ee848f95b9339eaf9fda73f87af84c2daf6bf77eeceb8347aecbb59b1fa0e14fa43b7aaba34e8fe34d264e8d921086b22882b956e312b0e1aa14da860ab8968a018a5ce20f5093099f1fb816104e678439b4d1ac9dd0fd87d3ad8a8e2eea70338eb3bd60d6587334458a6b8ce765b7a87f4e3799b965865fdb3637a7e5ccf4b2e5caed0cea2aa92d1
 
 #EXTINF:-1 tvg-name="DD Sahayadri" tvg-id="695" tvg-logo="https://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg"group-title="DD Channels"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD Sahayadri
 #EXTVLCOPT:http-user-agent=Virat
