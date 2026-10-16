@@ -38,11 +38,7 @@ https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-65e0c8c6d899
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index_2.m3u8
 
 
-#EXTINF:-1 tvg-name="DD Sahayadri 2" tvg-id="695" tvg-logo="https://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg"group-title="DD Channels"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD Sahayadri 2
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/30/master.m3u8
-#EXTINF:-1 tvg-name="Fakt Marathi"tvg-id=""tvg-logo=""group-title="Entertainment"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Fakt Marathi
+#EXTINF:-1 tvg-name="Fakt Marathi"tvg-id="738" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a924cd82e1d44b9cad4a6f62daee5126/version/0" group-title="Entertainment"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Fakt Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
@@ -53,47 +49,32 @@ https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" group-title="SonyLIV Entertainment",Sony Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1791311334~acl=/*~id=55405308115556155490371464951090~hmac=38013187fe524c7e64d7206ca8ac851dcd860cde71305a9e440b7af17431860b
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1791311334~acl=/*~id=55405308115556155490371464951090~hmac=38013187fe524c7e64d7206ca8ac851dcd860cde71305a9e440b7af17431860b"}
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1791311334~acl=/*~id=55405308115556155490371464951090~hmac=38013187fe524c7e64d7206ca8ac851dcd860cde71305a9e440b7af17431860b
-
-
-#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" group-title="Movies" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&amp;s=10" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" tvg-language="Marathi" tvg-category="Entertainment",Zee Marathi
+#EXTINF:-1 tvg-name="Zee Marathi" tvg-id="445" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" provider-languages="Marathi" group-title="Entertainment",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=http://49.37.225.28/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="Zee Marathi HD" tvg-id="1360" tvg-logo="" group-title="Entertainment" provider-languages="" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Zee Marathi HD
+#EXTINF:-1 tvg-name="Zee Marathi HD" tvg-id="1360" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Entertainment" provider-languages="Marathi" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=http://49.37.225.28/
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 
-#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" group-title="" group-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Sun_NXT_logo_small.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",Sun Marathi
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" group-title="Entertainment" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",Sun Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
 
-#EXTINF:-1 tvg-name="Colors"tvg-id="1368"tvg-logo="https://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors
+#EXTINF:-1 tvg-name="Colors" tvg-id="1368" tvg-logo="https://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zee Yuva"tvg-id="414"tvg-logo="https://img.media.jio.com/tvpimages/98/27/300397_1768297472629_l_medium.jpg"group-title="Entertainment"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Yuva
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=858162724c47217b8d60b0291b2e4927b1a141255632109bbd296ae7b7ba2eb6
-#EXTINF:-1 tvg-name="Star Pravah"tvg-id="3099"tvg-logo="https://img.media.jio.com/tvpimages/1/56/302102_1753201904609_l_medium.jpg"group-title="Movies"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pravah Pictures
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/index.mpd?__hdnea__=st=1790381721~exp=1790403321~acl=/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/*~hmac=a17a8385567dafa0fbeed4b63805715fed1f3c5b4a8fe791090570f6fee99990
 #EXTINF:-1 tvg-name="Shemaroo Marathi Bana"tvg-id="1452"tvg-logo="https://img.media.jio.com/imagespublic/22/75/301206_1646912412048_p_medium.jpg"group-title="Movies"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Marathi Bana
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Star Pravah HD"tvg-id="3100"tvg-logo="https://img.media.jio.com/tvpimages/48/78/302094_1753185803053_l_medium.jpg"group-title="Movies"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Pravah HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -103,18 +84,17 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b19
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
+
 #EXTINF:-1 tvg-name="Awaaz India" tvg-id="3332" tvg-logo=""group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Awaaz India
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-name="Lok Manch Marathi"tvg-id="3167" tvg-logo="https://img.media.jio.com/imagespublic/89/56/301881_1731408284208_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Lok Manch Marathi
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Lok_manch_Marathi_BTS/WDVLive/index.mpd?__hdnea__=st=1790381720~exp=1790403320~acl=/bpk-tv/Lok_manch_Marathi_BTS/WDVLive/*~hmac=4892529e6eb6e4a6b97a26b5e81a78c6dd7f67e77561013ee5daf93f0ebddb67
+
 #EXTINF:-1 tvg-name="Lokshahi Marathi" tvg-id="1293" tvg-logo="https://img.media.jio.com/imagespublic/70/29/301629_1707138809741_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Lokshahi Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+
 #EXTINF:-1 tvg-name="NDTV Marathi" tvg-id="3095" tvg-logo="https://img.media.jio.com/imagespublic/8/42/301789_1723891902194_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NDTV Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -124,6 +104,7 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+
 #EXTINF:-1 tvg-id="232" tvg-name="News18 Lokmat." group-title="News" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png" tvg-category="News",News18 Lokmat.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
@@ -134,26 +115,32 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?_
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+
 #EXTINF:-1 tvg-name="Pudhari News"tvg-id="2935" tvg-logo="https://img.media.jio.com/imagespublic/26/42/301608_1705348850117_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pudhari News
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-name="Saam Tv "tvg-id="691" tvg-logo="https://img.media.jio.com/imagespublic/61/54/SaamTv_1574695258106_tv.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Saam Tv
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cdn.pishow.tv/ott/live/437/master.m3u8
+
 #EXTINF:-1 tvg-name="Top News Marathi"tvg-id="1972"tvg-logo="https://img.media.jio.com/tvpimages/4/62/301917_1736406213810_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Top News Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+
 #EXTINF:-1 tvg-name="TV9 Marathi"tvg-id="617"tvg-logo="https://img.media.jio.com/tvpimages/32/65/301135_1753182963586_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",TV9 Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Zee 24 Taas"tvg-id="442"tvg-logo="https://img.media.jio.com/tvpimages/9/84/301342_1753198923876_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee 24 Taas
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+
 #EXTINF:-1 tvg-name="Zee 24 Taas2"tvg-id=""tvg-logo="https://img.media.jio.com/tvpimages/9/84/301342_1753198923876_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee 24 Taas2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -164,17 +151,19 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/abr_2500k.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.270 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 http://yolomax.pro:80/live/3Q43L4L/59R3J6J/72168.m3u8
+
 #EXTINF:-1 tvg-chno="805" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
-#EXTINF:-1 tvg-name="Discovery Science" tvg-id="22647" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
 #KODIPROP:mimetype=application/dash+xml
 https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
-#EXTINF:-1 tvg-name="Discovery sd" tvg-id="22652" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Tamil Infotainment",Discovery Tamil
+
+#EXTINF:-1 tvg-name="Discovery SD" tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Tamil Infotainment",Discovery Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
 #KODIPROP:mimetype=application/dash+xml
