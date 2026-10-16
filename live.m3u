@@ -333,13 +333,13 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD"tvg-id="291"tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg"group-title="Entertainment" provider-languages="Hindi",Sony Entertainment Television HD
+#EXTINF:-1 tvg-name="Sony Entertainment Television HD"tvg-id="3509"tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg"group-title="Entertainment" provider-languages="Hindi",Sony Entertainment Television HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-id="291" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
+#EXTINF:-1 tvg-id="3509" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
 https://sliv.tgaadi.workers.dev/sabhd.m3u8
