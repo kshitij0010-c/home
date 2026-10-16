@@ -175,15 +175,15 @@ https://login.bheem.tv/bpk-tv/22652/output/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3444
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3444
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3444
+http://10.94.156.26:5001//live/mpd/3444
 
-#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.94.156.26:5001//jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3453
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3453?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3453
+http://10.94.156.26:5001//live/mpd/3453?q=high
 
 
 #EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
@@ -218,16 +218,16 @@ http://51.75.127.199:3141/natgeowild/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1332
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1332
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1332
+http://10.94.156.26:5001//live/mpd/1332
 
 
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335"tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1335
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1335
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1335
+http://10.94.156.26:5001//live/mpd/1335
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -253,8 +253,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3458
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3458
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3458
+http://10.94.156.26:5001//live/mpd/3458
 
 #EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -447,31 +447,31 @@ http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1477
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1477
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1477
+http://10.94.156.26:5001//live/mpd/1477
 
 
 
-#EXTINF:-1 tvg-name="Colors Cineplex Superhits"tvg-id="1450"tvg-logo="https://img.media.jio.com/imagespublic/60/76/301384_1683104124385_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex Superhits
+#EXTINF:-1 tvg-name="Colors Cineplex Superhits"tvg-id="1450" tvg-logo="https://img.media.jio.com/imagespublic/60/76/301384_1683104124385_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex Superhits
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1450
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1450
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1450
+http://10.94.156.26:5001//live/mpd/1450
 
 
-#EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543"tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
+#EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3543
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3543
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3543
+http:////10.94.156.26:5001//live/mpd/3543
 
-#EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336"tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
+#EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jmp2.uk/stvp-IN46000140Q
-#EXTINF:-1 tvg-name="NH BollyGold"tvg-id="3338"tvg-logo="https://img.media.jio.com/tvpimages/72/57/302704_1756192888195_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyGold
+#EXTINF:-1 tvg-name="NH BollyGold"tvg-id="3338" tvg-logo="https://img.media.jio.com/tvpimages/72/57/302704_1756192888195_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyGold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
@@ -480,10 +480,10 @@ https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3259
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3259
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3259
+http://10.94.156.26:5001//live/mpd/3259
 
-#EXTINF:-1 tvg-name="Shemaroo Josh"tvg-id=""tvg-logo=""group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
+#EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo=""group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
@@ -502,7 +502,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878&uid=8004188626&pass=61498d15
 
 
-#EXTINF:-1 tvg-name="Sony MAX HD"tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD(1080p HEVC)
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
@@ -523,41 +523,41 @@ http://51.75.127.199:3141/stargold/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3096
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3096?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3096
+http://10.94.156.26:5001//live/mpd/3096?q=high
 
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://img.media.jio.com/tvpimages/65/42/301971_1753202659811_l_medium.jpg" group-title="Movies",Star Gold HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/156
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/156?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/156
+http://10.94.156.26:5001//live/mpd/156?q=high
 
-#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="http://10.94.156.26:5001//jtvimage/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3097
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3097?q=high
-#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3097
+http://10.94.156.26:5001//live/mpd/3097?q=high
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="http://10.94.156.26:5001//jtvimage/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3098
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3098?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3098
+http://10.94.156.26:5001//live/mpd/3098?q=high
 
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://img.media.jio.com/tvpimages/90/90/301988_1753204122722_l_medium.jpg" group-title="Movies",Star Gold Select HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1113
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1113
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1113
+http://10.94.156.26:5001//live/mpd/1113
 #EXTINF:-1 tvg-name="Star Utsav Movies"tvg-id="1136"tvg-logo="https://img.media.jio.com/tvpimages/59/51/302000_1753204344377_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1136
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1136
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1136
+http://10.94.156.26:5001//live/mpd/1136
 #EXTINF:-1 tvg-name="Zee Action"tvg-id="488"tvg-logo="https://img.media.jio.com/tvpimages/14/88/300350_1768297937339_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Action
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -645,7 +645,7 @@ https://jmp2.uk/stvp-IN460001373
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Filmy Gaane"tvg-id="3074"tvg-logo="https://img.media.jio.com/imagespublic/36/1/301764_1721227873898_p_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Filmy Gaane
+#EXTINF:-1 tvg-name="Shemaroo Filmy Gaane"tvg-id="3074" tvg-logo="https://img.media.jio.com/imagespublic/36/1/301764_1721227873898_p_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Filmy Gaane
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
@@ -665,8 +665,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/2327
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/2327
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/2327
+http://10.94.156.26:5001//live/mpd/2327
 #EXTINF:-1 tvg-name="Aaj Tak"tvg-id="173"tvg-logo="https://img.media.jio.com/tvpimages/29/72/301036_1786690657965_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Aaj Tak
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -687,10 +687,12 @@ https://vg-republictvlive.akamaized.net/ptnr-airtelxstream/title-Republic_Bharat
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/Republic_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/Republic_TV_BTS/WDVLive/*~hmac=9564736eccb26b1404fa60ae31a875de2f6927ca416c33f87cb328cb3ce2a6e1
+
 #EXTINF:-1 tvg-name="Zee Bharat"tvg-id="652"tvg-logo="https://img.media.jio.com/tvpimages/1/97/301346_1753198891374_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Bharat
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_SANGAM_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/Zee_SANGAM_BTS/WDVLive/*~hmac=b72e84ca5ba5a225869c292dd81b8bffff80183fcdd90940dad71becfb708d72
+
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi HD"tvg-id="892"tvg-logo="https://img.media.jio.com/tvpimages/1/58/300255_1758886957880_l_medium.jpg"group-title="Sports"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 3 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -706,17 +708,9 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278&uid=8004188626
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 http://yolomax.pro/live/3Q43L4L/59R3J6J/1090636.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://51.75.127.199:3141/starsports1hindihd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -808,19 +802,19 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 #KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
 https://login.bheem.tv/bpk-tv/22602/output/index.mpd
 
-#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/CNMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
+#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="http://10.94.156.26:5001//jtvimage/CNMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3454
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3454?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3454
+http://10.94.156.26:5001//live/mpd/3454?q=high
 
-#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/CNHDMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Marathi
+#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="http://10.94.156.26:5001//jtvimage/CNHDMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/3457
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/3457?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3457
+http://10.94.156.26:5001//live/mpd/3457?q=high
 
 #EXTINF:-1 tvg-name="Cartoon Network HD+" tvg-id="22096" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD+
 #KODIPROP:inputstream=inputstream.adaptive
@@ -903,12 +897,12 @@ http://51.75.127.199:3141/disneyjunior/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://appetite-frantic-poise.ngrok-free.dev/jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="http://10.94.156.26:5001//jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1391
-https://appetite-frantic-poise.ngrok-free.dev/live/mpd/1391?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1391
+http://10.94.156.26:5001//live/mpd/1391?q=high
 
 #EXTINF:-1 tvg-id="1391" tvg-name="Hungama TV" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg" group-title="",Hungama TV
 #KODIPROP:inputstream=inputstream.adaptive
