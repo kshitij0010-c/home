@@ -319,7 +319,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/WDVLive/index.mpd?__hdnea__=st=1790381720~exp=1790403320~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=74467f1d7f811bc1ad6f4f0360a5a9866ee0495f6cff34d094acc8f8f72329ca
 
-#EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382"tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",EPIC TV
+#EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",EPIC TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/
@@ -845,12 +845,6 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/*~hmac=399589197e90ebc57042686d9b2bc23429c7e8ac8b5686303f4dfb2e21a04829
 
-#EXTINF:-1 tvg-id="1373" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://appetite-frantic-poise.ngrok-free.dev/live/key/1373
-http://10:5001/mpd/1373?q=auto
 
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
@@ -904,7 +898,7 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 http://51.75.127.199:3141/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-name="Epic Kids"tvg-id="3385"tvg-logo="https://img.media.jio.com/tvpimages/43/6/304034_1777617220424_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Kids
+#EXTINF:-1 tvg-name="Epic Kids" tvg-id="3385" tvg-logo="https://img.media.jio.com/tvpimages/43/6/304034_1777617220424_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Kids
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
