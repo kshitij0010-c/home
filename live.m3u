@@ -86,7 +86,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b19
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
-#EXTINF:-1 tvg-name="Awaaz India" tvg-id="3332" tvg-logo=""group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Awaaz India
+#EXTINF:-1 tvg-name="Awaaz India" tvg-id="3332" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Awaaz India
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
@@ -274,7 +274,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 
-#EXTINF:-1 tvg-name="DD National HD 2" tvg-id="202" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="DD Channels" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", DD National HD 2
+#EXTINF:-1 tvg-name="DD National HD" tvg-id="202" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="DD Channels" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", DD National HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
@@ -283,13 +283,6 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
-#EXTINF:-1 tvg-name="DD National HD" tvg-id="202" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD National HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8
 #EXTINF:-1 tvg-name="DD News"tvg-id="203"tvg-logo="https://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD News
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -334,17 +327,19 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ersent/HLSPartner/index.m3u8?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Shemaroo Umang"tvg-id="2078"tvg-logo="https://img.media.jio.com/imagespublic/24/84/301291_1662210047558_p_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Umang
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD"tvg-id="291"tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg"group-title="Entertainment" provider-languages="Hindi",Sony Entertainment Television HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" tvg-language="Hindi",SET HD
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
 https://sliv.tgaadi.workers.dev/sabhd.m3u8
@@ -533,13 +528,14 @@ http://10.94.156.26:5001//live/mpd/3096?q=high
 #KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/156
 http://10.94.156.26:5001//live/mpd/156?q=high
 
-#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="http://10.94.156.26:5001//jtvimage/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3097
 http://10.94.156.26:5001//live/mpd/3097?q=high
-#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="http://10.94.156.26:5001//jtvimage/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
+
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -552,12 +548,14 @@ http://10.94.156.26:5001//live/mpd/3098?q=high
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1113
 http://10.94.156.26:5001//live/mpd/1113
+
 #EXTINF:-1 tvg-name="Star Utsav Movies"tvg-id="1136"tvg-logo="https://img.media.jio.com/tvpimages/59/51/302000_1753204344377_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1136
 http://10.94.156.26:5001//live/mpd/1136
+
 #EXTINF:-1 tvg-name="Zee Action"tvg-id="488"tvg-logo="https://img.media.jio.com/tvpimages/14/88/300350_1768297937339_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Action
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -566,15 +564,18 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/varian
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=48609713d659c6e5a80a87b6c4564acd265fd5a9cc7dd19b724d1df32329c21e
+
 #EXTINF:-1 tvg-name="Zee Cinema"tvg-id="484"tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Cinema
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
 #EXTINF:-1 tvg-name="ZeeSouthflix" tvg-id="0-9-9z51072894" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" provider-languages="", ZeeSouthflix
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ZeeComedyNation" tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" "provider-languages="":http-referrer="":http-user-agent="virat",ZeeComedyNation
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
