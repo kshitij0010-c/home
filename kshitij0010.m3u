@@ -49,4 +49,13 @@ https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
 
 https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 
+#EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
+https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd?hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024
 
