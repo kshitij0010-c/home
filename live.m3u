@@ -397,7 +397,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 
-#EXTINF:-1 tvg-name="Goldmines"tvg-id="1839"tvg-logo=""group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines
+#EXTINF:-1 tvg-name="Goldmines"tvg-id=""tvg-logo=""group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
