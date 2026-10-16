@@ -9,5 +9,5 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie=ext_name=gdgnlfdenkmjcfgjpnookbglpndleahm
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin:https://hotstar.com
+#EXTVLCOPT:http-extra-headers=Origin:https://tv.hotstar.com
 https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1792148421~exp=1792149021~acl=/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/*~data=ip=BXYblQ2VLwpeQUP4Ayjwvcchsz5psjCtJtMxBq4UX3QuR6UIaN0jZzI-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=7-pl=web-ap=26.09.23.1-ut=paid-~hmac=94f5a99c50a69f25d66ff82a6bb329e31000d7671c3f5368d5614900f7d50950
