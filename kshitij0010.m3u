@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
+#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 
