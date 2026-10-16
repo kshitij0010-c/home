@@ -840,6 +840,12 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/*~hmac=399589197e90ebc57042686d9b2bc23429c7e8ac8b5686303f4dfb2e21a04829
 
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1373
+http://10.144.108.26:5001/live/mpd/1373?q=high
 
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
@@ -888,6 +894,7 @@ http://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
+
 #EXTINF:-1 tvg-name="Disney Junior"tvg-id="1374"tvg-logo="https://img.media.jio.com/tvpimages/42/95/302074_1749651921563_p.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Disney Junior
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
