@@ -847,6 +847,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1373
 http://10.144.108.26:5001/live/mpd/1373?q=high
 
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney1" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&plaYtv/7.1.5&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792182611~exp=1792204211~acl=/*~hmac=fa8db2181b946c6f6701cfe49fbbcf9eab22b54689ae7d17d1dc58a00d31a2e9
+#EXTVLCOPT:http-user-agent=Virat&plaYtv/7.1.5
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792186112~exp=1792207712~acl=/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d
+#EXTHTTP:{"User-Agent": "Virat&plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792186112~exp=1792207712~acl=/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d"}
+#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd
+
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
 #KODIPROP:inputstream=inputstream.adaptive
