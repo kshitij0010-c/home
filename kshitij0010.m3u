@@ -1,0 +1,11 @@
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+
+#EXTINF:-1,  tvg-name="Super Hungama" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg", "Super Hungama"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=ext_name=enkmjcfgjpnookbglpndleahm
+#EXTVLCOPT:http-user-agent=Virat Kohli
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://livetv.hotstar.com
