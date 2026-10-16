@@ -175,15 +175,15 @@ https://login.bheem.tv/bpk-tv/22652/output/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3444
-http://10.94.156.26:5001//live/mpd/3444
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3444
+http://10.144.108.26:5001/live/mpd/3444
 
-#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.94.156.26:5001//jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.144.108.26:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3453
-http://10.94.156.26:5001//live/mpd/3453?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3453
+http://10.144.108.26:5001/live/mpd/3453?q=high
 
 
 #EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
@@ -218,16 +218,16 @@ http://51.75.127.199:3141/natgeowild/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1332
-http://10.94.156.26:5001//live/mpd/1332
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1332
+http://10.144.108.26:5001/live/mpd/1332
 
 
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335"tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1335
-http://10.94.156.26:5001//live/mpd/1335
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1335
+http://10.144.108.26:5001/live/mpd/1335
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -253,8 +253,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3458
-http://10.94.156.26:5001//live/mpd/3458
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3458
+http://10.144.108.26:5001/live/mpd/3458
 
 #EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -442,8 +442,8 @@ http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1477
-http://10.94.156.26:5001//live/mpd/1477
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1477
+http://10.144.108.26:5001/live/mpd/1477
 
 
 
@@ -451,15 +451,15 @@ http://10.94.156.26:5001//live/mpd/1477
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1450
-http://10.94.156.26:5001//live/mpd/1450
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1450
+http://10.144.108.26:5001/live/mpd/1450
 
 
 #EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3543
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3543
 http:////10.94.156.26:5001//live/mpd/3543
 
 #EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
@@ -475,8 +475,8 @@ https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3259
-http://10.94.156.26:5001//live/mpd/3259
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3259
+http://10.144.108.26:5001/live/mpd/3259
 
 #EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2025/09/Shemaroo-Josh-Logo.webp" group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
 #EXTVLCOPT:http-user-agent=Virat
@@ -518,43 +518,43 @@ http://51.75.127.199:3141/stargold/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3096
-http://10.94.156.26:5001//live/mpd/3096?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3096
+http://10.144.108.26:5001/live/mpd/3096?q=high
 
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://img.media.jio.com/tvpimages/65/42/301971_1753202659811_l_medium.jpg" group-title="Movies",Star Gold HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/156
-http://10.94.156.26:5001//live/mpd/156?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/156
+http://10.144.108.26:5001/live/mpd/156?q=high
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3097
-http://10.94.156.26:5001//live/mpd/3097?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3097
+http://10.144.108.26:5001/live/mpd/3097?q=high
 
 #EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3098
-http://10.94.156.26:5001//live/mpd/3098?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3098
+http://10.144.108.26:5001/live/mpd/3098?q=high
 
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://img.media.jio.com/tvpimages/90/90/301988_1753204122722_l_medium.jpg" group-title="Movies",Star Gold Select HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1113
-http://10.94.156.26:5001//live/mpd/1113
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1113
+http://10.144.108.26:5001/live/mpd/1113
 
 #EXTINF:-1 tvg-name="Star Utsav Movies"tvg-id="1136"tvg-logo="https://img.media.jio.com/tvpimages/59/51/302000_1753204344377_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1136
-http://10.94.156.26:5001//live/mpd/1136
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1136
+http://10.144.108.26:5001/live/mpd/1136
 
 #EXTINF:-1 tvg-name="Zee Action"tvg-id="488"tvg-logo="https://img.media.jio.com/tvpimages/14/88/300350_1768297937339_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Action
 #EXTVLCOPT:http-user-agent=Virat
@@ -666,8 +666,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/2327
-http://10.94.156.26:5001//live/mpd/2327
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/2327
+http://10.144.108.26:5001/live/mpd/2327
 #EXTINF:-1 tvg-name="Aaj Tak"tvg-id="173"tvg-logo="https://img.media.jio.com/tvpimages/29/72/301036_1786690657965_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Aaj Tak
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -803,19 +803,19 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 #KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
 https://login.bheem.tv/bpk-tv/22602/output/index.mpd
 
-#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="http://10.94.156.26:5001//jtvimage/CNMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
+#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="http://10.144.108.26:5001/jtvimage/CNMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3454
-http://10.94.156.26:5001//live/mpd/3454?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3454
+http://10.144.108.26:5001/live/mpd/3454?q=high
 
-#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="http://10.94.156.26:5001//jtvimage/CNHDMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Marathi
+#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="http://10.144.108.26:5001/jtvimage/CNHDMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3457
-http://10.94.156.26:5001//live/mpd/3457?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3457
+http://10.144.108.26:5001/live/mpd/3457?q=high
 
 #EXTINF:-1 tvg-name="Cartoon Network HD+" tvg-id="22096" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD+
 #KODIPROP:inputstream=inputstream.adaptive
@@ -898,12 +898,12 @@ http://51.75.127.199:3141/disneyjunior/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="http://10.94.156.26:5001//jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="http://10.144.108.26:5001/jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/1391
-http://10.94.156.26:5001//live/mpd/1391?q=high
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1391
+http://10.144.108.26:5001/live/mpd/1391?q=high
 
 #EXTINF:-1 tvg-id="1391" tvg-name="Hungama TV" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg" group-title="",Hungama TV
 #KODIPROP:inputstream=inputstream.adaptive
