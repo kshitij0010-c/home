@@ -483,7 +483,7 @@ https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1
 #KODIPROP:inputstream.adaptive.license_key=http://10.94.156.26:5001//live/key/3259
 http://10.94.156.26:5001//live/mpd/3259
 
-#EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo=""group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
+#EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2025/09/Shemaroo-Josh-Logo.webp" group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
