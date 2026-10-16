@@ -854,9 +854,8 @@ http://10.144.108.26:5001/live/mpd/1373?q=high
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&plaYtv/7.1.5&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792182611~exp=1792204211~acl=/*~hmac=fa8db2181b946c6f6701cfe49fbbcf9eab22b54689ae7d17d1dc58a00d31a2e9
 #EXTVLCOPT:http-user-agent=Virat&plaYtv/7.1.5
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792186112~exp=1792207712~acl=/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d
-#EXTHTTP:{"User-Agent": "Virat&plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792186112~exp=1792207712~acl=/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d"}
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792186112~exp=1792207712~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d
+#EXTHTTP:{"User-Agent": "Virat&plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792186112~exp=1792207712~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c056b1d811c421b08660ff11996e96e7cabc3dceed5f8ebca1e4ba56bbecb59d"
 
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd
 
