@@ -32,5 +32,5 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-
+#KODIPROP:inputstream.adaptive.license_key=https://deltatesttatasky.akamaized.net/out/i/serve.key?aka_me_session_id=AAAAAAAAAAA7bNNqAAAAAFrGWixWHLTzQI+WvCgJ+cqqATBeQ0nSLN5B0DKvLRuFPcskfQHRxsRTDHluxjbTZWWoyXji54PA&aka_media_format_type=hls
 https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
