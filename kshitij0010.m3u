@@ -6,8 +6,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com&Cookie=ext_name=gdgnlfdenkmjcfgjpnookbglpndleahm
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com&Cookie=ext_name=gdgnlfdenkmjcfgjpnookbglpndleahm
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 #KODIPROP:inputstream.adaptive.license_key=https://apix.hotstar.com/v2/fetch/license?token=5glkI1k8iCgx39ZwuP6qdbGRtND4AbOrymoXlDugLbQZQzgmmubNTQMVdTY_FQC_StPM1WOxrfIEOECj2aB5S0hhB_yq-ylsQnH2tlMRNOKAmQ4kLQW5_nGRaYuGTdtL_Q8Rn1q66hC7YP5Ltos7fpIf1CLJpR--RaJL3VcO8LleVzFRaTxgbTBpcyfVa0Eez3-ThKZsX8e0jEVcX2OFMKdAreCX6lBHX_tRhsEKAygmUynLztTo2_GDmaFJlATLnpCIFuuICYgY51ph4_t-yeR1SLRtupVMjVScY3gl5mQLVNSLBkOX0ov59S2mYrnQIUVdHi5hymDeW1680Pf7WuQSJ1lurmNwNTiHQktB8co2Wzk6O9KBp2xIYL8CMj4axUBLE2dZV3Lz4EYmNwd_jprMHE4d8DUg1PORJjuP4k1GZZpWKd5efR_EYOLi1UwNsYcvxZAHwgKrA2h_ExW3HoyneECKv5E2nxaCALqcQrALrJc2iWkMfNJ29k3VAtG66jgtsaomyCXvP4dTxHdbl4TsjezWmIvACtPb9encNXMuUHqe1A==
 
 https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1792149561~exp=1792150161~acl=/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/*~data=ip=BXYblQ2VLwpeQUP4Ayjwvcchsz5psjCtJtMxBq4UX3QuR6UIaN0jZzI-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=7-pl=web-ap=26.09.23.1-ut=paid-~hmac=55fe574bc08db50818d45470c2487d827c16f67101b27905f0e5ca6b0e90558e
