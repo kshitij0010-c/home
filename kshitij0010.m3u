@@ -25,3 +25,13 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 
 
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1792152004~exp=1792173604~acl=/*~hmac=c60d33b47a176d0de15223808176b4265ca2f8b578c9e1dbb86db97d67788cbe
+
+
+#EXTINF:-1,  tvg-name="Super Hungama" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg", "Super Hungama"
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
