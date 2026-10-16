@@ -55,7 +55,7 @@ https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
 
 
