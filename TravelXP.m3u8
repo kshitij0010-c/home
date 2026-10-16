@@ -3,6 +3,6 @@
 
 
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="hin",URI="https://deltatesttatasky.akamaized.net/out/i/968284_4_1.m3u8?aka_me_session_id=AAAAAAAAAAA08rxqAAAAAMMf5nSw4ovVeNbG2eQkSnkDKxPLVS16++E9PuTgjwsjNL2wbv%2fUVTK7yhx%2f1SMHz+NXSFsUpso2&aka_media_format_type=hls"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="hin",URI="https://deltatesttatasky.akamaized.net/out/i/968284_4_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1650000,AVERAGE-BANDWIDTH=1500000,AUDIO="audio",CODECS="mp4a.40.2,hvc1.1.4.L120.90",RESOLUTION=1920x1080,FRAME-RATE=25
-https://deltatesttatasky.akamaized.net/out/i/968284_3.m3u8
+https://deltatesttatasky.akamaized.net/out/i/968284_3.m3u8https://deltatesttatasky.akamaized.net/out/i/968284_3.m3u8
