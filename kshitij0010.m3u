@@ -67,9 +67,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd?__hdnea__=st=1792152004~exp=1792173604~acl=/*~hmac=c60d33b47a176d0de15223808176b4265ca2f8b578c9e1dbb86db97d67788cbe
 
-
-https://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd?__hdnea__=st=1792152004~exp=1792173604~acl=/*~hmac=c60d33b47a176d0de15223808176b4265ca2f8b578c9e1dbb86db97d67788cbe
+https://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd
 
 
