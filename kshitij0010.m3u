@@ -102,3 +102,17 @@ https://streamflexsmm.in/Sflex-Jio/301229/manifest.mpd
 #EXTVLCOPT:http-cookie=hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024"}
 https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd
+
+
+#EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.zee5.com/&Origin=https://www.zee5.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-extra-headers=Origin:https://www.zee5.com/
+#EXTVLCOPT:http-cookie=hdntl=exp=1792302022~acl=%2fout%2fv1%2fZEE5_Live_Channels%2fZee-Action-SD%2fmaster%2f*~id=21376e5e-38bc-42b1-807e-509bfe3abe73~data=hdntl,non-ssai_21376e5e-38bc-42b1-807e-509bfe3abe73~hmac=2b1ffd331ae56218a7c526fa16c594d56d543f8612aec352ca0fe2990135bfd8
+#EXTHTTP:{"Origin":"https://www.zee5.com/","Referer":"https://www.zee5.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792302022~acl=%2fout%2fv1%2fZEE5_Live_Channels%2fZee-Action-SD%2fmaster%2f*~id=21376e5e-38bc-42b1-807e-509bfe3abe73~data=hdntl,non-ssai_21376e5e-38bc-42b1-807e-509bfe3abe73~hmac=2b1ffd331ae56218a7c526fa16c594d56d543f8612aec352ca0fe2990135bfd8"}
+#KODIPROP:inputstream.adaptive.license_key=
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/variant_5.m3u8
