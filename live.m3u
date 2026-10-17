@@ -813,6 +813,20 @@ https://login.bheem.tv/bpk-tv/22602/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Kids",Cartoon Network HD+ Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&plaYtv/7.1.5&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13
+#EXTVLCOPT:http-user-agent=Virat&plaYtv/7.1.5
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13
+#EXTHTTP:{"User-Agent": "Virat&plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13"}
+#KODIPROP:inputstream.adaptive.license_key=6d03062a210e5ca5bebe18295a7ed53f:2d5145403548d142cbe2a5f1e25b0d1f
+
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNHDHindi_MOB/WDVLive/index.mpd
+
+
 
 #EXTINF:-1 tvg-name="Pogo" tvg-id="559" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="Kids",Pogo
 #KODIPROP:inputstream=inputstream.adaptive
