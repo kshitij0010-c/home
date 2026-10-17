@@ -800,7 +800,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd
 https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd
 
 
-#EXTINF:-1 tvg-name="Hungama TV 2" tvg-id="1391" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",star gold TV 2
+#EXTINF:-1 tvg-name="Hungama TV 2" tvg-id="1391" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Hungama TV DTH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
