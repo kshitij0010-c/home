@@ -465,11 +465,11 @@ http:////10.94.156.26:5001//live/mpd/3543
 #EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jmp2.uk/stvp-IN46000140Q
+https://streamflexsmm.in/Sflex-Jio/302703/manifest.m3u8
 #EXTINF:-1 tvg-name="NH BollyGold"tvg-id="3338" tvg-logo="https://img.media.jio.com/tvpimages/72/57/302704_1756192888195_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyGold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+https://streamflexsmm.in/Sflex-Jio/302704/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Pocket Films"tvg-id="3259"tvg-logo="https://img.media.jio.com/tvpimages/42/92/301959_1744189047637_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pocket Films
 #KODIPROP:inputstream=inputstream.adaptive
@@ -482,6 +482,7 @@ http://10.144.108.26:5001/live/mpd/3259
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
+
 #EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-id="3075"tvg-logo="https://img.media.jio.com/imagespublic/45/20/301765_1721227984167_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Bollywood
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -491,6 +492,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563d1b796c608884cb2164d3f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ca96852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40dc72a1af1c56953d51b1d116cb8219b3d6c909cd438f6bf015cb93ed82d5188b9bc532ab53b1660d0c762c9bd04bb8a332de4c454443fe5806047b7ce8a79aff3c53ec25626f88344f22078577ef9a2c801a57f160ca0cecb8ed1a379fb261b2c1f99ba688d08b89c67b5207ea898199f2347c9669f7a9e8c972463e977e656ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d114cbd3e2d8af878444ca719187ecce690b0e4214128a58959f6ff020c937fd9d446f0f1b04e5b17df0abf512706e468d851ef31618b2d4c2c3fc0629c56d1e15b9358d1555229c7a3c3cd62cff9b2e65c67359d27b6ead18108445b3e979a1e98bab5675e5acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaa10c641d70c057ebc0c5e7637b69c1feceeccf4037012d6d3c298fe5e230d6cef7201312ce443522133412850fc266cf0a2a517a9dfeb24692fa3060caf75fbae16e03e5657ff2d845d15393/144/1920x1080_6046040/index.m3u8
+
 #EXTINF:-1 tvg-name="Sony MAX 2"tvg-id="2834"tvg-logo="https://img.media.jio.com/imagespublic/81/86/301559_1697790594048_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX 2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -641,7 +643,8 @@ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="NH BollyRaga"tvg-id="3343"tvg-logo="https://img.media.jio.com/tvpimages/16/34/302705_1756192946433_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyRaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jmp2.uk/stvp-IN460001373
+https://streamflexsmm.in/Sflex-Jio/302705/manifest.m3u8
+
 #EXTINF:-1 tvg-name="Sangeet Marathi"tvg-id="735"tvg-logo="https://img.media.jio.com/imagespublic/16/51/SangeetMarathi_1574695340752_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sangeet Marathi
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
