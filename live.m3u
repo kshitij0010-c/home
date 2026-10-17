@@ -440,30 +440,23 @@ https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cdn.pishow.tv/ott/live/419/master.m3u8
-#EXTINF:-1 tvg-name="Colors Cineplex"tvg-id="482"tvg-logo="https://img.media.jio.com/tvpimages/24/54/304137_1774031007540_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex
+
+#EXTINF:-1 tvg-name="Colors Cineplex Superhits" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Movies", Colors Cineplex Superhits
 #EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_BTS/WDVLive/index.mpd?__hdnea__=st=1790381723~exp=1790403323~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=396723492be0cc96847dd3a172dbca36f492c43f47c92730935ce5f5f233b092
-#EXTINF:-1 tvg-name="Colors Cineplex Bollywood"tvg-id="1763"tvg-logo="https://img.media.jio.com/imagespublic/26/56/301024_1619522311288_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1"}
+https://jcevents.hotstar.com/bpk-tv/JS_ColorsCineplexSuperhit/JioHotstar/JS_ColorsCineplexSuperhit.m3u8
+
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Movies", Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=http://51.75.127.199:3141/
-http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1"}
+https://jcevents.hotstar.com/bpk-tv/JS_ColorsCineplexBollywood/JioHotstar/JS_ColorsCineplexBollywood.m3u8
 
-#EXTINF:-1 tvg-name="Colors Cineplex HD"tvg-id="1477"tvg-logo="https://img.media.jio.com/imagespublic/2/73/301385_1701154305411_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1477
-http://10.144.108.26:5001/live/mpd/1477
-
-
-
-#EXTINF:-1 tvg-name="Colors Cineplex Superhits"tvg-id="1450" tvg-logo="https://img.media.jio.com/imagespublic/60/76/301384_1683104124385_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Cineplex Superhits
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1450
-http://10.144.108.26:5001/live/mpd/1450
 
 
 #EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
