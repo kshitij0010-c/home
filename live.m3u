@@ -265,6 +265,16 @@ http://10.144.108.26:5001/live/mpd/3458
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="TravelXP 4K" tvg-logo="https://etimg.etb2bimg.com/photo/73798234.cms", "TravelXP 4K"
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+
+https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
+
+
 #EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2948" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
