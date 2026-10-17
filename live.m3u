@@ -124,6 +124,7 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/abr_2500k.m3u8
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+
 #EXTINF:-1 tvg-name="DD India"tvg-id="528"tvg-logo="https://img.media.jio.com/imagespublic/98/23/DDIndia_1574667946262_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD India
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -133,30 +134,17 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/in
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
 #EXTINF:-1 tvg-name="&TV HD"tvg-id="472"tvg-logo="https://img.media.jio.com/tvpimages/65/85/300377_1753869832519_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",&TV HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=6d7cdffeeb31a7b067d4e49cf78aec1b6b32e1bdf9cf157cb7ab4b5b5a45bc25
-#EXTINF:-1 tvg-name="Anjan TV"tvg-id="919"tvg-logo="https://img.media.jio.com/tvpimages/87/39/304009_1757571690235_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Anjan TV
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Anjan_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1790381722~exp=1790403322~acl=/bpk-tv/Anjan_TV_BTS/WDVLive/*~hmac=2df2ef945f2a720f2c535ba30791317f1d7c3bbc5642bf09bbd4882ba601bcc2
-#EXTINF:-1 tvg-name="ZeeAction"tvg-id="473"tvg-logo="https://img.media.jio.com/tvpimages/45/13/300327_1753870425423_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",ZeeAction
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/variant_5.m3u8?hdntl=exp=1792302022~acl=%2fout%2fv1%2fZEE5_Live_Channels%2fZee-Action-SD%2fmaster%2f*~id=21376e5e-38bc-42b1-807e-509bfe3abe73~data=hdntl,non-ssai_21376e5e-38bc-42b1-807e-509bfe3abe73~hmac=2b1ffd331ae56218a7c526fa16c594d56d543f8612aec352ca0fe2990135bfd8
+
 #EXTINF:-1 tvg-name="Big Magic"tvg-id="1359"tvg-logo="https://img.media.jio.com/tvpimages/61/11/300311_1768460697282_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi",Big Magic
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 http://51.75.127.199:3141/bigmagic/index.m3u8
-#EXTINF:-1 tvg-name="Colors HD"tvg-id="144"tvg-logo="https://img.media.jio.com/imagespublic/58/36/301543_1696231655315_p_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=2b4c9382e6a6f5e3e5d8a58e5f3a1a056cac29f7ac0466738f58fe05fcf44623
-#EXTINF:-1 tvg-name="Colors Rishtey"tvg-id="279"tvg-logo="https://img.media.jio.com/imagespublic/50/8/301797_1725603118964_p_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Rishtey
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/WDVLive/index.mpd?__hdnea__=st=1790381720~exp=1790403320~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=74467f1d7f811bc1ad6f4f0360a5a9866ee0495f6cff34d094acc8f8f72329ca
+
 
 #EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",EPIC TV
 #KODIPROP:inputstream=inputstream.adaptive
