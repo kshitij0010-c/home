@@ -298,7 +298,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Anjan_TV_BTS/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-name="ZeeAction"tvg-id="473"tvg-logo="https://img.media.jio.com/tvpimages/45/13/300327_1753870425423_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",ZeeAction
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-"https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/variant_5.m3u8?hdntl=exp=1792302022~acl=%2fout%2fv1%2fZEE5_Live_Channels%2fZee-Action-SD%2fmaster%2f*~id=21376e5e-38bc-42b1-807e-509bfe3abe73~data=hdntl,non-ssai_21376e5e-38bc-42b1-807e-509bfe3abe73~hmac=2b1ffd331ae56218a7c526fa16c594d56d543f8612aec352ca0fe2990135bfd8
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/variant_5.m3u8?hdntl=exp=1792302022~acl=%2fout%2fv1%2fZEE5_Live_Channels%2fZee-Action-SD%2fmaster%2f*~id=21376e5e-38bc-42b1-807e-509bfe3abe73~data=hdntl,non-ssai_21376e5e-38bc-42b1-807e-509bfe3abe73~hmac=2b1ffd331ae56218a7c526fa16c594d56d543f8612aec352ca0fe2990135bfd8
 #EXTINF:-1 tvg-name="Big Magic"tvg-id="1359"tvg-logo="https://img.media.jio.com/tvpimages/61/11/300311_1768460697282_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi",Big Magic
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
