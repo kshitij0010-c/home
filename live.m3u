@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
 
-#EXTINF:-1 tvg-name="Colors" tvg-id="1368" tvg-logo="https://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors
+#EXTINF:-1 tvg-name="Colors Marathi HD" tvg-id="1368" tvg-logo="https://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
