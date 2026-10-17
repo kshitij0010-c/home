@@ -375,7 +375,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1792256889~exp=1792260489~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=e24b5e59ead181c311ebca8c54462af3c396c0cce874130a37789422112ff348
 #EXTHTTP:{"User-Agent": "plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "=st=1792256889~exp=1792260489~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=e24b5e59ead181c311ebca8c54462af3c396c0cce874130a37789422112ff348"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
+https://streamflexsmm.in/Sflex-Jio/302104/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
