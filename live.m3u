@@ -78,7 +78,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/maste
 
 #EXTINF:-1 tvg-id="232" tvg-name="News18 Lokmat." group-title="News" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png" tvg-category="News",News18 Lokmat.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
@@ -221,13 +220,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="main-460" tvg-name="Dangal" group-title="Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" tvg-category="Entertainment",Dangal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 #EXTINF:-1 tvg-id="main-461" tvg-name="Dangal 2" group-title="Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" tvg-category="Entertainment",Dangal 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
@@ -881,7 +878,6 @@ https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971&uid=8004188626&pass=61498d15
 
@@ -1062,7 +1058,6 @@ https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/y30-Gnt7b4qamT1s2PVDqNEFNtVeOtU9PqhekXbGFlOBufHK5x-7Pg-9UqM-QDQNATbUHMB8Ed-5I_YFaztUZOT8onrZhxICor9WdCy3cQ4Z-AoMwFQTYtXsLQ2HFrxtSka7XiAFZM31ItUSL7mcGtcmct69qjRqJgVGjy4Fp_8D9uDgWEHGbL-xAkiFTBSx0wCQyxm4h8pYmFPzIqYLnJf0ldMOgpiRcb0D5DUPCCMoyM17kJBY-4vLb2jRcC1ETBi-9cqsGTnQExJY_Kb5lQ-Qe1hWCPsCHpVC_WaKNINq2GbNg2-T3XBb3yNDwOVIaCbaherqqXdbuRdmNPxdjx3N1m2y1ntA2gIYGNqR6geNwlq9uS-OtX0cAmfwL4awvZnmvIFL03CEl7TQCktAZwsVlR2Mri2KeZMo844kKFIbEPbaTZLSkB4Rcl-KhWnRETCwz8TWjFl1mTZbEsNI7XYpIIw4ZXfgbd6fP2eGb0qmPS_0VTDPE6nsYqXpi6tWe4bfwUPtZqDgWYW4Uf8tGV0F_KN5CwscM4CgNn9FE6ly7d3O7mAaQL2nv5nuZ3hWaVkCdsSIjl2SjdImDhnHR1QJWRkUhAvFZtkUM24LzRnW7EQ0sg8vKemwLB89SJPbupWIxsAn5C2EL5yNoansBTL3_qJyuYfrvLJuWv3whH4/127/1920x1080_2790000/index.m3u8
 
@@ -1117,7 +1112,6 @@ http://10.144.108.26:5001/live/mpd/3458
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
