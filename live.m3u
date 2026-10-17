@@ -578,21 +578,21 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_SANGAM_BTS/WDVLive/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278&uid=8004188626&pass=61498d15
 
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-id="162" tvg-logo="https://img.media.jio.com/tvpimages/5/8/300256_1753198281835_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD"tvg-id="891"tvg-logo="https://img.media.jio.com/tvpimages/94/91/300273_1753198175927_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 2 HD
+
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-id="891" tvg-logo="https://img.media.jio.com/tvpimages/94/91/300273_1753198175927_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD"tvg-id="155"tvg-logo="https://img.media.jio.com/tvpimages/31/97/300258_1753198241206_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-id="155" tvg-logo="https://img.media.jio.com/tvpimages/31/97/300258_1753198241206_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d15
-
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD"tvg-id="162"tvg-logo="https://img.media.jio.com/tvpimages/5/8/300256_1753198281835_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 1 HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
 
 
