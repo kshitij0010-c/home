@@ -112,7 +112,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1792218885~raf=1792217685~acl=/videos/hotstarint/v3/1260014891/1260031491/1753693778435/52c00cab79ea700623db005b11805403~ttl=1800~type=paid~data=ip=iALAYPZ0VU3awg4hOlxFpbn7VR48yBvPdJ4WqrL3GcjUv93ztUajckM-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=episode-de=7-pl=web-ap=26.09.23.1-ut=paid-~hmac=7891dd6b24bb28f34833245f60c2efb2f2550cba1d81dd0412942454dbe9ef28
+#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntlexp=1792218885~raf=1792217685~acl=/videos/hotstarint/v3/1260014891/1260031491/1753693778435/52c00cab79ea700623db005b11805403~ttl=1800~type=paid~data=ip=iALAYPZ0VU3awg4hOlxFpbn7VR48yBvPdJ4WqrL3GcjUv93ztUajckM-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=episode-de=7-pl=web-ap=26.09.23.1-ut=paid-~hmac=7891dd6b24bb28f34833245f60c2efb2f2550cba1d81dd0412942454dbe9ef28"}
 #KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd
+https://hses8-vod-jiol.cdn.hotstar.com/videos/hotstarint/v3/1260014891/1260031491/1753693778435/52c00cab79ea700623db005b11805403/master-44db5bf509-3b0511-spd-smp-1753716803-phone.mpd?
