@@ -376,7 +376,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1792222211~exp=1792243811~acl=/*~hmac=2dae70489b7aac74084e48bbab008cc075c5eb313ab1f87dee25fa014d56b568
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13"}
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792222211~exp=1792243811~acl=/*~hmac=2dae70489b7aac74084e48bbab008cc075c5eb313ab1f87dee25fa014d56b568"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
