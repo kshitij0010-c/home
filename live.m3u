@@ -372,12 +372,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792224491~exp=1792228091~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=8a4515c83d117a80787d2454419a3313bb6b192f84cc7a935ae67cd386133ee5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792222211~exp=1792243811~acl=/*~hmac=2dae70489b7aac74084e48bbab008cc075c5eb313ab1f87dee25fa014d56b568
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792222211~exp=1792243811~acl=/*~hmac=2dae70489b7aac74084e48bbab008cc075c5eb313ab1f87dee25fa014d56b568"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792224491~exp=1792228091~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=8a4515c83d117a80787d2454419a3313bb6b192f84cc7a935ae67cd386133ee5
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792224491~exp=1792228091~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=8a4515c83d117a80787d2454419a3313bb6b192f84cc7a935ae67cd386133ee5"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
 #KODIPROP:inputstream=inputstream.adaptive
