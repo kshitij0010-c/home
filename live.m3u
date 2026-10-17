@@ -655,21 +655,35 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626
 
 
 
-#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD ST" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD ST
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
-http://yolomax.pro/live/3Q43L4L/59R3J6J/1090636.m3u8
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin:https://tv.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
+
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
 
 
-#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD DG" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD DG
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-http://yolomax.pro/live/3Q43L4L/59R3J6J/1404529.m3u8
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin:https://tv.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd
+
 
 #EXTINF:-1 tvg-name="Star Sports 2 Hindi HD Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg" group-title="Sports", Star Sports 2 HD Hindi Digital
 #KODIPROP:inputstream=inputstream.adaptive
