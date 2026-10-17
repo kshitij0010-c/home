@@ -835,11 +835,22 @@ https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-name="Super star gold"tvg-id="1392"tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Super star gold
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer
-http://51.75.127.199:3141/superstar gold/index.m3u8
 
-#EXTINF:-1 tvg-name="Super star gold"tvg-id="1392"tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Super Hungama
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&plaYtv/7.1.5&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13
+#EXTVLCOPT:http-user-agent=Virat&plaYtv/7.1.5
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13
+#EXTHTTP:{"User-Agent": "Virat&plaYtv/7.1.5", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792220403~exp=1792242003~acl=/*~hmac=0be29bbf241a3be4543d97a448bf404142912945f93116617b2071efa19c0c13"}
+#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
+
+https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
+
+
+#EXTINF:-1 tvg-name="Super Hungama"tvg-id="1392"tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Super Hungama
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
