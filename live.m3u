@@ -118,140 +118,7 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/abr_2500k.m3u8
 
 
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="566"tvg-logo="https://img.media.jio.com/imagespublic/49/89/301580_1707144273649_p_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.270 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-http://yolomax.pro:80/live/3Q43L4L/59R3J6J/72168.m3u8
 
-#EXTINF:-1 tvg-chno="805" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
-
-#EXTINF:-1 tvg-name="Discovery Science" tvg-id="2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
-#KODIPROP:mimetype=application/dash+xml
-https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
-
-#EXTINF:-1 tvg-name="Discovery SD" tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Tamil Infotainment",Discovery Tamil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
-#KODIPROP:mimetype=application/dash+xml
-https://login.bheem.tv/bpk-tv/22652/output/index.mpd
-
-
-#EXTINF:-1 tvg-name="Discovery HD" tvg-id="3444"tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment"provider-languages="Hindi,English", Discovery HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3444
-http://10.144.108.26:5001/live/mpd/3444
-
-#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.144.108.26:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3453
-http://10.144.108.26:5001/live/mpd/3453?q=high
-
-
-#EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
-
-#EXTINF:-1 tvg-name="History TV18 HD NW18-2"tvg-id="146"tvg-logo="https://img.media.jio.com/tvpimages/73/77/300210_1752672874647_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 HD NW18-2
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/History_TV18_Hindi_NW18_MOB-audio_98836_hin=98800-video=2293600.m3u8?hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
-#EXTINF:-1 tvg-name="History TV18 HD Hindi"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 Hindi NW18-2
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
-
-
-#EXTINF:-1 tvg-name="History TV18 HD Hindi SG"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", History TV18 HD Hindi SG
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/y30-Gnt7b4qamT1s2PVDqNEFNtVeOtU9PqhekXbGFlOBufHK5x-7Pg-9UqM-QDQNATbUHMB8Ed-5I_YFaztUZOT8onrZhxICor9WdCy3cQ4Z-AoMwFQTYtXsLQ2HFrxtSka7XiAFZM31ItUSL7mcGtcmct69qjRqJgVGjy4Fp_8D9uDgWEHGbL-xAkiFTBSx0wCQyxm4h8pYmFPzIqYLnJf0ldMOgpiRcb0D5DUPCCMoyM17kJBY-4vLb2jRcC1ETBi-9cqsGTnQExJY_Kb5lQ-Qe1hWCPsCHpVC_WaKNINq2GbNg2-T3XBb3yNDwOVIaCbaherqqXdbuRdmNPxdjx3N1m2y1ntA2gIYGNqR6geNwlq9uS-OtX0cAmfwL4awvZnmvIFL03CEl7TQCktAZwsVlR2Mri2KeZMo844kKFIbEPbaTZLSkB4Rcl-KhWnRETCwz8TWjFl1mTZbEsNI7XYpIIw4ZXfgbd6fP2eGb0qmPS_0VTDPE6nsYqXpi6tWe4bfwUPtZqDgWYW4Uf8tGV0F_KN5CwscM4CgNn9FE6ly7d3O7mAaQL2nv5nuZ3hWaVkCdsSIjl2SjdImDhnHR1QJWRkUhAvFZtkUM24LzRnW7EQ0sg8vKemwLB89SJPbupWIxsAn5C2EL5yNoansBTL3_qJyuYfrvLJuWv3whH4/127/1920x1080_2790000/index.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="1404"tvg-logo="https://img.media.jio.com/tvpimages/26/44/302105_1753203522241_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-http://51.75.127.199:3141/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild HD"tvg-id="1332"tvg-logo="https://img.media.jio.com/tvpimages/45/25/302089_1753203724962_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nat Geo Wild HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1332
-http://10.144.108.26:5001/live/mpd/1332
-
-
-#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335"tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1335
-http://10.144.108.26:5001/live/mpd/1335
-
-#EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252&uid=8004188626&pass=61498d15
-
-#EXTINF:-1 tvg-name="Food Food"tvg-id="561"tvg-logo="https://img.media.jio.com/imagespublic/87/41/301416_1685007957318_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food Food
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/267/master.m3u8
-#EXTINF:-1 tvg-name="Food XP"tvg-id="1955"tvg-logo="https://img.media.jio.com/imagespublic/22/77/301205_1646815947468_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food XP
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=ab02d96ee5fa736029f3240f5773d4211f172ae8c839cee6b46347dd6960a36d
-
-https://jiotvpllive.cdn.jio.com/bpk-tv/Luxe_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/Luxe_TV_BTS/WDVLive/*~hmac=73854e9f27c34a5ab488429948ea7271c77e7977257b1d762bdf8a2adda6ed26
-#EXTINF:-1 tvg-name="NDTV GOOD TiMES"tvg-id="560"tvg-logo="https://img.media.jio.com/imagespublic/12/70/301051_1625144833632_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NDTV GOOD TiMES
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=8f42bca9b7023d30fc8abf1c17f1014937dd659ba2cdd0702e7353dc1632c1f3
-#EXTINF:-1 tvg-name="TLC HD"tvg-id="3458"tvg-logo="https://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",TLC HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3458
-http://10.144.108.26:5001/live/mpd/3458
-
-#EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000:0000
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="TravelXP 4K" tvg-logo="https://etimg.etb2bimg.com/photo/73798234.cms", "TravelXP 4K"
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-
-
-https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
-
-
-#EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2948" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=10212645a53a1ee83ad805f010b79f68cdccbc6dae524d723768273a23ef512f
-#EXTINF:-1 tvg-name="DD bharati"tvg-id="580"tvg-logo="https://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD bharati
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 
 #EXTINF:-1 tvg-name="DD National HD" tvg-id="202" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="DD Channels" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", DD National HD
 #EXTVLCOPT:http-user-agent=Virat
@@ -1025,7 +892,142 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8?__hdnea__=s
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-name="Animal Planet"tvg-id="566"tvg-logo="https://img.media.jio.com/imagespublic/49/89/301580_1707144273649_p_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.270 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+http://yolomax.pro:80/live/3Q43L4L/59R3J6J/72168.m3u8
 
+#EXTINF:-1 tvg-chno="805" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
+#KODIPROP:mimetype=application/dash+xml
+https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
+
+#EXTINF:-1 tvg-name="Discovery SD" tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Tamil Infotainment",Discovery Tamil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
+#KODIPROP:mimetype=application/dash+xml
+https://login.bheem.tv/bpk-tv/22652/output/index.mpd
+
+
+#EXTINF:-1 tvg-name="Discovery HD" tvg-id="3444"tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment"provider-languages="Hindi,English", Discovery HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3444
+http://10.144.108.26:5001/live/mpd/3444
+
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.144.108.26:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3453
+http://10.144.108.26:5001/live/mpd/3453?q=high
+
+
+#EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
+
+#EXTINF:-1 tvg-name="History TV18 HD NW18-2"tvg-id="146"tvg-logo="https://img.media.jio.com/tvpimages/73/77/300210_1752672874647_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 HD NW18-2
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/History_TV18_Hindi_NW18_MOB-audio_98836_hin=98800-video=2293600.m3u8?hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
+#EXTINF:-1 tvg-name="History TV18 HD Hindi"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 Hindi NW18-2
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
+
+
+#EXTINF:-1 tvg-name="History TV18 HD Hindi SG"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", History TV18 HD Hindi SG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/y30-Gnt7b4qamT1s2PVDqNEFNtVeOtU9PqhekXbGFlOBufHK5x-7Pg-9UqM-QDQNATbUHMB8Ed-5I_YFaztUZOT8onrZhxICor9WdCy3cQ4Z-AoMwFQTYtXsLQ2HFrxtSka7XiAFZM31ItUSL7mcGtcmct69qjRqJgVGjy4Fp_8D9uDgWEHGbL-xAkiFTBSx0wCQyxm4h8pYmFPzIqYLnJf0ldMOgpiRcb0D5DUPCCMoyM17kJBY-4vLb2jRcC1ETBi-9cqsGTnQExJY_Kb5lQ-Qe1hWCPsCHpVC_WaKNINq2GbNg2-T3XBb3yNDwOVIaCbaherqqXdbuRdmNPxdjx3N1m2y1ntA2gIYGNqR6geNwlq9uS-OtX0cAmfwL4awvZnmvIFL03CEl7TQCktAZwsVlR2Mri2KeZMo844kKFIbEPbaTZLSkB4Rcl-KhWnRETCwz8TWjFl1mTZbEsNI7XYpIIw4ZXfgbd6fP2eGb0qmPS_0VTDPE6nsYqXpi6tWe4bfwUPtZqDgWYW4Uf8tGV0F_KN5CwscM4CgNn9FE6ly7d3O7mAaQL2nv5nuZ3hWaVkCdsSIjl2SjdImDhnHR1QJWRkUhAvFZtkUM24LzRnW7EQ0sg8vKemwLB89SJPbupWIxsAn5C2EL5yNoansBTL3_qJyuYfrvLJuWv3whH4/127/1920x1080_2790000/index.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="1404"tvg-logo="https://img.media.jio.com/tvpimages/26/44/302105_1753203522241_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+http://51.75.127.199:3141/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild HD"tvg-id="1332"tvg-logo="https://img.media.jio.com/tvpimages/45/25/302089_1753203724962_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nat Geo Wild HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1332
+http://10.144.108.26:5001/live/mpd/1332
+
+
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335"tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1335
+http://10.144.108.26:5001/live/mpd/1335
+
+#EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252&uid=8004188626&pass=61498d15
+
+#EXTINF:-1 tvg-name="Food Food"tvg-id="561"tvg-logo="https://img.media.jio.com/imagespublic/87/41/301416_1685007957318_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food Food
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn.pishow.tv/ott/live/267/master.m3u8
+
+#EXTINF:-1 tvg-name="Food XP"tvg-id="1955"tvg-logo="https://img.media.jio.com/imagespublic/22/77/301205_1646815947468_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food XP
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=ab02d96ee5fa736029f3240f5773d4211f172ae8c839cee6b46347dd6960a36d
+
+#EXTINF:-1 tvg-name="NDTV GOOD TiMES"tvg-id="560"tvg-logo="https://img.media.jio.com/imagespublic/12/70/301051_1625144833632_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NDTV GOOD TiMES
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=8f42bca9b7023d30fc8abf1c17f1014937dd659ba2cdd0702e7353dc1632c1f3
+
+#EXTINF:-1 tvg-name="TLC HD"tvg-id="3458"tvg-logo="https://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",TLC HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3458
+http://10.144.108.26:5001/live/mpd/3458
+
+#EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="TravelXP 4K" tvg-logo="https://etimg.etb2bimg.com/photo/73798234.cms", "TravelXP 4K"
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+
+https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
+
+
+#EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2948" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=10212645a53a1ee83ad805f010b79f68cdccbc6dae524d723768273a23ef512f
+
+#EXTINF:-1 tvg-name="DD bharati"tvg-id="580"tvg-logo="https://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD bharati
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Vividh Bharti"tvg-id="162"tvg-logo="https://dt89je83l7epy.cloudfront.net/images/vividh-bharati.jpg"group-title="music"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Vividh Bharati
