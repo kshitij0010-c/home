@@ -191,17 +191,17 @@ http://10.144.108.26:5001/live/mpd/3453?q=high
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
-#EXTINF:-1 tvg-name="History TV18 fixed HD"tvg-id="146"tvg-logo="https://img.media.jio.com/tvpimages/73/77/300210_1752672874647_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 HD
+#EXTINF:-1 tvg-name="History TV18 HD NW18-2"tvg-id="146"tvg-logo="https://img.media.jio.com/tvpimages/73/77/300210_1752672874647_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 HD NW18-2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/History_TV18_Hindi_NW18_MOB-audio_98836_hin=98800-video=2293600.m3u8?hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
-#EXTINF:-1 tvg-name="History TV18 HD Hindi"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 HD Hindi
+#EXTINF:-1 tvg-name="History TV18 HD Hindi"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",History TV18 Hindi NW18-2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 
-#EXTINF:-1 tvg-name="History TV18 1080HD Hindi"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", History TV18 1080HD Hindi
+#EXTINF:-1 tvg-name="History TV18 HD Hindi SG"tvg-id="578"tvg-logo="https://img.media.jio.com/tvpimages/91/27/301052_1752674989728_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", History TV18 HD Hindi SG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
