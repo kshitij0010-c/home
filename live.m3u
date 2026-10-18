@@ -865,13 +865,24 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNHDHindi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
-#EXTINF:-1 tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids", Sonic
+#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids", Sonic
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
 https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8
+
+#EXTINF:-1 tvg-name="Sonic DG" tvg-id="815" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids", Sonic DG
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+#KODIPROP:inputstream.adaptive.license_key=3d939611fa2e489bb4a7b58d10c10000:1fba40d5aa564f079c8c7e378ccb3019
+https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066328a/index.mpd
+
+
 
 #EXTINF:-1 tvg-name="Sony YAY" tvg-id="872" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony YAY
 #KODIPROP:inputstream=inputstream.adaptive
@@ -901,7 +912,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 
-#EXTINF:-1 tvg-name="GreenGold Tv"tvg-id=""tvg-logo=""group-title="Kids"provider-languages="" , GreenGold Tv
+#EXTINF:-1 tvg-name="GreenGold Tv"tvg-id=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids" provider-languages="Hindi" , GreenGold Tv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
