@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="487" tvg-name="Disney" tvg-logo="" ,Disney
+#EXTINF:-1 tvg-id="" tvg-name="Dk" tvg-logo="" ,Dk
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
