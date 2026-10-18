@@ -11,8 +11,21 @@ https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575
 
 #EXTINF:-1 tvg-name="BigBoss" tvg-id="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="", BigBoss
 #EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
-https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271716364/1792209122401/52c00cab79ea700623db005b11805403/master-56d832b32a-a039c9-spd-smp-1792298597-tv.mpd
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com
+#EXTVLCOPT:http-extra-headers=Origin: https://www.sonyliv.com
+#EXTVLCOPT:http-cookie=hdnea=exp=1792339002~acl=/*~id=696ce4823c4f42678875719d75b53e97-1790582360534-0198c62f387f7af1ae380d54212b0aa5~hmac=10bfab72a62287a964b0a4ce1fc678975049c03a2d9b03396f203977e7868624
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Virat","Cookie":"hdnea=exp=1792339002~acl=/*~id=696ce4823c4f42678875719d75b53e97-1790582360534-0198c62f387f7af1ae380d54212b0aa5~hmac=10bfab72a62287a964b0a4ce1fc678975049c03a2d9b03396f203977e7868624"}
+
+https://liveakmt-p-md.slivcdn.com/hls/live/20000094/cricodi_1810/ENG/hdntl=exp=1792403808~acl=%2f*~id=696ce4823c4f42678875719d75b53e97-1790582360534-0198c62f387f7af1ae380d54212b0aa5~data=hdntl,20000094,cricodi_1810,ENG~hmac=da82b8d3c841cb4e80af9ccd8a5b105591c8c1626e744083b12fca6106cf147e/std_mdd-600300010_480_552000.m3u8
+
+#EXTINF:-1 tvg-name="BigBoss" tvg-id="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="", BigBoss
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com
+#EXTVLCOPT:http-extra-headers=Origin: https://www.sonyliv.com
+#EXTVLCOPT:http-cookie=hdnea=exp=1792339002~acl=/*~id=696ce4823c4f42678875719d75b53e97-1790582360534-0198c62f387f7af1ae380d54212b0aa5~hmac=10bfab72a62287a964b0a4ce1fc678975049c03a2d9b03396f203977e7868624
+#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Virat","Cookie":"hdnea=exp=1792339002~acl=/*~id=696ce4823c4f42678875719d75b53e97-1790582360534-0198c62f387f7af1ae380d54212b0aa5~hmac=10bfab72a62287a964b0a4ce1fc678975049c03a2d9b03396f203977e7868624"}
+
+https://liveakmt-p-md.slivcdn.com/hls/live/20000094/cricodi_1810/ENG/std_mdd-600300010.m3u8
+
+
+
