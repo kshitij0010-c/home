@@ -1032,8 +1032,20 @@ https://livetv.hotstar.com/mp2/gec-india-1540068253/6e383b1fb53c42d0a49ed6adfaf4
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4"}
 https://jcevents.hotstar.com/bpk-tv/JS_NickSD/JioHotstar/JS_NickSD.m3u8
 
+#EXTINF:-1 tvg-name="Nick Plus DG" tvg-id="1226" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" group-title="Kids", Nick Plus Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4"}
+#KODIPROP:inputstream.adaptive.license_key=8446d54c24f549ba9c9323836a060000:db25bb59ba41470e82e4728f46781954
+https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad698c2/index.mpd
 
-#EXTINF:-1 tvg-name="Nick HD+"tvg-id="1226"tvg-logo="https://img.media.jio.com/imagespublic/60/86/301550_1696234715611_p_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick HD+
+
+#EXTINF:-1 tvg-name="Nick HD+"tvg-id="1226" tvg-logo="https://img.media.jio.com/imagespublic/60/86/301550_1696234715611_p_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick HD+
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/Nick_HD_Plus_BTS/WDVLive/*~hmac=f081336dd84e403dc49ffbcd45865bf57c5dad0418f33b76c0ab8b6a7e92478a
