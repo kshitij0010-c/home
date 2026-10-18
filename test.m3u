@@ -10,3 +10,12 @@
 #EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index.m3u8
+
+
+#EXTINF:-1 tvg-name="BigBoss" tvg-id="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="", BigBoss
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index.m3u8
