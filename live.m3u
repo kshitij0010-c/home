@@ -1008,10 +1008,30 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1 tvg-name="Nick"tvg-id="545"tvg-logo="https://img.media.jio.com/tvpimages/77/20/304139_1774031339760_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick
+#EXTINF:-1 tvg-name="Nick DG"tvg-id="545"tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick DG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1790381723~exp=1790403323~acl=/bpk-tv/Nick_Hindi_BTS/WDVLive/*~hmac=d49108f550a312d2baf7a73027d0f89dadfe087c7e48fb005b9177a74f3c8e58
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+#KODIPROP:inputstream.adaptive.license_key=b0a76fc24ad548c5b92fb4eebfe90000:f7c8dc574a6e4937ab2c15e8ae2acedb
+https://livetv.hotstar.com/mp2/gec-india-1540068253/6e383b1fb53c42d0a49ed6adfaf41082/index.mpd
+
+#EXTINF:-1 tvg-name="Nick VT"tvg-id="545" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick VT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792317554~acl=%2f*~id=f8b233c9d1f97b8629f47cfe1ca7519a~data=hdntl~hmac=89c1c0933a904d6ee56883ebe713f645118f1be015626921a2f9796151d2ad90"}
+https://jcevents.hotstar.com/bpk-tv/JS_NickSD/JioHotstar/JS_NickSD.m3u8
+
 
 #EXTINF:-1 tvg-name="Nick HD+"tvg-id="1226"tvg-logo="https://img.media.jio.com/imagespublic/60/86/301550_1696234715611_p_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nick HD+
 #EXTVLCOPT:http-user-agent=Virat
