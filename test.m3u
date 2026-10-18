@@ -17,20 +17,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 
 
-#EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
+#EXTINF:-1 tvg-id="1668" tvg-name="And Xplor HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="Movies",And Xplor HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792256290~exp=1792259890~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=8ae05719298eae337009db6690de965473ddcf574ad40c46e4491a5c2b1bfc2a
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"__hdnea__=st=1792256290~exp=1792259890~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=8ae05719298eae337009db6690de965473ddcf574ad40c46e4491a5c2b1bfc2a"}
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-
-
-
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1792256290~exp=1792259890~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=8ae05719298eae337009db6690de965473ddcf574ad40c46e4491a5c2b1bfc2a
+#EXTHTTP:{"cookie": "__hdnea__=st=1790930500~exp=1790934100~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=2cf865b82d9083fdb51a1540667304406f0d0d821c79fec5398668bb533b4dea"}
+#EXTVLCOPT:http-user-agent=Sayan10
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
