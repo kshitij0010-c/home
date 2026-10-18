@@ -6,10 +6,10 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f,a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792286413~exp=1792308013~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=4c66fbc1cf57bac166dd4cc283f6a615a5743ce1cd92e4aac39c541175fd1243
+#KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792299492~exp=1792303092~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=624d6f85d42e74b63d17585984917622d305e89cba2a9ff84ea96c11a26d8281
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792286413~exp=1792308013~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=4c66fbc1cf57bac166dd4cc283f6a615a5743ce1cd92e4aac39c541175fd1243
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792286413~exp=1792308013~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=4c66fbc1cf57bac166dd4cc283f6a615a5743ce1cd92e4aac39c541175fd1243"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792299492~exp=1792303092~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=624d6f85d42e74b63d17585984917622d305e89cba2a9ff84ea96c11a26d8281
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792299492~exp=1792303092~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=624d6f85d42e74b63d17585984917622d305e89cba2a9ff84ea96c11a26d8281"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
