@@ -857,7 +857,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792490706~acl=%2f*~id=7a75856818f67711ffbc26122b7e71d4~data=hdntl~hmac=b503c1341569446d42ffe259fff1eafae354a6fc76bd7e65ff9fd2f9d36d5312"}
 https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8
 
-#EXTINF:-1 tvg-name="Sonic DG" tvg-id="815" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids", Sonic DG
+#EXTINF:-1 tvg-name="Sonic DG" tvg-id="815" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="Kids", Sonic DG
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
@@ -907,19 +907,19 @@ https://livetv.hotstar.com/mp1/gec-india-1540075047/feca5fc6c1234205b01efe48d12d
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 
-#EXTINF:-1 tvg-name="GreenGold Tv"tvg-id=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids" provider-languages="Hindi" , GreenGold Tv
+#EXTINF:-1 tvg-name="GreenGold TV" tvg-id="3467"tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids" provider-languages="Hindi" , GreenGold TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 https://greengold.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
 
-#EXTINF:-1 tvg-name="POP UP" tvg-id="0-9-9z5910527" tvg-logo=""group-title="Zee5"provider-languages="", POP UP
+#EXTINF:-1 tvg-name="POP UP" tvg-id="" tvg-logo=""group-title="Kids" provider-languages="English", POP UP
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mr. Bean"tvg-id="3535"tvg-logo="https://img.media.jio.com/tvpimages/73/8/304150_1777299270523_l_medium.jpg"group-title="Kids"provider-languages="English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Mr. Bean
+#EXTINF:-1 tvg-name="Mr. Bean"tvg-id="3535"tvg-logo="https://img.media.jio.com/tvpimages/73/8/304150_1777299270523_l_medium.jpg" group-title="Kids"provider-languages="English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Mr. Bean
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://streamflexsmm.in/Sflex-Jio/304150/manifest.m3u8
@@ -1056,7 +1056,7 @@ https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 #EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="Infotainment",Discovery Science Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
+#KODIPROP:inputstream.adaptive.license_key=924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3453
