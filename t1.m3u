@@ -39,9 +39,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4
 #EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4"}
-#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/master.mpd
-
+https://hses3-vod-jiol.cdn.hotstar.com/videos/disney/episode1/1260019030/1580636240261/f03fe89459de1fb06e1f7a2390b1edc3/master-tv-1.mpd?hdnea=exp=1792400903~acl=/videos/disney/episode1/1260019030~ttl=1800~type=paid~data=ip=I9CS8bNweEsnKKY6Q6aYWJpOPCqRMWizTzyRemtptfqy0XS9rvxu63c-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=episode-de=7-pl=web-ap=24.08.19.0-ut=paid-~hmac=a51c3f18498e006677fdb2036fbc509ab98ce9b0c5d700f4cd860154707dc771
 
 
 
