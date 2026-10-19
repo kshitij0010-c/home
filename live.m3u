@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url="https://streamflexsmm.in/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kshitij0010-c/home/refs/heads/main/m.xml.gz"
 
 
 #EXTINF:-1 tvg-name="DD Sahayadri" tvg-id="695" tvg-logo="https://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg"group-title="DD Channels"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD Sahayadri
