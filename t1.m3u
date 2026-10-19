@@ -30,6 +30,18 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/master-04f02a3394-1754556014160.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-name="d" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",dz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com
+#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4
+#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4"}
+#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
+https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/master.mpd
+
 
 
 
