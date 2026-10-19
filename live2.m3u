@@ -1173,17 +1173,20 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__
 
 
 
-#EXTINF:-1 tvg-name="Vividh Bharti"tvg-id="162"tvg-logo="https://dt89je83l7epy.cloudfront.net/images/vividh-bharati.jpg"group-title="music"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Vividh Bharati
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://d3hrxqn1tritdh.cloudfront.net/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Pushpa" tvg-id="162"tvg-logo="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pushpa:The Rise
+
+#EXTINF:-1 tvg-name="Pushpa" tvg-id="" tvg-logo="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pushpa:The Rise
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3sgzbosmwirao.cloudfront.net/video/0ec962650fcd8f71169027acfd1508efdfc6aec02638b4de4ad5a30d4bfcfece/1/hls/h264_high.m3u8
+
+
+#EXTINF:-1 tvg-name="Jailer" tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e26182d80c17419d293dbc7b4b52bd6718393c4ccb57c440ae313248d371e4bc.jpg" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", Rajni The Jailer
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://d3sgzbosmwirao.cloudfront.net/video/d213b64bb52693c294545ff1fba4e2a385935f03037ca3c6159747c89003786c/3/hls/h264_high.m3u8
 
 
 #EXTINF:-1 tvg-name="Re:Zero"tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" group-title="Re:Zero|Starting Life in Another World" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", Episode - 1
