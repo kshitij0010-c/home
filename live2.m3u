@@ -124,6 +124,11 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/abr_2500k.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
+#EXTINF:-1 tvg-name="DD Bharati"tvg-id="580"tvg-logo="https://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD bharati
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
+
 #EXTINF:-1 tvg-name="DD India"tvg-id="528"tvg-logo="https://img.media.jio.com/imagespublic/98/23/DDIndia_1574667946262_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD India
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -849,7 +854,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3436
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
-#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Kids", Sonic
+#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
@@ -1028,18 +1033,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0&Referer=http://152.233.35.240/
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ZB Cartoon"tvg-id="3321"tvg-logo="https://img.media.jio.com/tvpimages/95/12/302145_1753190992618_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",ZB Cartoon
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8?__hdnea__=st=1789663529~exp=1789685129~acl=/bpk-tv/zbcatun/HLSPartner/*~hmac=49c9eda9956d00703f9172f752ff59b26053e6c32339cd0943a648063dbb9d23
-
-#EXTINF:-1 tvg-name="Wow kids"tvg-id="1252"tvg-logo="https://img.media.jio.com/imagespublic/45/7/301199_1646295176396_p_medium.jpg"group-title="Newly Launched"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Wow kids
+#EXTINF:-1 tvg-name="Wow kids"tvg-id=""tvg-logo="https://img.media.jio.com/imagespublic/45/7/301199_1646295176396_p_medium.jpg"group-title="Newly Launched"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Wow kids
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
-#EXTINF:-1 tvg-id="3451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
+#EXTINF:-1 tvg-id="3451" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin1.png" group-title="Infotainment",Animal Planet HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
@@ -1069,13 +1069,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3453
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3444
-
-#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.144.108.26:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3453
-http://10.144.108.26:5001/live/mpd/3453?q=high
 
 
 #EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
@@ -1117,15 +1110,15 @@ https://livetv.hotstar.com/mp2/gec-india-1540075050/4249b1f5294741fe9b93bb703122
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1332
-http://10.144.108.26:5001/live/mpd/1332
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1332
 
 
-#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335"tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335" tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1335
-http://10.144.108.26:5001/live/mpd/1335
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1153,7 +1146,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3458
-http://10.144.108.26:5001/live/mpd/3458
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3458
 
 #EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1178,10 +1171,6 @@ https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=10212645a53a1ee83ad805f010b79f68cdccbc6dae524d723768273a23ef512f
 
-#EXTINF:-1 tvg-name="DD bharati"tvg-id="580"tvg-logo="https://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",DD bharati
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Vividh Bharti"tvg-id="162"tvg-logo="https://dt89je83l7epy.cloudfront.net/images/vividh-bharati.jpg"group-title="music"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Vividh Bharati
@@ -1191,13 +1180,13 @@ https://d3hrxqn1tritdh.cloudfront.net/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Pushpa"tvg-id="162"tvg-logo="https://dt89je83l7epy.cloudfront.net/images/vividh-bharati.jpg"group-title="music"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pushpa
+#EXTINF:-1 tvg-name="Pushpa" tvg-id="162"tvg-logo="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pushpa:The Rise
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3sgzbosmwirao.cloudfront.net/video/0ec962650fcd8f71169027acfd1508efdfc6aec02638b4de4ad5a30d4bfcfece/1/hls/h264_high.m3u8
 
 
-#EXTINF:-1 tvg-name="star gold"tvg-id="162"tvg-logo="https://dt89je83l7epy.cloudfront.net/images/vividh-bharati.jpg"group-title="movies"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",star gold
+#EXTINF:-1 tvg-name="Re:Zero"tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" group-title="Re:Zero|Starting Life in Another World" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat", Episode - 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
