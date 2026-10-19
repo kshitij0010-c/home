@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="CustomEPG" generator-info-url="https://github.com/kshitij0010-c/home/new/main/m.xml.gz">
+<tv generator-info-name="CustomEPG" generator-info-url="https://raw.githubusercontent.com/kshitij0010-c/home/refs/heads/main/m.xml.gz">
 
   <!-- 1. Channel Definitions Go Here -->
   <channel id="K01">
