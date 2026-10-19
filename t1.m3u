@@ -24,11 +24,9 @@ https://streamflexsmm.in/Sflex-Jio/301140/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com
 #EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1792490706~acl=%2f*~id=7a75856818f67711ffbc26122b7e71d4~data=hdntl~hmac=b503c1341569446d42ffe259fff1eafae354a6fc76bd7e65ff9fd2f9d36d5312
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792490706~acl=%2f*~id=7a75856818f67711ffbc26122b7e71d4~data=hdntl~hmac=b503c1341569446d42ffe259fff1eafae354a6fc76bd7e65ff9fd2f9d36d5312"}
-#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/master-04f02a3394-1754556014160.mpd
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
 
+https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652473/1791876219923/52c00cab79ea700623db005b11805403/master-15dca5f176-a03004-mpd-smp-1791914425-tv.mpd?hdnea=exp=1792410893~acl=/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652473/1791876219923/52c00cab79ea700623db005b11805403~ttl=1800~type=paid~data=ip=I9CS8bNweEsnKKY6Q6aYWJpOPCqRMWizTzyRemtptfqy0XS9rvxu63c-userid=2MP58Ez4Z2RZdVUHE7h4G9mylT7hkkurbKNkDXl9ybK4-did=DR8rpOIbJx93U9ZPTOhsOgyscmbXfGVyvXbhKvKwehwD-cc=in-bl=jhs-sp=HotstarSuper-ctype=episode-de=2-pl=web-ap=26.10.05.0-ut=paid-~hmac=7e3705be71aa1171af14d562c3761c578724e000a55d3b8326e79929eec9e8cb
 
 #EXTINF:-1 tvg-id="" tvg-name="d" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",dz
 #KODIPROP:inputstream=inputstream.adaptive
