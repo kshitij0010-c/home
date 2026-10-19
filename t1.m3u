@@ -26,7 +26,9 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4
 #EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792406858~acl=%2f*~id=63f50443d05a15310f374cf8c00ceaef~data=hdntl~hmac=d9a60105520309539471bdba1a648311ab080183e95b798db5aab9bcc659c2b4"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?aws.manifestfilter=video_height:0-2160
+#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
+https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/master-04f02a3394-1754556014160.mpd
+
 
 
 
