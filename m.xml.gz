@@ -3,13 +3,13 @@
 <tv generator-info-name="CustomEPG" generator-info-url="https://github.com/kshitij0010-c/home/new/main/m.xml.gz">
 
   <!-- 1. Channel Definitions Go Here -->
-  <channel id="01">
+  <channel id="K01">
     <display-name>Pushpa:The Rise</display-name>
     <icon src="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" />
   </channel>
 
   <!-- 2. Programme Schedules Go Here -->
-  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="01" catchup-id="26102001001">
+  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="K01" catchup-id="26102001001">
     <title>Pushpa:The Rise</title>
     <desc>A fearless daily-wage worker rises through the ranks of a dangerous red sandalwood smuggling syndicate, outsmarting both rival gangs and a ruthless police officer</desc>
     <category>kshitij0010</category>
@@ -22,13 +22,13 @@
 
 
    <!-- 1. Channel Definitions Go Here -->
-  <channel id="02">
+  <channel id="K02">
     <display-name>Rajni The Jailer</display-name>
     <icon src="https://m.media-amazon.com/images/S/pv-target-images/e26182d80c17419d293dbc7b4b52bd6718393c4ccb57c440ae313248d371e4bc.jpg" />
   </channel>
 
   <!-- 2. Programme Schedules Go Here -->
-  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="02" catchup-id="26102001002">
+  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="K02" catchup-id="26102001001">
     <title>Rajni The Jailer</title>
     <desc>Tiger Muthuvel Pandian, a retired prison jailer leading a quiet family life, is forced back into the dark underworld when his diligent police officer son disappears while investigating a ruthless idol-smuggling mafia.</desc>
     <category>kshitij0010</category>
@@ -39,16 +39,16 @@
     <date>20261020</date>
   </programme>
 
-   <channel id="03">
+   <channel id="K03">
     <display-name>Re:Zero</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" />
   </channel>
 
   <!-- 2. Programme Schedules Go Here -->
-  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="03" catchup-id="26102001003">
+  <programme start="20261020000000 +0000" stop="20991231235959 +0000" channel="K03" catchup-id="26102001001">
     <title>Re:Zero</title>
     <desc>a dark fantasy anime series following ordinary teenager Natsuki Subaru, who is suddenly summoned to a mysterious fantasy realm.</desc>
-    <category>kshitij0010</category>
+    <category>Re:Zero|Starting Life in Another World</category>
     <length units="minutes">91</length>
     <rating system="CBFC">
       <value>U/A 16+</value>
