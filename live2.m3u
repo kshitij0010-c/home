@@ -179,7 +179,8 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&uid=8004188626
 
 #EXTINF:-1 tvg-id="3509" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
 https://sliv.tgaadi.workers.dev/sabhd.m3u8
 
 #EXTINF:-1 tvg-name="Sony PAL"tvg-id="474"tvg-logo="https://img.media.jio.com/tvpimages/27/1/300268_1753198502966_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony PAL
@@ -187,7 +188,7 @@ https://sliv.tgaadi.workers.dev/sabhd.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273&uid=8004188626&pass=61498d15
 
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" tvg-language="Hindi",Sony Pal
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" tvg-language="Hindi",Sony Pal
 https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
 
 
@@ -201,19 +202,17 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248&uid=8004188626
 
 
 
-#EXTINF:-1 tvg-id="zee5-1" tvg-name="ZEE TV" group-title="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&amp;s=10" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" tvg-language="Hindi" tvg-category="Entertainment",ZEE TV
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" group-title="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&amp;s=10" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" tvg-language="Hindi" tvg-category="Entertainment",ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="main-460" tvg-name="Dangal" group-title="Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" tvg-category="Entertainment",Dangal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 #EXTINF:-1 tvg-id="main-461" tvg-name="Dangal 2" group-title="Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" tvg-category="Entertainment",Dangal 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
@@ -233,7 +232,7 @@ https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-name="& PICTURES HD" group-title="Movies"  tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/andpictures_z_166hd.png" tvg-language="Hindi" tvg-category="Movies",&PICTURES HD
+#EXTINF:-1 tvg-id="185" tvg-name="&Pictures HD" group-title="Movies"  tvg-logo="https://cdn.smartads.in/images/product/television/And-Pictures-HD.png" tvg-language="Hindi" tvg-category="Movies",&Pictures HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
@@ -1039,15 +1038,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8?__hdnea__=s
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-name="Animal Planet"tvg-id="566"tvg-logo="https://img.media.jio.com/imagespublic/49/89/301580_1707144273649_p_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.270 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-http://yolomax.pro:80/live/3Q43L4L/59R3J6J/72168.m3u8
 
-#EXTINF:-1 tvg-chno="805" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
+#EXTINF:-1 tvg-id="3451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3451
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-id="2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1055,14 +1053,22 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #KODIPROP:mimetype=application/dash+xml
 https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="Infotainment",Discovery Science Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3453
+
 
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id="3444"tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment"provider-languages="Hindi,English", Discovery HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3444
-http://10.144.108.26:5001/live/mpd/3444
+#KODIPROP:inputstream.adaptive.license_key=cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3444
 
 #EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://10.144.108.26:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
 #KODIPROP:inputstream=inputstream.adaptive
