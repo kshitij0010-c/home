@@ -2,7 +2,7 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="CustomEPG" generator-info-url="https://raw.githubusercontent.com/kshitij0010-c/home/refs/heads/main/m.xml.gz">
 
-  <!-- 1. Channel Definitions (Must all appear BEFORE programme tags) -->
+  <!-- 1. Channel Definitions -->
   <channel id="K01">
     <display-name>Pushpa:The Rise</display-name>
     <icon src="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" />
@@ -15,7 +15,7 @@
 
   <channel id="K03">
     <display-name>Re:Zero</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" />
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&amp;s=10" />
   </channel>
 
 
