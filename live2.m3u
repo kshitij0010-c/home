@@ -1036,7 +1036,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/WDVLive/index.mpd?__hdne
  
 
 
-#EXTINF:-1 tvg-name="Tom&Jerry24x7"tvg-id="3022"tvg-logo=""group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Tom&Jerry24x7
+#EXTINF:-1 tvg-name="Tom&Jerry24x7"tvg-id="3022"tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/SeriesTitle-TomandJerry.png/revision/latest?cb=20260603032442" group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Tom&Jerry24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://152.233.35.240/
@@ -1104,7 +1104,7 @@ https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/y30-Gnt7b4qamT1s2PVDqNEFNtVeOtU9PqhekXbGFlOBufHK5x-7Pg-9UqM-QDQNATbUHMB8Ed-5I_YFaztUZOT8onrZhxICor9WdCy3cQ4Z-AoMwFQTYtXsLQ2HFrxtSka7XiAFZM31ItUSL7mcGtcmct69qjRqJgVGjy4Fp_8D9uDgWEHGbL-xAkiFTBSx0wCQyxm4h8pYmFPzIqYLnJf0ldMOgpiRcb0D5DUPCCMoyM17kJBY-4vLb2jRcC1ETBi-9cqsGTnQExJY_Kb5lQ-Qe1hWCPsCHpVC_WaKNINq2GbNg2-T3XBb3yNDwOVIaCbaherqqXdbuRdmNPxdjx3N1m2y1ntA2gIYGNqR6geNwlq9uS-OtX0cAmfwL4awvZnmvIFL03CEl7TQCktAZwsVlR2Mri2KeZMo844kKFIbEPbaTZLSkB4Rcl-KhWnRETCwz8TWjFl1mTZbEsNI7XYpIIw4ZXfgbd6fP2eGb0qmPS_0VTDPE6nsYqXpi6tWe4bfwUPtZqDgWYW4Uf8tGV0F_KN5CwscM4CgNn9FE6ly7d3O7mAaQL2nv5nuZ3hWaVkCdsSIjl2SjdImDhnHR1QJWRkUhAvFZtkUM24LzRnW7EQ0sg8vKemwLB89SJPbupWIxsAn5C2EL5yNoansBTL3_qJyuYfrvLJuWv3whH4/127/1920x1080_2790000/index.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo Wild HD DG"tvg-id="1404"tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5075/1785250005075-h" group-title="Infotainment" provider-languages="Hindi,English",Nat Geo Wild HD DG
+#EXTINF:-1 tvg-name="Nat Geo Wild HD DG"tvg-id="1332" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5075/1785250005075-h" group-title="Infotainment" provider-languages="Hindi,English",Nat Geo Wild HD DG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1120,7 +1120,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075050/4249b1f5294741fe9b93bb703122
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1332
+#KODIPROP:inputstream.adaptive.license_key=d76aa217a4575df5bce80ee0ff6b2121:a7292878f520073ea2826959c21ecdfa,a78b3f56bd0151e0861458c275cea361:875f1430d208e9354eb80ee25e70cc88
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1332
 
 
@@ -1128,7 +1128,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1332
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/1335
+#KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD"tvg-id="821"tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560791747_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English", Sony BBC Earth HD
@@ -1145,18 +1145,20 @@ https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-name="Food XP"tvg-id="1955"tvg-logo="https://img.media.jio.com/imagespublic/22/77/301205_1646815947468_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food XP
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=ab02d96ee5fa736029f3240f5773d4211f172ae8c839cee6b46347dd6960a36d
+#KODIPROP:inputstream.adaptive.license_key=45d56f9cf3be5ce28ab83983ca534af2:8323cffa74d904bdf1dfe19899d10c2d
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1955
 
 #EXTINF:-1 tvg-name="NDTV GOOD TiMES"tvg-id="560"tvg-logo="https://img.media.jio.com/imagespublic/12/70/301051_1625144833632_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NDTV GOOD TiMES
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__hdnea__=st=1790381718~exp=1790403318~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=8f42bca9b7023d30fc8abf1c17f1014937dd659ba2cdd0702e7353dc1632c1f3
+#KODIPROP:inputstream.adaptive.license_key=9e19a0d2ae5e5123b03fd29fcb7e6e16:ced94c8516a1983cd2550f42a064f624
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 
 #EXTINF:-1 tvg-name="TLC HD"tvg-id="3458"tvg-logo="https://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",TLC HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3458
+#KODIPROP:inputstream.adaptive.license_key=54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3458
 
 #EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="https://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
@@ -1177,10 +1179,11 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
 
 
-#EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2948" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
+#EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2757" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790381719~exp=1790403319~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=10212645a53a1ee83ad805f010b79f68cdccbc6dae524d723768273a23ef512f
+#KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2757
 
 
 
@@ -1188,19 +1191,19 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__
 
 
 
-#EXTINF:-1 tvg-name="Pushpa" tvg-id="K01" tvg-logo="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="176" tvg-desc="A fearless daily-wage worker rises through the ranks of a dangerous red sandalwood smuggling syndicate, outsmarting both rival gangs and a ruthless police officer.",Pushpa:The Rise
+#EXTINF:-1 tvg-name="Pushpa" tvg-id="k01" tvg-logo="https://i.ebayimg.com/images/g/pjAAAOSw6YhmvE0V/s-l1600.webp" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="176" tvg-desc="A fearless daily-wage worker rises through the ranks of a dangerous red sandalwood smuggling syndicate, outsmarting both rival gangs and a ruthless police officer.",Pushpa:The Rise
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3sgzbosmwirao.cloudfront.net/video/0ec962650fcd8f71169027acfd1508efdfc6aec02638b4de4ad5a30d4bfcfece/1/hls/h264_high.m3u8
 
 
-#EXTINF:-1 tvg-name="Jailer" tvg-id="K02" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e26182d80c17419d293dbc7b4b52bd6718393c4ccb57c440ae313248d371e4bc.jpg" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="165" tvg-desc="Tiger Muthuvel Pandian, a retired prison jailer leading a quiet family life, is forced back into the dark underworld when his diligent police officer son disappears while investigating a ruthless idol-smuggling mafia.", Rajni The Jailer
+#EXTINF:-1 tvg-name="Jailer" tvg-id="k02" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e26182d80c17419d293dbc7b4b52bd6718393c4ccb57c440ae313248d371e4bc.jpg" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="165" tvg-desc="Tiger Muthuvel Pandian, a retired prison jailer leading a quiet family life, is forced back into the dark underworld when his diligent police officer son disappears while investigating a ruthless idol-smuggling mafia.", Rajni The Jailer
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://d3sgzbosmwirao.cloudfront.net/video/d213b64bb52693c294545ff1fba4e2a385935f03037ca3c6159747c89003786c/3/hls/h264_high.m3u8
 
 
-#EXTINF:-1 tvg-name="Re:Zero" tvg-id="K03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" group-title="Re:Zero|Starting Life in Another World" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="91" description="a dark fantasy anime series following ordinary teenager Natsuki Subaru, who is suddenly summoned to a mysterious fantasy realm.", Episode - 1
+#EXTINF:-1 tvg-name="Re:Zero" tvg-id="k03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcst9ruTo9qLNoBq3ekI2uxqu27teUt8XSqZBuvGLdYQmhDqYw_cci76DR&s=10" group-title="Re:Zero|Starting Life in Another World" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="91" description="a dark fantasy anime series following ordinary teenager Natsuki Subaru, who is suddenly summoned to a mysterious fantasy realm.", Episode - 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
