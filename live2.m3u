@@ -156,7 +156,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_key=4366fa4bfa524a69aa19acc79cb7a6ce:ec0c65fe83bf9abf637cb95df585e636
+#KODIPROP:inputstream.adaptive.license_key=2240ef916daf4d3fa8860992db5a21bb:05a4fa209bad5007a0f3086364a3dced
 https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
 
 
@@ -502,8 +502,11 @@ http://51.75.127.199:3141/andxplorehd/index.m3u8
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3100
 
 #EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8afbf5d35d83410e9ee9597d9645d3be/version/0" group-title="Movies",Zee Talkies HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=826a6c7b79a549099d6c889110fd3089:1d8764dd068ffa567a3bfc081fda9d32
+#KODIPROP:inputstream.adaptive.license_key=0b9fd7b9666d430cad546a88615d190e:5bf8b953db3eaffad0139e2f5b0e594c
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd
 
 #EXTINF:-1 tvg-name="Epic Music"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Music
@@ -567,12 +570,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-name="Zing"tvg-id="585"tvg-logo="https://img.media.jio.com/tvpimages/4/8/300314_1768297503669_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zing
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZing_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=ae43dead4c5b01dfae3fa6ae5ed07a27e3396df6f1bf96d34ad75eafff20d2a9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f151e0b5914c07a47949e024872e25:b554e8bf9cb4f7a9ba51b7ad4566423c
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
 
 #EXTINF:-1 tvg-name="ZOOM"tvg-id="592"tvg-logo="https://img.media.jio.com/tvpimages/60/15/301151_1761908168253_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",ZOOM
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2772adf07d94d16888658c996b48203:b08c6ad586493ce44a8a534ea43aad70
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 
 #EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Movies",Lionsgate Play
 #KODIPROP:inputstream=inputstream.adaptive
