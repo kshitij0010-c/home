@@ -13,7 +13,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-id="1146" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Marathi" catchup="append" catchup-days="1",Sony Marathi
+#EXTINF:-1 tvg-name="Sony Marathi" tvg-id="1146" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Entertainment" catchup="append" catchup-days="1",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
@@ -46,7 +46,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Star Pravah HD"tvg-id="3100"tvg-logo="https://img.media.jio.com/tvpimages/48/78/302094_1753185803053_l_medium.jpg"group-title="Movies"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Pravah HD
+#EXTINF:-1 tvg-name="Star Pravah HD"tvg-id="3100" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarPravahHD1.png" group-title="Entertainment" provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Star Pravah HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
@@ -60,6 +60,11 @@ https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-name="Awaaz India" tvg-id="3332" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Awaaz India
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://live1.ottlive.co.in/awaazindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Lokshahi Marathi" tvg-id="1293" tvg-logo="https://img.media.jio.com/imagespublic/70/29/301629_1707138809741_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Lokshahi Marathi
 #EXTVLCOPT:http-user-agent=Virat
