@@ -41,7 +41,7 @@ https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_i
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Shemaroo Marathi Bana"tvg-id="1452"tvg-logo="https://img.media.jio.com/imagespublic/22/75/301206_1646912412048_p_medium.jpg"group-title="Movies"provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Marathi Bana
+#EXTINF:-1 tvg-name="Shemaroo Marathi Bana"tvg-id="1452"tvg-logo="https://img.media.jio.com/imagespublic/22/75/301206_1646912412048_p_medium.jpg" group-title="Movies" provider-languages="Marathi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Marathi Bana
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
@@ -251,7 +251,7 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f1c02eddab234c23a8ec2edfdcea8347:4f9eb405a8b33a07aa3f802f9ce20338
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
-#EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" tvg-category="Movies",ZeeCineClassic
+#EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies" ,ZeeCineClassic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
@@ -434,7 +434,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1136
 
 
 
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" group-title="" group-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/zcinema_z_166hd.png" tvg-language="Hindi" tvg-category="Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies" ,Zee Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
@@ -739,7 +739,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=178
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cricket Gold HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",Cricket Gold HD
+#EXTINF:-1 tvg-id="" tvg-name="Cricket Gold HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Sports",Cricket Gold HD
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://epg.provider.plex.tv/library/parts/698f7631338300003d436270-65e0c8c6d899afe817b9d224/variant.m3u8?x-plex-token=xLq1zcTBgUFAEBomLRsL&x-plex-advertising-identifier=&x-plex-client-identifier=15c1ab0c-ebc0-4591-81b4-b7f41275e001&x-plex-playback-id=p_bcfa3847-20b9-4520-b0d9-e0059a5f0b75&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Edge&x-plex-platform-version=155.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1792155534&auto=0&url=24a696c4a075266eed371c286b53b0c6-3697743883f995afb36a8d3ca0689d841023984e8ae18c4ee848f95b9339eaf9fda73f87af84c2daf6bf77eeceb8347aecbb59b1fa0e14fa43b7aaba34e8fe34d264e8d921086b22882b956e312b0e1aa14da860ab8968a018a5ce20f5093099f1fb816104e678439b4d1ac9dd0fd87d3ad8a8e2eea70338eb3bd60d6587334458a6b8ce765b7a87f4e3799b965865fdb3637a7e5ccf4b2e5caed0cea2aa92d1
