@@ -1161,7 +1161,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3458
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="TravelXP 4K" tvg-logo="https://etimg.etb2bimg.com/photo/73798234.cms", "TravelXP 4K"
+#EXTINF:-1 tvg-name="TravelXP 4K" tvg-logo="https://etimg.etb2bimg.com/photo/73798234.cms" group-title="Lifestyle", "TravelXP 4K"
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0&Virat Kohli&Referer=https://www.jiotv.com/&Origin=https://jiotv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
