@@ -434,7 +434,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1136
 
 
 
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" group-title="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&amp;s=10" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/zcinema_z_166hd.png" tvg-language="Hindi" tvg-category="Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" group-title="" group-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/zcinema_z_166hd.png" tvg-language="Hindi" tvg-category="Movies",Zee Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
