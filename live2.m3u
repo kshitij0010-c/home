@@ -169,13 +169,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
 
 
-#EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",EPIC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+
 #EXTINF:-1 tvg-name="Eros Universe Entertainment"tvg-id="3544"tvg-logo="https://img.media.jio.com/tvpimages/55/38/304185_1778570920524_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Entertainment
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -397,6 +391,17 @@ https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396
 
 
 
+
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HS" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" group-title="Movies",Star Gold HS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1792673599~acl=%2f*~id=5c1db76726f9dc0a1bada1fa0a1d6fa0~data=hdntl~hmac=d5f60d535311981e368c8811d7d68fdf99faa38e6cf59d98ab87a142b2534329
+#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1792673599~acl=%2f*~id=5c1db76726f9dc0a1bada1fa0a1d6fa0~data=hdntl~hmac=d5f60d535311981e368c8811d7d68fdf99faa38e6cf59d98ab87a142b2534329"}
+#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
+https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
+
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/73/72/302104_1753204022099_l_medium.jpg" group-title="Movies",Star Gold 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -617,12 +622,12 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" group-title="News" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Republicbharatlogo.png",Republic Bharat
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://vg-republictvlive.akamaized.net/ptnr-airtelxstream/title-Republic_Bharat/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ac1dfd73-1c95-4462-9f42-be68edb6b7ff/main.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:-1 tvg-name="Republic TV"tvg-id="858"tvg-logo="https://img.media.jio.com/tvpimages/28/84/300162_1753192146287_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Republic TV
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://jiotvpllive.cdn.jio.com/bpk-tv/Republic_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1790381717~exp=1790403317~acl=/bpk-tv/Republic_TV_BTS/WDVLive/*~hmac=9564736eccb26b1404fa60ae31a875de2f6927ca416c33f87cb328cb3ce2a6e1
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bharat"tvg-id="652"tvg-logo="https://img.media.jio.com/tvpimages/1/97/301346_1753198891374_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Bharat
 #EXTVLCOPT:http-user-agent=Virat
@@ -835,7 +840,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #EXTINF:-1 tvg-name="Hungama TV 2" tvg-id="1391" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Hungama TV DTH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli& 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 http://103.185.24.134:3001/star gold/index.m3u8
@@ -1055,7 +1060,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad6
  
 
 
-#EXTINF:-1 tvg-name="Tom&Jerry24x7"tvg-id="3022"tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/SeriesTitle-TomandJerry.png/revision/latest?cb=20260603032442" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Tom&Jerry24x7
+#EXTINF:-1 tvg-name="Tom&Jerry"tvg-id="" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/SeriesTitle-TomandJerry.png/revision/latest?cb=20260603032442" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Tom&Jerry
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli& 
@@ -1156,6 +1161,15 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252&uid=8004188626&pass=61498d15
 
+#EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="https://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",EPIC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+#KODIPROP:inputstream.adaptive.license_key=0384122132e151639aafddeb8bd1a50b:f9be8660035eecbca5ae015adb73fe7b
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3382
+
 #EXTINF:-1 tvg-name="Food Food"tvg-id="561"tvg-logo="https://img.media.jio.com/imagespublic/87/41/301416_1685007957318_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Food Food
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -1206,10 +1220,12 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=562
 https://raw.githubusercontent.com/kshitij0010-c/home/main/TravelXP.m3u8
 
 
-#EXTINF:-1 tvg-name="Zee Zest HD" tvg-id="2757" tvg-logo="https://img.media.jio.com/tvpimages/87/13/301612_1769501847666_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
+#EXTINF:-1 tvg-id="2948" tvg-name="Zee Zest HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZestHD.png" group-title="Lifestyle",Zee Zest HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec8d596bfa85ff3852c3fc517566367:1442a9835f96adbc9c5b8e22d1499eb9,3e45f99639c55551856fe370ba6715c9:193a559202fb97165641f51def37d4e7,55d373df957f5c799873d0f73b6aa7ef:386ffd3b38f02df0c35fe53788ad9588,b237f630a35353d6b02dbe11a4df7430:fbda528517a3db9539b338ddf990c121,112efd8855bc5d879fc07e642601f7e8:bc12ceac86b553d5c320a89057f338ec
+
 https://streamflexsmm.in/Sflex-Jio/301612/manifest.mpd
 
 
