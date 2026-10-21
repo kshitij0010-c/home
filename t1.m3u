@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Ds" tvg-logo="" ,XP1
+#EXTINF:-1 tvg-id="" tvg-name="Ds" tvg-logo="" ,Xplor
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=835037f9e2065f40be9a4eafcbea4ed7:1f304d141f3695fa06cae57a44788bf9,c0270543358b5238816359df6c7d2907:6da0259c9cdf4916bed003e1b30a92ae
+#KODIPROP:inputstream.adaptive.license_key=011009d86d06586eb1396722e55ffd2b:186315be04a0de4c835b79aca1cf03f2,a17c55a83ed55d3d843b3d3c55db7d6f:8362eabd4f344f9e11a08fabd2252d22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=562
+https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Ds" tvg-logo="" ,XP2
 #KODIPROP:inputstream=inputstream.adaptive
