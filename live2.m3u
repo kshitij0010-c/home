@@ -157,7 +157,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4067a8ce0afc4ff9aa911247129768e7:b5baad45055b1ae683bd2dc63d8383c1
+#KODIPROP:inputstream.adaptive.license_key=009bdc976a774f948489aa92d918e995:ea57640958c70fae22020a7345c5cd76
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 
 
@@ -165,7 +165,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_key=2240ef916daf4d3fa8860992db5a21bb:05a4fa209bad5007a0f3086364a3dced
+#KODIPROP:inputstream.adaptive.license_key=34a748d1b7fa47f5830bc89d447c3a74:1534f51d256a70f706b659a651aa3ab2
 https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
 
 
@@ -251,7 +251,7 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1c02eddab234c23a8ec2edfdcea8347:4f9eb405a8b33a07aa3f802f9ce20338
+#KODIPROP:inputstream.adaptive.license_key=205f24d5e451451892a646b7911a63de:b2728340ea6820987fed2c76998328c8
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
 #EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies" ,ZeeCineClassic
@@ -455,7 +455,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1136
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0222b8c191284f26a16fce49db2a939e:e09698a7851d597b7c5f62505d9373b4
+#KODIPROP:inputstream.adaptive.license_key=43a19aaf9aa046219dd1d4a311c88ac7:c5774134bd45b5fc34bb98cdf7e97303
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
 
 #EXTINF:-1 tvg-name="Zee Cinema"tvg-id="484" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Cinema
@@ -468,7 +468,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ae04f49c6bb4de2b35e8419a6750f46:1b24ad0c8dadcec4c6c99a4ef86395ca
+#KODIPROP:inputstream.adaptive.license_key=eb852927799f49a1bbad9d38584497a3:9eebacc9feeef1f3d7c144461e77bfc4
+
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="Movies",Zee Bollywood
@@ -476,7 +477,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48c6a5f8f1194d2eb21aea32a1b2b5b2:4ce1dd05b8027cfb356e51687f4b8795
+#KODIPROP:inputstream.adaptive.license_key=dfa98fb66ce54f839e656a853664ce25:5ee06484d96c19d15e3db17ff63e19af
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
 
 
@@ -485,7 +486,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f0c3d05befc46618b973a506e5dbd8c:1f2745feabcf78e8a33ae763e1d29002
+#KODIPROP:inputstream.adaptive.license_key=81cb14718c6c4e63b4efe45cc71c8c6d:958805fb3ecba9fde31bd492e11555ea
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd
 
 
