@@ -789,7 +789,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
+#KODIPROP:inputstream.adaptive.license_key=39e34c77778e54c8b193f7e56e70c7d9:cb5ea4fa8dd1315594b6b14f6a4e0c33,aad950e256545544b847fe5de5a1b83e:579c6c3d3ed74b82e779103f10c3aff7,0a718777cde25d9a8e0fc4a766df3926:e534ca5741431ae715670ee29b2b0253,f97a713cf2e157e6857067136f99b06f:3f285b5ddf7ba785a9f411cdd8dc7c25,2234b2214db4543e90cc58e92ed0dfb8:858e95e4741c2ee8a0384505b6c02014
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
 https://streamflexsmm.in/Sflex-Jio/301980/manifest.mpd
 
@@ -800,7 +800,7 @@ https://streamflexsmm.in/Sflex-Jio/301980/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
+#KODIPROP:inputstream.adaptive.license_key=e572ff9c051650db8bd8b8dd4f1e5746:8696756b957685e0fe84929703ef3c82,3e0965e7f72a5769a5149ce587a120c4:0555333e829be8de67761bfae78fcb17,70dada9e38915c2a91f711ea6b48ec3e:78f0251180fd09884f53ff0cc023e660,77a0c2be912850d6b861e11839e60c54:f343c1802e7de9ef645a71354bf370b8,e5707aa2068a51ad845cd5231ed44f9a:4789a8a706d900604a72e45586b543d4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
 https://streamflexsmm.in/Sflex-Jio/301984/manifest.mpd
 
@@ -813,7 +813,8 @@ https://streamflexsmm.in/Sflex-Jio/301984/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
+#KODIPROP:inputstream.adaptive.license_key=0c3c8497ed525ed898b59a59a91bc882:1a5a0bab9563df7efce66756d4adc2f2,c8883724857d5da4b4e004a6eafc26ab:beaa64b0c89dc4daacc59c021d045ce9,a0a9e8b52e6c54e79ad9b828fe197bfd:23be7413f650ba3bb1acc07ca71bbf8f,49f46ad1b8a05ccdba6583cb562a5eac:4c3eaa2a5947038a0e6d1714760b3f4b,f1da7b6a6f59593c834b971461aa0eb9:4313619138bbf79b92234e81cbdb323f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 https://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 
 
@@ -873,8 +874,9 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c3c8497ed525ed898b59a59a91bc882:1a5a0bab9563df7efce66756d4adc2f2,c8883724857d5da4b4e004a6eafc26ab:beaa64b0c89dc4daacc59c021d045ce9,a0a9e8b52e6c54e79ad9b828fe197bfd:23be7413f650ba3bb1acc07ca71bbf8f,49f46ad1b8a05ccdba6583cb562a5eac:4c3eaa2a5947038a0e6d1714760b3f4b,f1da7b6a6f59593c834b971461aa0eb9:4313619138bbf79b92234e81cbdb323f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+#KODIPROP:inputstream.adaptive.license_key=77f1f0309bb95b28b1d5f555d9773957:4506d3c672bb15523acc6c9a90cd7182,f729f7a5aa445aab9f8f8f28ae2e2e25:8c602b3905a5aa937cfdbd13392eba4c,c467957a1ea75d30812afe9fbe2303ec:db0f355b43f2b258117cddea13f9ae9a,50a88577073d5fc18189128d3a2e79cb:30904b241e0eb6ec6a52d69c7c172748,867bafd52784556c89a9c53b7f8d0443:2af4937adbd4828b2fc1838791739ce8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+
 https://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
 
 
@@ -1095,7 +1097,7 @@ https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d64ea6e8cac8550c9befa8ee6d9512c8:292c06d344e62d309bd02fd243a1c0e2,83b3b4b63ae3b8bfcadaa9a4e4bf736c:a80ff939c7506434688ee3e6b99a3f63,fcf8776838b1ef8a29fe9039e3d41ed4:2d8d316d16b388ed701dca7a3ecd6a8a,bb20be8759dfd668adb8dcae896913ae:7249c6f87e20e84ffff5fb718f9775ef,924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d,c7275358bf9b93550b5056d1937994e5:fa69ad2e1b662325291f491e7eca0296
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3453
+https://streamflexsmm.in/Sflex-Jio/304070/manifest.mpd
 
 
 
