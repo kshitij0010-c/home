@@ -527,7 +527,7 @@ https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddf7f2fe49e859a7bb5b04f72dc338b8:20fbb6a6c418c3e03dee23e4788fe22a,9812a1df70fd5f29b855f8f9b78a4648:091cd0f39187be5f3665579283e92bf2,d9bd450b1b435481948cf8a2860ed59e:e965450ff844f54a26a6a9a9a141c9fb,4e85d76d0fb55da5bd60caff982b73c9:63f6f77f1cc13f1488f200f505d7d775,d38892cc44be5800af0607090a387bb9:1912473752c7d36fb092fd67f2890e16
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3100
+https://streamflexsmm.in/Sflex-Jio/302094/manifest.mpd
 
 #EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8afbf5d35d83410e9ee9597d9645d3be/version/0" group-title="Movies",Zee Talkies HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -611,9 +611,9 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e102510d93855b6099797d7663926563:636665fc62b93f67db5266665615ea55
+#KODIPROP:inputstream.adaptive.license_key=98b2685873b5594da39b27ce26247ba8:68d7621b5a0dd8a4564c3f99967ab4fe,d652385e31e451fe9db5979c0518db76:4f0080bcdf1ff8b09d6f77d732e458c0,51889dddb92c56db9cb3fbe535b11f22:24ceca8eaf87877092f3bff511a43bef,e3e0a27b9bc65688b59a4aaf78315348:60746012f0e0c344f608d53a01772f34,dc3b4cff66d85f63b325d0db722a8880:ab687e68bb4ff735253b241139cdae1a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2327
+https://streamflexsmm.in/Sflex-Jio/301865/manifest.mpd
 
 #EXTINF:-1 tvg-name="Aaj Tak"tvg-id="173"tvg-logo="https://img.media.jio.com/tvpimages/29/72/301036_1786690657965_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Aaj Tak
 #EXTVLCOPT:http-user-agent=Virat
@@ -791,7 +791,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1104
+https://streamflexsmm.in/Sflex-Jio/301980/manifest.mpd
 
 
 
@@ -802,7 +802,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1104
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1110
+https://streamflexsmm.in/Sflex-Jio/301984/manifest.mpd
 
 
 
@@ -814,19 +814,11 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1110
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 #KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1391
+https://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 
 
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1373
-
-#EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel jtv+2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -881,10 +873,9 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c3c8497ed525ed898b59a59a91bc882:1a5a0bab9563df7efce66756d4adc2f2,c8883724857d5da4b4e004a6eafc26ab:beaa64b0c89dc4daacc59c021d045ce9,a0a9e8b52e6c54e79ad9b828fe197bfd:23be7413f650ba3bb1acc07ca71bbf8f,49f46ad1b8a05ccdba6583cb562a5eac:4c3eaa2a5947038a0e6d1714760b3f4b,f1da7b6a6f59593c834b971461aa0eb9:4313619138bbf79b92234e81cbdb323f
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=6d03062a210e5ca5bebe18295a7ed53f:2d5145403548d142cbe2a5f1e25b0d1f
-
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3436
+https://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
 
 
 
@@ -985,9 +976,9 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d64ea6e8cac8550c9befa8ee6d9512c8:292c06d344e62d309bd02fd243a1c0e2,83b3b4b63ae3b8bfcadaa9a4e4bf736c:a80ff939c7506434688ee3e6b99a3f63,fcf8776838b1ef8a29fe9039e3d41ed4:2d8d316d16b388ed701dca7a3ecd6a8a,bb20be8759dfd668adb8dcae896913ae:7249c6f87e20e84ffff5fb718f9775ef,924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d,c7275358bf9b93550b5056d1937994e5:fa69ad2e1b662325291f491e7eca0296
+#KODIPROP:inputstream.adaptive.license_key=e3b6411eef575abc8212d2d489b2d8cf:8513097816028b71d671ca26dc61e243,a0a812b5fe085e819b4bdf69eea5fe4c:b00777d3d42980b4cd7f9f5759ddf4c6,14dcee4d386b5d5890370fbddfc111af:a792b12f7132417da1820e2ca82aa472,9d936691fdeb5e5cb5e5f85fefa01757:5619b314142c9b42e5d21de5cd486897,c6c0ad273fd8510aa0daabf3b0112211:d82d51799fad6cce2308815130fcba7a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
-https://streamflexsmm.in/Sflex-Jio/304070/manifest.mpd
+https://streamflexsmm.in/Sflex-Jio/301581/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Shinchan 24/7" group-title="" group-logo="https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Crayon_Shin-chan.png" group-title="Kids",Shinchan 24/7
 #KODIPROP:inputstream=inputstream.adaptive
