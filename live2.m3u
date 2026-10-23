@@ -313,7 +313,7 @@ https://jcevents.hotstar.com/bpk-tv/JS_ColorsCineplexBollywood/JioHotstar/JS_Col
 #EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://streamflexsmm.in/Sflex-Jio/304184/manifest.m3u8
 
 #EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
@@ -329,7 +329,7 @@ https://streamflexsmm.in/Sflex-Jio/302704/manifest.m3u8
 #EXTINF:-1 tvg-name="Pocket Films"tvg-id="3259"tvg-logo="https://img.media.jio.com/tvpimages/42/92/301959_1744189047637_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pocket Films
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3259
 http://10.144.108.26:5001/live/mpd/3259
 
@@ -1122,7 +1122,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3453
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id="3444"tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment"provider-languages="Hindi,English", Discovery HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3444
 
@@ -1164,7 +1164,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075050/4249b1f5294741fe9b93bb703122
 #EXTINF:-1 tvg-name="Nat Geo Wild HD"tvg-id="1332"tvg-logo="https://img.media.jio.com/tvpimages/45/25/302089_1753203724962_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Nat Geo Wild HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d76aa217a4575df5bce80ee0ff6b2121:a7292878f520073ea2826959c21ecdfa,a78b3f56bd0151e0861458c275cea361:875f1430d208e9354eb80ee25e70cc88
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1332
 
@@ -1172,7 +1172,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1332
 #EXTINF:-1 tvg-name="National Geographic HD"tvg-id="1335" tvg-logo="https://img.media.jio.com/tvpimages/23/80/302076_1753203681380_l_medium.jpg"group-title="Infotainment"provider-languages="Hindi,English":http-referrer="":http-user-agent="Virat",National Geographic HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 
@@ -1211,7 +1211,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1335
 #EXTINF:-1 tvg-name="TLC HD"tvg-id="3458"tvg-logo="https://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",TLC HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3458
 
