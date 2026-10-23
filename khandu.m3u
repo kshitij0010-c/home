@@ -916,8 +916,10 @@ https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47385e73faeb9bd3ae24ede1c64a836c:95a40a70aa0b64855c747bd823cd5195,6acd48a9f7f8274d8749d35fa19457ee:00d51a8a32de20d20d762d048b766994,16283c5bdfdb14017e3c928962c01ab0:a8353cf7cb9d0b087700858de0372970,871f7d2cc54aa383e088e204b5238990:fd26ff9f6146cec812dd1be17340e3f6,271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971&uid=8004188626&pass=61498d15
+https://streamflexsmm.in/Sflex-Jio/300270/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
