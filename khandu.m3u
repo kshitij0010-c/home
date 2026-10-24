@@ -156,17 +156,20 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-name="&TV HD"tvg-id="472"tvg-logo="https://img.media.jio.com/tvpimages/65/85/300377_1753869832519_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",&TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=009bdc976a774f948489aa92d918e995:ea57640958c70fae22020a7345c5cd76
-https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4c6014d89505062bc35dee0ed519bed:2eac17b4204a2fa7a0f67ce63288fafe,44fe94d36c805cb19068afa8afefa67d:807af52ba671f10c1127cf7901b16b0a,e043d52515415ade82356a6546fb99c6:68062e7cb45e88955d64f87f110f0047,22b6b02b053d5271a874fc37b8b62f5c:b74cff91d1091c9968c61ea4c8cb8a3b,f46e0d24d4e15eb99dd8739315be218b:6fe0210a22a92a893c55253163151245
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300377/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="Big Magic"tvg-id="1359"tvg-logo="https://img.media.jio.com/tvpimages/61/11/300311_1768460697282_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi",Big Magic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_key=34a748d1b7fa47f5830bc89d447c3a74:1534f51d256a70f706b659a651aa3ab2
-https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b47d79f83a85553a2e4a24fd1e87c99:ba93786ee70c5a21eea96f055614eb12,8ad8cbdd7f5a5b8ca418cb033877a322:0ac2ec9ce4163c9b975c6ed0010b4cfa,250491ee6e105a3292d6b8e779d4b826:3edc2b5b5e3f8875719297dab4d518ec,f97b0cb688d253cd97465611210999f7:a8e3d4ba8fbbf834e68a669eb35edc9e,514bc642a63353f3b89dbbbdb48151cc:a26b1d1dbf60844c3e7ef6130b79e82f
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
 
 
 
@@ -250,9 +253,11 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=205f24d5e451451892a646b7911a63de:b2728340ea6820987fed2c76998328c8
-https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4c6014d89505062bc35dee0ed519bed:2eac17b4204a2fa7a0f67ce63288fafe,44fe94d36c805cb19068afa8afefa67d:807af52ba671f10c1127cf7901b16b0a,e043d52515415ade82356a6546fb99c6:68062e7cb45e88955d64f87f110f0047,22b6b02b053d5271a874fc37b8b62f5c:b74cff91d1091c9968c61ea4c8cb8a3b,f46e0d24d4e15eb99dd8739315be218b:6fe0210a22a92a893c55253163151245
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300328/manifest.mpd
 
 #EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies" ,ZeeCineClassic
 #KODIPROP:inputstream=inputstream.adaptive
@@ -461,40 +466,41 @@ https://streamflexsmm.in/Sflex-Jio/302000/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=43a19aaf9aa046219dd1d4a311c88ac7:c5774134bd45b5fc34bb98cdf7e97303
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70df41ef3a3654d7b1cb13fbb2430480:dd83f24ebf2fb5ef5aafb075b9451d44,ae9a750f39ee523c88f71c47872029ce:ce973e45f923884cce42020da0fb6398,2f73fd6fc33055f0931e6b52989a968b:67821d540d498438c3c84e13b8971f77,27eb79e6c8ef594ea8508011b606bb02:1dd808f8b8e367dd9205128bc0865dee,eaf2c59f5bad5ce293838b116585174c:a85d1ce160047f14bfb2b93a1ef23859
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 
-#EXTINF:-1 tvg-name="Zee Cinema"tvg-id="484" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zee Cinema
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png" group-title="Movies",Zee Action
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb852927799f49a1bbad9d38584497a3:9eebacc9feeef1f3d7c144461e77bfc4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2fb0c818acb5684865ecf55afec644c:f6720a3844a47959f4cbd77c84de7533,bee67e0de5a15717b6a871614b91b0f3:c9127c8927ffe95446ed7acdc03da664,1e93a2d066d65a419ff727950c5878be:a47fe0841077a4f434597146436574b5,0b045160e98c5e138819b41b659470dc:fd539c538e9cd79a6b65fd61e1421219,6eeaa4f6093657e78c816ce4f27c862f:5cec930ed19d64d7b336ce2dbfb27f9a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300350/manifest.mpd
 
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa98fb66ce54f839e656a853664ce25:5ee06484d96c19d15e3db17ff63e19af
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edec75afcbfa58008cbcbc70d58742d5:41875675fa314fb9a3e71f475027551e,5e0987363f8f514a8f565b9f35b60f07:9599c326729efa1cd14210f5315aa776,922e34a7b8805109875f6945e926e827:e5e33334ac27ad22f9314d376290dfd2,8508f2dbb661561ab5550714dc618f5d:e24a310e7ab3928384b3c58bdbbf73e3,3cdbde3855e4527d86a2de93767f226f:51fed72194131b1c00897616888e4cd6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300312/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="Zee Classic" tvg-id="1691"tvg-logo="https://img.media.jio.com/tvpimages/18/29/300374_1768298259305_l_medium.jpg" group-title="Movies"provider-languages="Hindi",Zee Classic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81cb14718c6c4e63b4efe45cc71c8c6d:958805fb3ecba9fde31bd492e11555ea
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f9b0df9e5cf5ddaac5ecb9dbde78e90:a8785da8f516b51bf0f6ae4455751ac2,0d5f5d55b69f59498c822cbf351e278d:4f67e1403384b9815bb15b56c7a03abf,9cc3ecd62e0c573c8290d06012aeb0b7:a1b674c4b99cf993e07a703b1991ffb6,5486cdf952e7504693de561eb56545b4:83e0d2442faff2af5be31175d1e1f9ec,d2aaf9dc3f165be5973078114f39a404:37eb60ac36fcb79cdc61873e2e344ca0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300374/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="ZeeSouthflix" tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies" provider-languages="", ZeeSouthflix
@@ -541,10 +547,12 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/b40f0922-93e9-463f-bcfd-7a5299fb8018/0.m3u8
+
 #EXTINF:-1 tvg-name="9X Jalwa"tvg-id="440"tvg-logo="https://img.media.jio.com/imagespublic/69/32/9XJalwa_1574666782307_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9X Jalwa
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
 #EXTINF:-1 tvg-name="9x Jhakaas"tvg-id="441"tvg-logo="https://img.media.jio.com/imagespublic/29/31/9xJhakaas_1574666857786_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9x Jhakaas
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -554,22 +562,27 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/ts-eu-w1-n2/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/cb563d1b796c608884cf2167d5f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ca96852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40dc72a1af1c56953d51b18010cfd019b889c909ca11806bf015cb93ed82d617829b9365fb04b0355108712dcdd24bb8a332de4c454443fe5806047b7ce8a79aff3c53ec25626f88344f22078577ef9a2c801a57f160ca0cecb8ed1a379fb261b2c1f99ba688d08b89c67b5207ea898199f2347c9669f7a9e8c972463e977e656ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d114cbd3e2d8af878444ca719187ecce690b0e4214128a58959f6ff020c937fd9d446f0f1b04e5b17df0abf512706e468d851ef31618b2d4c2c3fc0629c56d1e15b9358d1555229c7a3c3cd62cff9b2e65c67359d27b6ead18108445b3e979a1e98bab5675e5acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaa10c641d70c057ebc0c5e7637b69c1feceeccf4037012d6d3c298fe5e230d6cef7201312ce443522133412850fc266cf0a2a517f9bfeb27bf3ee3060fc7f5260fcf86f1e92c67a4ce5588e9e/112/1920x1080_4716800/index.m3u8
+
 #EXTINF:-1 tvg-name="9X Tashan"tvg-id="732"tvg-logo="https://img.media.jio.com/imagespublic/48/54/9XTashan_1574691844613_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9X Tashan
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-name="9XM"tvg-id="587"tvg-logo="https://img.media.jio.com/imagespublic/64/77/9XM_1570454383418_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9XM
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+
 #EXTINF:-1 tvg-name="B4U Music"tvg-id="183"tvg-logo="https://img.media.jio.com/tvpimages/30/10/300003_1754934493448_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",B4U Music
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cdn.pishow.tv/ott/live/415/master.m3u8
+
 #EXTINF:-1 tvg-name="E24"tvg-id="591"tvg-logo="https://img.media.jio.com/imagespublic/31/44/E24_1570454462797_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",E24
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+
 #EXTINF:-1 tvg-name="Music India"tvg-id="250"tvg-logo="https://img.media.jio.com/imagespublic/18/48/MusicIndia_1574670346709_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Music India
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -598,22 +611,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-name="Zing"tvg-id="585"tvg-logo="https://img.media.jio.com/tvpimages/4/8/300314_1768297503669_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Zing
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f151e0b5914c07a47949e024872e25:b554e8bf9cb4f7a9ba51b7ad4566423c
+#KODIPROP:inputstream.adaptive.license_key=c5996151f89d41edb57abbcdd7cb8f0d:a7b5043c714044688421f57a3d257e52
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
 
 #EXTINF:-1 tvg-name="ZOOM"tvg-id="592"tvg-logo="https://img.media.jio.com/tvpimages/60/15/301151_1761908168253_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",ZOOM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2772adf07d94d16888658c996b48203:b08c6ad586493ce44a8a534ea43aad70
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
-
-#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Movies",Lionsgate Play
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98b2685873b5594da39b27ce26247ba8:68d7621b5a0dd8a4564c3f99967ab4fe,d652385e31e451fe9db5979c0518db76:4f0080bcdf1ff8b09d6f77d732e458c0,51889dddb92c56db9cb3fbe535b11f22:24ceca8eaf87877092f3bff511a43bef,e3e0a27b9bc65688b59a4aaf78315348:60746012f0e0c344f608d53a01772f34,dc3b4cff66d85f63b325d0db722a8880:ab687e68bb4ff735253b241139cdae1a
+#KODIPROP:inputstream.adaptive.license_key=96cd772befd458fd8db400bba0965cfe:a9f8a2c23f0bfae894a946595f3d3f33,b367e0ee7bb952c689900e3166baebca:d8fc26f11d59a19fd3b761819d1e6b89,f7561d9a1b8f56029f9ccda08c842be9:ab76cfde6b99ca4b352c617f5b569454,82ff88eede4e5963839619cfb9436f78:16bcf241b0bf9f11737ab212f0bf67c0,428b2389391d59d4b491825cd930a53e:c05fbb6fcfb4f9fd6e9c3462df49ae16
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/301865/manifest.mpd
+https://streamflexsmm.in/Sflex-Jio/301151/manifest.mpd
+
 
 #EXTINF:-1 tvg-name="Aaj Tak"tvg-id="173"tvg-logo="https://img.media.jio.com/tvpimages/29/72/301036_1786690657965_l_medium.jpg"group-title="News"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Aaj Tak
 #EXTVLCOPT:http-user-agent=Virat
@@ -741,6 +754,14 @@ https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a6
 #EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"userUP=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJoSWRcIjpcIjdjYzcxZmU2ZWY2ODRjZDhiMjgyNWY0ZTVmODY4MTBlXCIsXCJwSWRcIjpcIjM5ZDE2ZmMzMzk1YzQ0MTk5NDkxNGYxNjc3NjgxYTE0XCIsXCJkd0hpZFwiOlwiOWZjOTlkMDY1MGM5OTg2MGFjMTlhZjIxOTRhNzk2NzU1N2YwN2ZmN2E3NTI2MjY1OWMxM2FhOWViYjFlOTJjMFwiLFwiZHdQaWRcIjpcIjZhOTU4NzdmZGY5MTg0Mzg4YWVhYzQ0ZjRiZTQwZWQ2N2EyNjUwN2U2Zjc5YTlhZGRmY2RkNWE0MWNlYzc1ZmNcIixcIm9sZEhpZFwiOlwiN2NjNzFmZTZlZjY4NGNkOGIyODI1ZjRlNWY4NjgxMGVcIixcIm9sZFBpZFwiOlwiMzlkMTZmYzMzOTVjNDQxOTk0OTE0ZjE2Nzc2ODFhMTRcIixcImlzUGlpVXNlck1pZ3JhdGVkXCI6ZmFsc2UsXCJuYW1lXCI6XCIxXCIsXCJwaG9uZVwiOlwiOTY3MzIzNzI4N1wiLFwiaXBcIjpcIjI0MDk6NDBjMjoxMjE0OjljYzY6ZGM1Njo4MDNlOjgyMGU6OTExZlwiLFwiY291bnRyeUNvZGVcIjpcImluXCIsXCJjdXN0b21lclR5cGVcIjpcIm51XCIsXCJ0eXBlXCI6XCJwaG9uZVwiLFwiaXNFbWFpbFZlcmlmaWVkXCI6ZmFsc2UsXCJpc1Bob25lVmVyaWZpZWRcIjp0cnVlLFwiZGV2aWNlSWRcIjpcIjg2NzkxLTgwMDBkZS00OWY2MTEtNTY4NTdhXCIsXCJwcm9maWxlXCI6XCJBRFVMVFwiLFwidmVyc2lvblwiOlwidjJcIixcInN1YnNjcmlwdGlvbnNcIjp7XCJpblwiOntcIkpIU01vYmlsZUxpdGVcIjp7XCJzdGF0dXNcIjpcIlNcIixcImV4cGlyeVwiOlwiMjAyNi0xMS0wN1QxMDoxODo0NS4wMDBaXCIsXCJzaG93QWRzXCI6XCIxXCIsXCJjbnRcIjpcIjFcIn19fSxcImVudFwiOlwiQ2hvS0Vnb0FDZzRTQlRVMU9ETTJFZ1UyTkRBME9SSUVPR1JZQVFxOUFRb0ZDZ01LQVFVU3N3RVNCMkZ1WkhKdmFXUVNBMmx2Y3hJSllXNWtjbTlwWkhSMkVnWm1hWEpsZEhZU0IyRndjR3hsZEhZU0JISnZhM1VTQTNkbFloSUViWGRsWWhJSGRHbDZaVzUwZGhJRmQyVmliM01TQm1wcGIzTjBZaElLWTJoeWIyMWxZMkZ6ZEJJRWRIWnZjeElFY0dOMGRoSURhbWx2RWdaclpYQnNaWElTQjJwcGJ5MXNlV1lhQW5Oa0dnSm9aQm9EWm1oa0lnTnpaSElxQm5OMFpYSmxieW9JWkc5c1luazFMakVxQ21SdmJHSjVRWFJ0YjNOWUFRb05FZ3NJWmpnSFFBRlF1QWhZQVFydEFRb0ZDZ01LQVFBUzR3RVNCMkZ1WkhKdmFXUVNBMmx2Y3hJSllXNWtjbTlwWkhSMkVnWm1hWEpsZEhZU0IyRndjR3hsZEhZU0JISnZhM1VTQTNkbFloSUViWGRsWWhJSGRHbDZaVzUwZGhJRmQyVmliM01TQm1wcGIzTjBZaElLWTJoeWIyMWxZMkZ6ZEJJRWRIWnZjeElFY0dOMGRoSURhbWx2RWdaclpYQnNaWElTQjJwcGJ5MXNlV1lTQkhoaWIzZ1NDM0JzWVhsemRHRjBhVzl1RWd4cWFXOXdhRzl1Wld4cGRHVVNEV1psWVhSMWNtVnRiMkpwYkdVYUFuTmtHZ0pvWkJvRFptaGtJZ056WkhJcUJuTjBaWEpsYnlvSVpHOXNZbmsxTGpFcUNtUnZiR0o1UVhSdGIzTllBUktBQVFnQkVJaVhrcXliTkJwRkNocEthVzh1U1U0dVFuVnVaR3hsTGsxdmJuUm9iSGt1UmxSVVNCSU5TRzkwYzNSaGNrSjFibVJzWlJvRFNtbHZJSkRkczRxUE5Dalk4TGlXb0RRd0JqZ0JRUFFYS0FFd0FUb2ZDaHRJYjNSemRHRnlVSEpsYldsMWJTNUpUaTVOYjI1MGFDNHlPVGtRQVVJSEtPQzZySVNQTkVnQlwiLFwiaXNzdWVkQXRcIjoxNzkyNjg5MTI1ODI0LFwibWF0dXJpdHlMZXZlbFwiOlwiQVwiLFwiaW1nXCI6XCI1XCIsXCJkcGlkXCI6XCJlNTBlYjJmNzRhOGI0NzVhODAxY2M0ZGVkNjM0ZWM4MVwiLFwic3RcIjoxLFwiZGF0YVwiOlwiQ2hJSUFDSU9nQUVlaUFFQmtBSHBqL0tUZ2k0S0JBZ0FPZ0FLTGdnQVFpb0tLRUpoTWpNMlpUVTRNekF4TVRVMFpqWTVZbVprWVRSaE1HUmpNREE0Tm1ZeE9VSk5TM2xQUlZVPVwifSIsImlzcyI6IlVNIiwiZXhwIjoxNzkyNzc1NTI1LCJqdGkiOiI4NGM1OWM4NmVjZTk0MmIxYjAyMjgyYzQ3YTBhZjc1NCIsImlhdCI6MTc5MjY4OTEyNSwiYXBwSWQiOiIiLCJ0ZW5hbnQiOiIiLCJ2ZXJzaW9uIjoiMV8wIiwiYXVkIjoidW1fYWNjZXNzIn0.g9G1qjTIuJnL0QBBZ3uSsC39C4X9srqC8unp3LOrL1g; loc=EPaN6dYGKAMiiwIK5kom%2BZAejBXDGc5ZIlN0FbMnMNGLnvolN55KFPGDpBQ37Kicf3aVLeNFarrsRQTx8lPm8KUfHJfTJYnh117UqlKpMLd3Au0ncehRZkdEjQv6UxSZGG7S%2FUe2VQth3UGtQBq7KYlC23iJOp29rcEq2AzIInQsBcjJNXbAbRJgBivBgDNDKLSt2zIY1giG4VGLTlXLOQ%2FqU%2FsdG3l42JCQCZ3d58sMZNCJAWDPOdzm5dUZC5iOaIgZhVsu%2FUn%2BcYjuBKfwseKQgRjuX1sQDUWjiGhk%2BjrpC0PRzMiJXZHytZTFZS8JLUw5rTZQ%2FCHjSrc587S%2FoQv%2F%2FH0UT4PBBBuR4H%2B%2B7LmrypnQm8c%3D; _abck=7A90F0D0AAA5966D9C1DF630A8D4A269~-1~YAAQplM2F1D7ul+hAQAAF8F2ZBBcexwi82NKLBvaFCdxnYI0KBT0ISdpH1xnav9aKZVyMUu9olg8YyJOJHhwnt//v3714x/BiqBC6LY9c57/BnODvjjvQH2QKFtFcmV4l3xYczbxbG17u/uHUJdreJhSzZLIA3nGUa7+ArZeNSgWS2LkmcFrHNX1n+aB2E54WS6Px8yegfXfaN0blG/7S6cf0Rh4sULoxvsrK7ucqfEbjTioJL1wz9T4vycL2ikVot7OyksqsCtFhn9Q4UHoANBcBOkRBkPWLkoSlwWZF08Edpb0J1BU8IGMXRDokv8svyMxUsQ0ZTiZdVv/h0Eoi3NuIAV5mCVekCY7VQ6XwRC/79O2pE1MUZoAtSIsoTLLBmJ4bDprqkpaVvv8zLgFYSu3lWIjF4+KZK/tbsQhtHf6ssH/BAL2Ubbur0jgUf03tMw4F3fgfHgFjq3SYNGPTSIFrn+4vVNKWoFG/InRgDgRiE3WbZNYOw3pgEYIP0zh5D6R+EJ7wH/jK+JGd3TJUYQWMfXfKR6x+WI5/V1JGHddf0h46Q5gXWmrSBCKStAtLfTg82gW2G2t4IduWpvBpqjHeOKtH7IHWPy0gztqE2o2TqGpulth4B0v8UvZaMSf2y5AsGGna7NrVhcELeFW5FA/RSLQwI2tp4yHPnXgFTHNkKuLqp+1odpBgyjkzkoAjuTvWREuN6PZfbCPxnms3Z2U/AAnjEblAYrIjYeUOv03GAU3CPFp4lika3fIqlvSDKDXbTADIcucjCqvdHO7NHPBCkgZCOQxgoi7oR9Suvl1ThrI5xDfpkwf94iEHSxmkPkgIli5BKx4yYRQke/0vq+HbTGgc7bl8mjjq+JdtTADh4QzePT1OVSIHuvsLOQzAFgsD5GhkpzNrJvBJDNC6FXa5F80ws8A3jB8Zw==~-1~-1~-1~-1~-1; bm_sz=E45671BDF1DC5CCBF6956529DB09FAEC~YAAQrFM2F76nuV+hAQAARVu2ZAGFwk3z46iFbZqXhBHz/GfxQ3T0jKYbccMFwvxuGcu6SJr+s8/GtVkXc0l+D/JP1L5tmoU8TAmTadhY1zQidtbofTIn33UoDkW/Hj5gKSMOEOWpu4IG0OUgGnvDDD0Zvz2ELYtkJQ1WllT799pNnKLqTbpfMeQb0abvZVV1qqrAuboCG80xflYyQlBcUxiDBbQtCMgLqDyMZniHMMLMGqlKbYq1qWgsU/deCgC/PlR/G3g2uwSQdb297Us1D+HyvY21pKnDtKNCO3YByn2xOnYWYFWpv/ZCgpEgAq/0YCy2Mj7IRfBFiTjJF7nBihUzdhPu+pD8xrV35f1IWFKzrLjuyPrDnG5m2ZSI+c9+b5djqhHBCRUF0RLDBGeJZTJ43MqXc2OPOPkdjhhskhHV2GSdTk90NYdJwL6TY56tZw3xjhXM+pt+2pmtL8LGQNg++4u3LVb0hNRNb5bWxWPnHqVRTLxbwo/LhcF+eawxrLeDMidXM68hF3tTv3MrJf+zw3XT2ax1UZxXfHxbf4ZGYaFPoBk3Bt6+7zX6YE/2TUqf6gY7x9ZPb2IRK9I=~3682610~4604995; hdntl=exp=1792777440~acl=%2f*~id=d242c94a86a25b37c3b422d831f4e170~data=hdntl~hmac=2ee17adaf15686caa0df74ab137b8ebdbe613857821aad981b6138906a037ec2"}
 https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8
 
+
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Movies",Lionsgate Play
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98b2685873b5594da39b27ce26247ba8:68d7621b5a0dd8a4564c3f99967ab4fe,d652385e31e451fe9db5979c0518db76:4f0080bcdf1ff8b09d6f77d732e458c0,51889dddb92c56db9cb3fbe535b11f22:24ceca8eaf87877092f3bff511a43bef,e3e0a27b9bc65688b59a4aaf78315348:60746012f0e0c344f608d53a01772f34,dc3b4cff66d85f63b325d0db722a8880:ab687e68bb4ff735253b241139cdae1a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/301865/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" group-title="Movies" provider-languages="English" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-category="Movies",MN+ HD
@@ -916,10 +937,10 @@ https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47385e73faeb9bd3ae24ede1c64a836c:95a40a70aa0b64855c747bd823cd5195,6acd48a9f7f8274d8749d35fa19457ee:00d51a8a32de20d20d762d048b766994,16283c5bdfdb14017e3c928962c01ab0:a8353cf7cb9d0b087700858de0372970,871f7d2cc54aa383e088e204b5238990:fd26ff9f6146cec812dd1be17340e3f6,271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
-
+#KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517,271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://streamflexsmm.in/Sflex-Jio/300270/manifest.m3u8
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=872
+
 
 
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
@@ -927,8 +948,8 @@ https://streamflexsmm.in/Sflex-Jio/300270/manifest.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1392
+#KODIPROP:inputstream.adaptive.license_key=ee7af8d657de578db2726201c69377b0:89b5479ed25236142381eb5263758edf,9f234493725a521da11653543220a5d8:7e3602612968c4f638767ef31af32c0c,ec6744e821e35c17845d9fb208dd6286:cdee3fdfeedcf51c53e3d84120158151,1122999e0b2d54878311d8f061800b5e:4b1be27715cdfff259ba2e61306bf8b0,35d9b95ff81e53a79158d6df3955ef06:c4fad495143181ffb807c4d8029a77d1
+https://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6961/1785252356961-h" group-title="Kids", Super Hungama Digital
