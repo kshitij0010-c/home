@@ -1119,10 +1119,9 @@ https://login.bheem.tv/bpk-tv/22647/output/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d64ea6e8cac8550c9befa8ee6d9512c8:292c06d344e62d309bd02fd243a1c0e2,83b3b4b63ae3b8bfcadaa9a4e4bf736c:a80ff939c7506434688ee3e6b99a3f63,fcf8776838b1ef8a29fe9039e3d41ed4:2d8d316d16b388ed701dca7a3ecd6a8a,bb20be8759dfd668adb8dcae896913ae:7249c6f87e20e84ffff5fb718f9775ef,924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d,c7275358bf9b93550b5056d1937994e5:fa69ad2e1b662325291f491e7eca0296
+#KODIPROP:inputstream.adaptive.license_key=f644ed76860c57dd9d271d8896790e24:c3941e16c4a5a7406544c80c44e5cb28,e42a0bcd198c5befa753937eaf745ea1:09b2aeedbbac89368e2624cc151adf01,29fc6569f9255193b3e6db25f5a66bd9:1c310f6341515628ee7aa897ab21c407,4eb222f1ff365f2a96bfe024d2f9551a:5fe1f03cb862da8e42c898c7e15e7bf3,4f71575031615eeebb7ca9986a4c50e8:1e6d28e1aebb9cef464d9ed96b40a071
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
 https://streamflexsmm.in/Sflex-Jio/304070/manifest.mpd
-
 
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id="3444"tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment"provider-languages="Hindi,English", Discovery HD
