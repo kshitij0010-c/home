@@ -23,9 +23,9 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44b1c0ecfa3f51fcadae09de41ff5689:f74b2a70f693943af69d5bc5553e6113,de6657db95f0519da7d43ee174db012e:c4948da86985770bb261078abde52bce,adb6b9b4fa9551ef80975d9d2a1152a4:8ee7da9df54d6d34b40a33c41c6e23d2,1a9f8bce7e3f5004963e369b56c18f15:71173b5d8addf2af505d3e117882a9be
+#KODIPROP:inputstream.adaptive.license_key=70ce79e941ac5b308f3fd8fc171fa3f7:f20bf73b9339106ce55484c1d9822cfd
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/300275/manifest.mpd
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1146
 
 #EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
