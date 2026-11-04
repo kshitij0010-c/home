@@ -359,15 +359,13 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 #EXTINF:-1 tvg-name="Sony MAX 2"tvg-id="2834"tvg-logo="https://img.media.jio.com/imagespublic/81/86/301559_1697790594048_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX 2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878&uid=8004188626&pass=61498d15
-
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
 
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247&uid=8004188626&pass=61498d15
-
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
 
 #EXTINF:-1 tvg-name="Sony WAH"tvg-id="2835"tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony WAH
 #EXTVLCOPT:http-user-agent=Virat
@@ -947,7 +945,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517,271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fhdntl%3Dexp%3D1793865645~acl%3D%252f%2A~id%3D429d33fc-30c2-458b-821b-a49e06c9b6c4~data%3Dhdntl~hmac%3Dcd3fa49925400ad441e4630737fd57e683d5f57e7c071bc1f1f270c16e260ba3%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAACtN%2BxqAAAAABQIWlw8gPNknPxog6%2BzKFF%2Bl4HDnU3dsUm5DmZ95bgb2a5xpK34vSsPDDlNtCRmHzj%2B3ioT4aUf%26aka_media_format_type%3Dhls
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
 
 
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
