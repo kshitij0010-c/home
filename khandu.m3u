@@ -24,8 +24,7 @@ https://streamflexsmm.in/Sflex-Jio/300275/manifest.mpd
 #EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://allinonereborn2.online
-https://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
-
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-id="445" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" provider-languages="Marathi" group-title="Marathi" group-title="Entertainment",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
