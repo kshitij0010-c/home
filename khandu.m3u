@@ -13,11 +13,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-id="1146" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Entertainment" catchup="append" catchup-days="1",Sony Marathi
+#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626&pass=61498d15
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44b1c0ecfa3f51fcadae09de41ff5689:f74b2a70f693943af69d5bc5553e6113,de6657db95f0519da7d43ee174db012e:c4948da86985770bb261078abde52bce,adb6b9b4fa9551ef80975d9d2a1152a4:8ee7da9df54d6d34b40a33c41c6e23d2,1a9f8bce7e3f5004963e369b56c18f15:71173b5d8addf2af505d3e117882a9be
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300275/manifest.mpd
+
+#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://allinonereborn2.online
+https://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
 
 
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-id="445" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" provider-languages="Marathi" group-title="Marathi" group-title="Entertainment",Zee Marathi
