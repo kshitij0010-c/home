@@ -13,21 +13,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-id="1146" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Entertainment" catchup="append" catchup-days="1",Sony Marathi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626&pass=61498d15
-
 #EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fhdntl%3Dexp%3D1793865645~acl%3D%252f%2A~id%3D429d33fc-30c2-458b-821b-a49e06c9b6c4~data%3Dhdntl~hmac%3Dcd3fa49925400ad441e4630737fd57e683d5f57e7c071bc1f1f270c16e260ba3%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAACtN%2BxqAAAAABQIWlw8gPNknPxog6%2BzKFF%2Bl4HDnU3dsUm5DmZ95bgb2a5xpK34vSsPDDlNtCRmHzj%2B3ioT4aUf%26aka_media_format_type%3Dhls
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
 
-#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://allinonereborn2.online
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259&uid=8004188626&pass=61498d15
+
 
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-id="445" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" provider-languages="Marathi" group-title="Marathi" group-title="Entertainment",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
