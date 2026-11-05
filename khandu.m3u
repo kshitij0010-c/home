@@ -936,12 +936,6 @@ https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony YAY" tvg-id="872" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony YAY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://jiotv.com
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1793865645~acl=/*~id=429d33fc-30c2-458b-821b-a49e06c9b6c4~data=hdntl~hmac=cd3fa49925400ad441e4630737fd57e683d5f57e7c071bc1f1f270c16e260ba3/master_3500.m3u8
-
 
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
 #KODIPROP:inputstream=inputstream.adaptive
@@ -966,12 +960,6 @@ https://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
 https://livetv.hotstar.com/mp1/gec-india-1540075047/feca5fc6c1234205b01efe48d12d4c7f/index.mpd
 
 
-
-
-#EXTINF:-1 tvg-name="Super Hungama"tvg-id="1392"tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Super Hungama
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 
 #EXTINF:-1 tvg-name="GreenGold TV" tvg-id="3467"tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids" provider-languages="Hindi" , GreenGold TV
@@ -1096,7 +1084,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Wow kids"tvg-id=""tvg-logo="https://img.media.jio.com/imagespublic/45/7/301199_1646295176396_p_medium.jpg" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Wow kids
+#EXTINF:-1 tvg-name="Wow kids"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/3uOW-LJchrMU9b4UBAvyxUB_jGj8McvtxhET8pqOhCYWQWNubxeYPYzmYWi91lOaiwp3zHM=s900-c-k-c0x00ffffff-no-rj" group-title="Kids" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Wow kids
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
