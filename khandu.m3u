@@ -234,144 +234,6 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 
-#EXTINF:-1 tvg-name="Goldmines"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-
-#EXTINF:-1 tvg-name="Goldmines SD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines SD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/1459/master.m3u8
-
-#EXTINF:-1 tvg-name="Goldmines Bollywood"tvg-id="2761"tvg-logo="https://yt3.googleusercontent.com/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ=s900-c-k-c0x00ffffff-no-rj"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines Bollywood
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/1461/master.m3u8
-
-#EXTINF:-1 tvg-id="185" tvg-name="&Pictures HD" group-title="Movies"  tvg-logo="https://cdn.smartads.in/images/product/television/And-Pictures-HD.png" tvg-language="Hindi" tvg-category="Movies",&Pictures HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4c6014d89505062bc35dee0ed519bed:2eac17b4204a2fa7a0f67ce63288fafe,44fe94d36c805cb19068afa8afefa67d:807af52ba671f10c1127cf7901b16b0a,e043d52515415ade82356a6546fb99c6:68062e7cb45e88955d64f87f110f0047,22b6b02b053d5271a874fc37b8b62f5c:b74cff91d1091c9968c61ea4c8cb8a3b,f46e0d24d4e15eb99dd8739315be218b:6fe0210a22a92a893c55253163151245
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/300328/manifest.mpd
-
-#EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies" ,ZeeCineClassic
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="B4U Kadak" tvg-id="1295" tvg-logo="https://img.media.jio.com/tvpimages/50/90/301408_1754934414372_l_medium.jpg"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",B4U Kadak
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/227/master.m3u8
-
-#EXTINF:-1 tvg-name="B4U Movies"tvg-id="182"tvg-logo="https://img.media.jio.com/tvpimages/80/18/300002_1754934453417_l_medium.jpg"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",B4U Movies
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn.pishow.tv/ott/live/419/master.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-id="1477" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Movies", Colors Cineplex HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ae6b6fe48c159a5897bf5e8688ceea8:afac929928ec077c3837e0607d47954a,8ea588319b7e52448fb54e12a0f57582:402f286cddfda49969e35730b63ee9c8,e54880bfc4d8503b8c4dc666b7b8d455:e454d59841ae47d57e3f12b31ba590c8,525ba723a77f561789366f6dc558cace:37dfc1693b3fb2cc93c8094c6911beee,fd351bb50af8578381b76f1dd5d15ea1:66cf94c16134ac4c0714d35df3dc3e8f
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/301385/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-name="Colors Cineplex Superhits" tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies", Colors Cineplex Superhits
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd7fef10257850f39ff9a38a93afd966:d1b4180b35ac7df8409d6e8cefa56779,e6155ab8c7085be892141ab0bee9fffb:8295ae40c472be09795ce9bbdd9524a6,fde2920f1c7d53e78ba09a06cd964923:f7012dfb6b033de4acccfd8dd558e581,ade44c346c555fae9de0d8fbc1be65f9:12208829574e5df4940be8eadc12d631,c29659d415e95f33883ef00817f3022a:d56cad9f8a0036bb88a60f389a29075c
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/301384/manifest.mpd
-
-#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-id="1763" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood1.png" group-title="Movies", Colors Cineplex Bollywood
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5da7836c77cb5ea89835bca1174881f8:b5fd398d4965c01da20d7a218eae75f3,df97f9d0b17b5e66a6d1ab2316fae21c:e8afbee62b73529075a9f7815670f90b,8cdce560f1e55fe4b8db4f456c3d0143:c3d4e9b5fe5253ee4af3b5c4716f3ccc,756763a5d99053b4bd65813bd9a9f907:043276975b2680b7b8b63591a26528e0,5c63c965d93e508395cefb7dc3404adf:6d9b468c1499a56d21b6d0876aed44c6
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/301024/manifest.mpd
-
-
-#EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://streamflexsmm.in/Sflex-Jio/304184/manifest.m3u8
-
-#EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/302703/manifest.m3u8
-
-#EXTINF:-1 tvg-name="NH BollyGold"tvg-id="3338" tvg-logo="https://img.media.jio.com/tvpimages/72/57/302704_1756192888195_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyGold
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/302704/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Pocket Films"tvg-id="3259"tvg-logo="https://img.media.jio.com/tvpimages/42/92/301959_1744189047637_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Pocket Films
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://10.144.108.26:5001/live/key/3259
-http://10.144.108.26:5001/live/mpd/3259
-
-#EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2025/09/Shemaroo-Josh-Logo.webp" group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
-
-#EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-id="3075"tvg-logo="https://img.media.jio.com/imagespublic/45/20/301765_1721227984167_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Bollywood
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Shemaroo Bollywood HD"tvg-id="3075"tvg-logo="https://img.media.jio.com/imagespublic/45/20/301765_1721227984167_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Bollywood HD
-#EXTVLCOPT:http-user-agent=Virat Kohli
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563d1b796c608884cb2164d3f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ca96852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40dc72a1af1c56953d51b1d116cb8219b3d6c909cd438f6bf015cb93ed82d5188b9bc532ab53b1660d0c762c9bd04bb8a332de4c454443fe5806047b7ce8a79aff3c53ec25626f88344f22078577ef9a2c801a57f160ca0cecb8ed1a379fb261b2c1f99ba688d08b89c67b5207ea898199f2347c9669f7a9e8c972463e977e656ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d114cbd3e2d8af878444ca719187ecce690b0e4214128a58959f6ff020c937fd9d446f0f1b04e5b17df0abf512706e468d851ef31618b2d4c2c3fc0629c56d1e15b9358d1555229c7a3c3cd62cff9b2e65c67359d27b6ead18108445b3e979a1e98bab5675e5acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaa10c641d70c057ebc0c5e7637b69c1feceeccf4037012d6d3c298fe5e230d6cef7201312ce443522133412850fc266cf0a2a517a9dfeb24692fa3060caf75fbae16e03e5657ff2d845d15393/144/1920x1080_6046040/index.m3u8
-
-#EXTINF:-1 tvg-name="Sony MAX 2"tvg-id="2834"tvg-logo="https://img.media.jio.com/imagespublic/81/86/301559_1697790594048_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX 2
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
-
-#EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
-
-#EXTINF:-1 tvg-name="Sony WAH"tvg-id="2835"tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony WAH
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009253&uid=8004188626&pass=61498d15
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://img.media.jio.com/tvpimages/65/42/301971_1753202659811_l_medium.jpg" group-title="Movies",Star Gold HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -408,6 +270,12 @@ https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396
 #KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
 https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
 
+
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
+
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/73/72/302104_1753204022099_l_medium.jpg" group-title="Movies",Star Gold 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -415,8 +283,18 @@ https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652
 #KODIPROP:inputstream.adaptive.license_key=43155c2950d55de094d215bc4b1bbee5:aeb7b0f26f5d97a185f1ddf4de7258b2,89ef6ed31dc95fe6a93d419c9e1ec170:f4febdd6a9e606a5886af20233491466,40f43a4517f8546a920c02b41da475f9:74bef3786bf0cd52f5953de55fd73ecc,c36a6e569233553aba59769f4836fdc5:8dc7e83aebd6aaa7cd024d273ec04354,2ac1945910ad5236962147f22f1a6a97:953279bc4dfa0aa40decf919ca388568
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=plaYtv/7.1.5&Referer=https://www.jiotv.com/
 
-
 https://streamflexsmm.in/Sflex-Jio/302104/manifest.mpd
+
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies" ,Zee Cinema HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70df41ef3a3654d7b1cb13fbb2430480:dd83f24ebf2fb5ef5aafb075b9451d44,ae9a750f39ee523c88f71c47872029ce:ce973e45f923884cce42020da0fb6398,2f73fd6fc33055f0931e6b52989a968b:67821d540d498438c3c84e13b8971f77,27eb79e6c8ef594ea8508011b606bb02:1dd808f8b8e367dd9205128bc0865dee,eaf2c59f5bad5ce293838b116585174c:a85d1ce160047f14bfb2b93a1ef23859
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+
+https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
@@ -439,45 +317,20 @@ https://streamflexsmm.in/Sflex-Jio/302103/manifest.mpd
 https://streamflexsmm.in/Sflex-Jio/302108/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
+
+
+
+#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-id="1477" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Movies", Colors Cineplex HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce1810a0a43f54469b3a21a2c3b09859:462773af0b88a8ae475c889d71e32875,443ffbb3389c532eb865bf0bd019cf63:bc6975f391d8bc2de164a1999defe956,50f27016b2a05728ae5882879f21f26c:f0bd506fa1ce4dd3775637ae341a4716,3b3e8f2a768258d8bdc70d7ec3db9704:acc37d2d4358897cf2bc9786a91a5f57,78e4554863ba5e37aa138586efc2a0c7:abb380a8bed73fa959998cf5ddc61bb6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/301988/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Movies",Star Utsav Movies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcbc8cad67e15fe2b5ff1d488a4ee0f9:bd1935a034868c7ab29fa95d8aa5d3e0,0c8a6ce607b35403874ea9572bb35f78:c545b4933227b11e5fb03f4a3db62920,44ddcb1fc1aa59d898b240467841e66c:b98b1f30f5da0cf19fbff27f353e41d1,d6465131aa215f3ab237827f21659928:d68995d8ba9a4e237d094f8e05070612,25c3dca19fed535db5233e3859d4f582:1e8cac37bd2965ee2994e34621b84d91
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-
-https://streamflexsmm.in/Sflex-Jio/302000/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1ae6b6fe48c159a5897bf5e8688ceea8:afac929928ec077c3837e0607d47954a,8ea588319b7e52448fb54e12a0f57582:402f286cddfda49969e35730b63ee9c8,e54880bfc4d8503b8c4dc666b7b8d455:e454d59841ae47d57e3f12b31ba590c8,525ba723a77f561789366f6dc558cace:37dfc1693b3fb2cc93c8094c6911beee,fd351bb50af8578381b76f1dd5d15ea1:66cf94c16134ac4c0714d35df3dc3e8f
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/301385/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies" ,Zee Cinema HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70df41ef3a3654d7b1cb13fbb2430480:dd83f24ebf2fb5ef5aafb075b9451d44,ae9a750f39ee523c88f71c47872029ce:ce973e45f923884cce42020da0fb6398,2f73fd6fc33055f0931e6b52989a968b:67821d540d498438c3c84e13b8971f77,27eb79e6c8ef594ea8508011b606bb02:1dd808f8b8e367dd9205128bc0865dee,eaf2c59f5bad5ce293838b116585174c:a85d1ce160047f14bfb2b93a1ef23859
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-
-https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png" group-title="Movies",Zee Action
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2fb0c818acb5684865ecf55afec644c:f6720a3844a47959f4cbd77c84de7533,bee67e0de5a15717b6a871614b91b0f3:c9127c8927ffe95446ed7acdc03da664,1e93a2d066d65a419ff727950c5878be:a47fe0841077a4f434597146436574b5,0b045160e98c5e138819b41b659470dc:fd539c538e9cd79a6b65fd61e1421219,6eeaa4f6093657e78c816ce4f27c862f:5cec930ed19d64d7b336ce2dbfb27f9a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
-https://streamflexsmm.in/Sflex-Jio/300350/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="Movies",Zee Bollywood
@@ -499,6 +352,15 @@ https://streamflexsmm.in/Sflex-Jio/300312/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 https://streamflexsmm.in/Sflex-Jio/300374/manifest.mpd
 
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png" group-title="Movies",Zee Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2fb0c818acb5684865ecf55afec644c:f6720a3844a47959f4cbd77c84de7533,bee67e0de5a15717b6a871614b91b0f3:c9127c8927ffe95446ed7acdc03da664,1e93a2d066d65a419ff727950c5878be:a47fe0841077a4f434597146436574b5,0b045160e98c5e138819b41b659470dc:fd539c538e9cd79a6b65fd61e1421219,6eeaa4f6093657e78c816ce4f27c862f:5cec930ed19d64d7b336ce2dbfb27f9a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300350/manifest.mpd
+
 
 #EXTINF:-1 tvg-name="ZeeSouthflix" tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies" provider-languages="", ZeeSouthflix
 #KODIPROP:inputstream=inputstream.adaptive
@@ -513,6 +375,26 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="ZeeCineClassic" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260325T012324SQUARE.png" group-title="Movies" ,ZeeCineClassic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="185" tvg-name="&Pictures HD" group-title="Movies"  tvg-logo="https://cdn.smartads.in/images/product/television/And-Pictures-HD.png" tvg-language="Hindi" tvg-category="Movies",&Pictures HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4c6014d89505062bc35dee0ed519bed:2eac17b4204a2fa7a0f67ce63288fafe,44fe94d36c805cb19068afa8afefa67d:807af52ba671f10c1127cf7901b16b0a,e043d52515415ade82356a6546fb99c6:68062e7cb45e88955d64f87f110f0047,22b6b02b053d5271a874fc37b8b62f5c:b74cff91d1091c9968c61ea4c8cb8a3b,f46e0d24d4e15eb99dd8739315be218b:6fe0210a22a92a893c55253163151245
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/300328/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-name="&XplorHD" tvg-id="1667"tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies"provider-languages="Hindi",&XplorHD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
@@ -522,6 +404,113 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #KODIPROP:inputstream.adaptive.license_key=011009d86d06586eb1396722e55ffd2b:186315be04a0de4c835b79aca1cf03f2,a17c55a83ed55d3d843b3d3c55db7d6f:8362eabd4f344f9e11a08fabd2252d22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce1810a0a43f54469b3a21a2c3b09859:462773af0b88a8ae475c889d71e32875,443ffbb3389c532eb865bf0bd019cf63:bc6975f391d8bc2de164a1999defe956,50f27016b2a05728ae5882879f21f26c:f0bd506fa1ce4dd3775637ae341a4716,3b3e8f2a768258d8bdc70d7ec3db9704:acc37d2d4358897cf2bc9786a91a5f57,78e4554863ba5e37aa138586efc2a0c7:abb380a8bed73fa959998cf5ddc61bb6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/301988/manifest.mpd
+
+#EXTINF:-1 tvg-name="Sony MAX 2"tvg-id="2834"tvg-logo="https://img.media.jio.com/imagespublic/81/86/301559_1697790594048_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX 2
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony WAH"tvg-id="2835"tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony WAH
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009253&uid=8004188626&pass=61498d15
+
+#EXTINF:-1 tvg-name="Goldmines"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines SD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines SD
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn.pishow.tv/ott/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines Bollywood"tvg-id="2761"tvg-logo="https://yt3.googleusercontent.com/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ=s900-c-k-c0x00ffffff-no-rj"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Goldmines Bollywood
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="B4U Kadak" tvg-id="1295" tvg-logo="https://img.media.jio.com/tvpimages/50/90/301408_1754934414372_l_medium.jpg"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",B4U Kadak
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn.pishow.tv/ott/live/227/master.m3u8
+
+#EXTINF:-1 tvg-name="B4U Movies"tvg-id="182"tvg-logo="https://img.media.jio.com/tvpimages/80/18/300002_1754934453417_l_medium.jpg"group-title="Movies" provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",B4U Movies
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn.pishow.tv/ott/live/419/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Colors Cineplex Superhits" tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies", Colors Cineplex Superhits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd7fef10257850f39ff9a38a93afd966:d1b4180b35ac7df8409d6e8cefa56779,e6155ab8c7085be892141ab0bee9fffb:8295ae40c472be09795ce9bbdd9524a6,fde2920f1c7d53e78ba09a06cd964923:f7012dfb6b033de4acccfd8dd558e581,ade44c346c555fae9de0d8fbc1be65f9:12208829574e5df4940be8eadc12d631,c29659d415e95f33883ef00817f3022a:d56cad9f8a0036bb88a60f389a29075c
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/301384/manifest.mpd
+
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-id="1763" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood1.png" group-title="Movies", Colors Cineplex Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da7836c77cb5ea89835bca1174881f8:b5fd398d4965c01da20d7a218eae75f3,df97f9d0b17b5e66a6d1ab2316fae21c:e8afbee62b73529075a9f7815670f90b,8cdce560f1e55fe4b8db4f456c3d0143:c3d4e9b5fe5253ee4af3b5c4716f3ccc,756763a5d99053b4bd65813bd9a9f907:043276975b2680b7b8b63591a26528e0,5c63c965d93e508395cefb7dc3404adf:6d9b468c1499a56d21b6d0876aed44c6
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/301024/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Movies",Star Utsav Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcbc8cad67e15fe2b5ff1d488a4ee0f9:bd1935a034868c7ab29fa95d8aa5d3e0,0c8a6ce607b35403874ea9572bb35f78:c545b4933227b11e5fb03f4a3db62920,44ddcb1fc1aa59d898b240467841e66c:b98b1f30f5da0cf19fbff27f353e41d1,d6465131aa215f3ab237827f21659928:d68995d8ba9a4e237d094f8e05070612,25c3dca19fed535db5233e3859d4f582:1e8cac37bd2965ee2994e34621b84d91
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
+
+https://streamflexsmm.in/Sflex-Jio/302000/manifest.mpd
+
+#EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema"tvg-id="3543" tvg-logo="https://img.media.jio.com/tvpimages/5/91/304184_1778570911500_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Eros Universe Bollywood Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://streamflexsmm.in/Sflex-Jio/304184/manifest.m3u8
+
+#EXTINF:-1 tvg-name="NH BollyFlix"tvg-id="3336" tvg-logo="https://img.media.jio.com/tvpimages/27/37/302703_1756192794903_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyFlix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/302703/manifest.m3u8
+
+#EXTINF:-1 tvg-name="NH BollyGold"tvg-id="3338" tvg-logo="https://img.media.jio.com/tvpimages/72/57/302704_1756192888195_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",NH BollyGold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://streamflexsmm.in/Sflex-Jio/302704/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Josh" tvg-id=""tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2025/09/Shemaroo-Josh-Logo.webp" group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Josh
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-id="3075"tvg-logo="https://img.media.jio.com/imagespublic/45/20/301765_1721227984167_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Shemaroo Bollywood
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="3100" tvg-name="Star Pravah Picture HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Movies",Star Pravah Picture HD
@@ -540,32 +529,28 @@ https://streamflexsmm.in/Sflex-Jio/302094/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=dafe382cbbc24dd7a4c01ab8db18f7f7:2a5a0eff0db002da22d4e64e60294426
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd
 
-#EXTINF:-1 tvg-name="Epic Music"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Music
+#EXTINF:-1 tvg-name="Epic Music" tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Music
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/b40f0922-93e9-463f-bcfd-7a5299fb8018/0.m3u8
 
-#EXTINF:-1 tvg-name="9X Jalwa"tvg-id="440"tvg-logo="https://img.media.jio.com/imagespublic/69/32/9XJalwa_1574666782307_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9X Jalwa
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-id="440"tvg-logo="https://img.media.jio.com/imagespublic/69/32/9XJalwa_1574666782307_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9X Jalwa
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
-#EXTINF:-1 tvg-name="9x Jhakaas"tvg-id="441"tvg-logo="https://img.media.jio.com/imagespublic/29/31/9xJhakaas_1574666857786_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9x Jhakaas
+#EXTINF:-1 tvg-name="9x Jhakaas" tvg-id="441"tvg-logo="https://img.media.jio.com/imagespublic/29/31/9xJhakaas_1574666857786_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9x Jhakaas
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="9x Jhakaas HD"tvg-id="441"tvg-logo="https://img.media.jio.com/imagespublic/29/31/9xJhakaas_1574666857786_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9x Jhakaas HD
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/ts-eu-w1-n2/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/cb563d1b796c608884cf2167d5f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ca96852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40dc72a1af1c56953d51b18010cfd019b889c909ca11806bf015cb93ed82d617829b9365fb04b0355108712dcdd24bb8a332de4c454443fe5806047b7ce8a79aff3c53ec25626f88344f22078577ef9a2c801a57f160ca0cecb8ed1a379fb261b2c1f99ba688d08b89c67b5207ea898199f2347c9669f7a9e8c972463e977e656ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d114cbd3e2d8af878444ca719187ecce690b0e4214128a58959f6ff020c937fd9d446f0f1b04e5b17df0abf512706e468d851ef31618b2d4c2c3fc0629c56d1e15b9358d1555229c7a3c3cd62cff9b2e65c67359d27b6ead18108445b3e979a1e98bab5675e5acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaa10c641d70c057ebc0c5e7637b69c1feceeccf4037012d6d3c298fe5e230d6cef7201312ce443522133412850fc266cf0a2a517f9bfeb27bf3ee3060fc7f5260fcf86f1e92c67a4ce5588e9e/112/1920x1080_4716800/index.m3u8
 
 #EXTINF:-1 tvg-name="9X Tashan"tvg-id="732"tvg-logo="https://img.media.jio.com/imagespublic/48/54/9XTashan_1574691844613_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9X Tashan
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="9XM"tvg-id="587"tvg-logo="https://img.media.jio.com/imagespublic/64/77/9XM_1570454383418_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9XM
+#EXTINF:-1 tvg-name="9XM" tvg-id="587"tvg-logo="https://img.media.jio.com/imagespublic/64/77/9XM_1570454383418_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",9XM
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
