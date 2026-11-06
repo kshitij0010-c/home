@@ -896,6 +896,15 @@ https://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
 #EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d43b2a2743354c983c599407ff2a074:893a1d6edade1e2c24e6e02c6ed60be3,8619d8f6a63653ddb4717df5bf58c7b3:3956dc194a62d6cde06702830779b380,3159c076423c5cc794e519ed705d53e0:fcaea22521e65f0c3beda313099e2757,f854de8fe93f5daa94978fe012416110:cb1001de21d3e82bc8bf466da14a00fa,67573ee847d454cd915be0f336f26626:907a34ec86b6edc26cb1249fd5ea139f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+
+https://streamflexsmm.in/Sflex-Jio/304056/manifest.mpd
+
+#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
@@ -1008,9 +1017,9 @@ http://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a92e184d07a75cb6817cee9f0a677b47:d9b68fa62fb2ae68a044d36f6306569f
+#KODIPROP:inputstream.adaptive.license_key=faa9b3f665ed5688b50794f73f53784c:5318653f9dc867143462674714dbd466,3b65902da22c51739c93ad7ab530cd25:e9b20fa5d0cb0834feb4c204e93423dd,92fb7b23f7cc5f958bb1a435d2757a96:3a36f55ac86b6e8a86fa53c5bf2b0a87,fa80af0bb8dc5651bc0877aee69e3b1f:8d6569ffee15d128974824b7e45c5ee7,4df60e5fecda5c74a8f1e64681f5ae80:7b114d808c811638952f2e3392a8788a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium Plugx&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1374
+https://streamflexsmm.in/Sflex-Jio/302074/manifest.mpd
 
 #EXTINF:-1 tvg-name="Epic Kids" tvg-id="3385" tvg-logo="https://img.media.jio.com/tvpimages/43/6/304034_1777617220424_l_medium.jpg"group-title="Kids"provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Epic Kids
 #EXTVLCOPT:http-user-agent=Virat
@@ -1146,7 +1155,7 @@ https://streamflexsmm.in/Sflex-Jio/302089/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a,5fc5ca00cfc3511a8160b7bfc7a687fc:da9379ce062026b86742180117e7211d,31659b326bd357b1b44b9085d26f02b5:32c7bb1397642d2ac88fac610137cbd6,a1f5db08654c5c64acf370848df001ad:2d2a60d561a92b67de024a4c3a768db2
+#KODIPROP:inputstream.adaptive.license_key=2bff6d5fe0545b679a21443244c39d0a:f4f2dd1c4d2c607bc8a4aba56fac5a6a,90ac4418f68c53c98d2a3f7a9c0413d1:4a9d59369e6674661042ff43aa9d3b74,3262332613e451e5bac5a6f1a5dd0abd:6248c0af4774cf6621609fc6352ebdea,a78b3f56bd0151e0861458c275cea361:875f1430d208e9354eb80ee25e70cc88,d76aa217a4575df5bce80ee0ff6b2121:a7292878f520073ea2826959c21ecdfa
 
 https://streamflexsmm.in/Sflex-Jio/302076/manifest.mpd
 
