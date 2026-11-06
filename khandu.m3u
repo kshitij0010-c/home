@@ -247,29 +247,6 @@ https://streamflexsmm.in/Sflex-Jio/301971/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" group-title="Movies",Star Gold HD Digital
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-#KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
-https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HS" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" group-title="Movies",Star Gold HS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
-https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd
-
 
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="https://www.jiotv.com/":http-user-agent="Virat",Sony MAX HD
 #EXTVLCOPT:http-user-agent=Virat
@@ -715,26 +692,8 @@ https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232
 #KODIPROP:inputstream.adaptive.license_key=8e48435ba038548299ee73fef998535d:b89d18e54ad2b5576c27c3259db19a3e,5b50f11a09a15275b5742ef2d6e001e0:9b9ce35c8d91340939031aba5e433991
 http://streamflexsmm.in/Sflex-Jio/301229/manifest.mpd
 
-#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg" group-title="Sports", Star Sports 2 HD Hindi Digital
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-#KODIPROP:inputstream.adaptive.license_key=effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc
 
-https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD Hindi" tvg-logo="https://i.ibb.co/B5Mnd89k/SS2-HINDI.jpg" group-title="Sports", Star Sports 2 HD Hindi
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8
 
 
 #EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Movies",Lionsgate Play
@@ -831,26 +790,14 @@ https://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 #KODIPROP:inputstream.adaptive.license_key=bb388508e8115e99a9d47adc9ff75a05:a1f994be722f62762ae54b31e54e9aa0,b9b687a7c29b51a397012e44db459008:90e01b578e0fc3630f4aacfb9d4220e1,a5cf424e1c4259be9f2e336797d4cd91:bcdb2801f5d0d0293e0700d0dfe3c8fc,8dfc8dae041853e2ba021f0c4f014dc8:e1a8c6087493ea0045297d1a4177984c,3c78887036795a119afaab68e94818d5:d8f94f0f7d26f50348e0b04ed2d01088
 
-https://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd
+http://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="3578" tvg-name="Disney Channel HD Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel HD Digital
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://tv.hotstar.com
-#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://tv.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
 
-https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1792815037~exp=1792815637~acl=/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/*~data=ip=DGRtxZRqDBfk5uI6lHMH0rA6DeEQ806WU8MfgdcUPyu70F56AqnHU6G-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=7-pl=web-ap=26.10.05.0-ut=paid-~hmac=009a9e571ff999ffdc0cebc9f8e2bb928b35a4e203070985165ce241e11d12bd
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids",Cartoon Network
 #KODIPROP:inputstream=inputstream.adaptive
@@ -921,7 +868,7 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 #KODIPROP:inputstream.adaptive.license_key=ee7af8d657de578db2726201c69377b0:89b5479ed25236142381eb5263758edf,9f234493725a521da11653543220a5d8:7e3602612968c4f638767ef31af32c0c,ec6744e821e35c17845d9fb208dd6286:cdee3fdfeedcf51c53e3d84120158151,1122999e0b2d54878311d8f061800b5e:4b1be27715cdfff259ba2e61306bf8b0,35d9b95ff81e53a79158d6df3955ef06:c4fad495143181ffb807c4d8029a77d1
-https://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
+http://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
 
 
 
