@@ -819,7 +819,7 @@ http://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbddeabdd7775d4990ffd45e8fb1233f:6de1b1a97b8d816252e69e8b723d26ed,e2b051589267571eb25e7396e65d3174:070d63804ef2bbb3409bb9e91fc8e317,5bcc5838cf655f31b41cb592beffefec:a4c4529d3c3ddb42f37c2adc551c1f48,19fb71abb0145d60a2db8413732d0f7c:2214453b3df649f2436021391aa24780,7767859843625fc79a5220db1bb7224f:0f4f6c2c9a4c472ac83d84038a352ff2
+#KODIPROP:inputstream.adaptive.license_key=7767859843625fc79a5220db1bb7224f:0f4f6c2c9a4c472ac83d84038a352ff2,5bcc5838cf655f31b41cb592beffefec:a4c4529d3c3ddb42f37c2adc551c1f48,e2b051589267571eb25e7396e65d3174:070d63804ef2bbb3409bb9e91fc8e317,bbddeabdd7775d4990ffd45e8fb1233f:6de1b1a97b8d816252e69e8b723d26ed,19fb71abb0145d60a2db8413732d0f7c:2214453b3df649f2436021391aa24780
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 
 https://streamflexsmm.in/Sflex-Jio/301584/manifest.mpd
@@ -972,7 +972,7 @@ http://streamflexsmm.in/Sflex-Jio/304070/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7913c653f73528293fa03ad952a5f10:2f3af9de15e0cfc0f4279c2111bf5a04,815deadfe83c5086aa53604072de88d0:45a09c05cda1acff713d379b07abff1a,4fb4392888535a39944e9a6882245e8f:3b7f8d228abdbb0f784ff2a866b24c49,8f71c371a19651dd8c29aa3799896a9c:7470d25aa693b8ab29e5d4e012c654d0,78b186de82c859a1bc14fe8e68d85c41:a1913cb64f0b3680ece508a2d54ea8da
+#KODIPROP:inputstream.adaptive.license_key=16732fd61ab659e3b3a411533c71a840:74f8607972320f740c33084d401150f2,8fa0359df71659a4bdd06a80096d70f7:0bd42de051711690e7a4bf6485953e93,8a227be31bb252b7964459e72f240aa6:9a1469ee221dde77c4f9c07645d12973,8bf5e2e2cfbd507f9c508086acbd914a:52c9b4ce3253e7d47824a39854de815e,645c1caf0cda5306b1fbfad0fc92e018:312843051aa77e56e7b87346c5ec0c74
 http://streamflexsmm.in/Sflex-Jio/304072/manifest.mpd
 
 #EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
@@ -1013,7 +1013,7 @@ http://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252&uid=8004188626&
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=http://www.hotstar.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-#KODIPROP:inputstream.adaptive.license_key=0384122132e151639aafddeb8bd1a50b:f9be8660035eecbca5ae015adb73fe7b,d201f183a7a201f80047d42055bf14a8:29c6846f81c0bcda120990523c76b544,09d56044c365f369ea25954c9f9b5ac8:d570d5926d573fc01c5bfa6ff58582be,7bd92a4b01d9d926b1ab7ffdb19eb729:bd420666ba532cb66e88d765de76a840,6e533d02b7915239baf49f441d597867:85f534c8b375350504cb94a03a8ff8bb,541e147f4447b39b8b639994128162a9:f6952443cf783482ae33fde7fa697e2f
+#KODIPROP:inputstream.adaptive.license_key=2a303ef9295b5809ac9cf6da29c7fa93:7f7854959e7c724073a132203cb26aa7,b1e833398b20540382edbd11c0a0f936:f84e8d3a79d86b25441005c5b621f072,ce0eb252a6655fe8baee0297c157727e:6aa1e979ba80655095fa1764295fa5f5,1ba5c3fa4e5b52edbc9c35f4170e7dd2:5a72e048b875daac411cdf9657e63c14,e90ca201aba45890841c6b73f9805634:8235dc4daff51ae816e5c871d2b0a633
 http://streamflexsmm.in/Sflex-Jio/304031/manifest.mpd
 
 #EXTINF:-1 tvg-name="Food Food"tvg-id="561"tvg-logo="http://img.media.jio.com/imagespublic/87/41/301416_1685007957318_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",Food Food
@@ -1024,20 +1024,20 @@ http://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-name="Food XP"tvg-id="1955"tvg-logo="http://img.media.jio.com/imagespublic/22/77/301205_1646815947468_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",Food XP
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=dbecf7d35d2ae488d1036e2fa186d1e6:4f1a1658f4c53dc9272af1657f440512,45d56f9cf3be5ce28ab83983ca534af2:8323cffa74d904bdf1dfe19899d10c2d,e921c6b8d5bf50bbfc6461961937f821:8740e1c86ce1d6bc36133bd5e034f67e,0f007fddd58155649c32904a67e7a91e:685c95eb5fb389053aa4d1a400239e04,a787f044a48360166c8756bfb7c5a413:bb026c6f72bce18e312629fb9efac86a,8005e6f0fab3e9b4e69d979e45037a0c:13176e51a007eb83f047a7e61338593e
+#KODIPROP:inputstream.adaptive.license_key=8c03cc68b0a559f3b061f541172e6f3f:335b2de28d4691f84d761d3cfb7c42e9,82ee585d986a5120bbd2f3946fec159b:bf55c9763c64c609d26eb5c648ba255a,3fe9cb99d70d58fc8db60a0bedfe1cf7:36cde79b10085f5586f40bf968185e9f,7fdc6a8ae61458b4a51048689e233a71:34eb56605e1b2342a1bdb3b0af1a02c5,cb60bb9b9a5d5c709a30404345702331:3f4d24905405a63d1bf5e048f5fb968a
 http://streamflexsmm.in/Sflex-Jio/301205/manifest.mpd
 
 #EXTINF:-1 tvg-name="NDTV GOOD TiMES"tvg-id="560"tvg-logo="http://img.media.jio.com/imagespublic/12/70/301051_1625144833632_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",NDTV GOOD TiMES
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=9e19a0d2ae5e5123b03fd29fcb7e6e16:ced94c8516a1983cd2550f42a064f624
+#KODIPROP:inputstream.adaptive.license_key=acd6b19d6f5057fb84d207bd0920be14:4fcb916e72894996d92f5f6420491113,1d26fa26054f52b8a28ca63e9669a707:7939859a21d2e8f50f548797d65b6239,fdfdb1d87ec15ced8a5c9564dac9cd43:5552114ae110e3f8cc525e4b8f91c4f4,89b573508e9f538d8b6f5a990f5725f2:498ebd48d476c1a244afa428e2f86143,74e79d2876f652c4b57842311d5fbe0b:30174ad0b1ddaeb3aa4304231840b158
 http://streamflexsmm.in/Sflex-Jio/301051/manifest.mpd
 
 #EXTINF:-1 tvg-name="TLC HD"tvg-id="3458" tvg-logo="http://img.media.jio.com/tvpimages/11/73/304071_1765355349969_l_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",TLC HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2
+#KODIPROP:inputstream.adaptive.license_key=49d564d43da459fcb449e5b09134faee:979b70d1c472ce34d905e0b58cc6df62,e6a36bc4ffdb5b128a5d6a610404c3cc:eb81ffae3ba04c65b251e98def70ca04,843aafcfc09f5b078257d8605e141cb5:af1efe44b276bb6603bc514dfc82fa99,7e4caeb1d65357f197ce1d443fb8fbec:bca10061134f81601c1531b9b536d8c1,f425e64fbbd058a59f0d930c46450273:b0428299b5dd914bb741bc625ce2ecee
 http://streamflexsmm.in/Sflex-Jio/304071/manifest.mpd
 
 #EXTINF:-1 tvg-name="TravelXP HD" tvg-id="562" tvg-logo="http://img.media.jio.com/imagespublic/3/93/301140_1707144970825_p_medium.jpg" group-title="Lifestyle" provider-languages="Hindi,English", TravelXP HD
