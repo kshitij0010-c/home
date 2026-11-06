@@ -795,7 +795,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=341241ef74d78c55f4f1cdfd452a630e:b0dfc559eb20ae5e9f35ad09444fcb2b,e0a906e1b3d5536fa62e87ecf5c54859:a7c78450be43a75cda96e9daaad9ca1b,617d18bfaabbe3a70388d79246b193fc:9ca208364015a95eb41582b4013bc191,203a9b0db051151240588c1f3bc074f4:ccf531066139559281475c558dfc471c,6d03062a210e5ca5bebe18295a7ed53f:2d5145403548d142cbe2a5f1e25b0d1f,9588bf3cb174218ef14460f9be9fc610:83a513bca0bb5053d40fa49b0f544593
+#KODIPROP:inputstream.adaptive.license_key=67be117a56e956b68e4314218f6742dd:525f6759309ef9e47d73f71fe4cd5129,1a362025ab515e44a7dbdd01e1d6cdc0:572298173f8fee84016eb59f80a4cfe6,a17045c597ec58e28d57ebc5e1925785:4f0d6fbb2e96ae96146f7284f83ee576,2fda7c9758d755a7b20df67b9399dc3e:7114bfe12557990eb1b7ec36e3fe36fe,528927ea24d559fc84f0ce1c8a7329c4:1ab81712b09e33946c7646fd15520169
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 
 http://streamflexsmm.in/Sflex-Jio/301585/manifest.mpd
