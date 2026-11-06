@@ -895,11 +895,11 @@ https://streamflexsmm.in/Sflex-Jio/304059/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
-#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic
+#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d43b2a2743354c983c599407ff2a074:893a1d6edade1e2c24e6e02c6ed60be3,8619d8f6a63653ddb4717df5bf58c7b3:3956dc194a62d6cde06702830779b380,3159c076423c5cc794e519ed705d53e0:fcaea22521e65f0c3beda313099e2757,f854de8fe93f5daa94978fe012416110:cb1001de21d3e82bc8bf466da14a00fa,67573ee847d454cd915be0f336f26626:907a34ec86b6edc26cb1249fd5ea139f
+#KODIPROP:inputstream.adaptive.license_key=f0a191459d03a1c77c89a6fba01dfded:a901dd3f4630f9449a50d6ee5889de51,4d43b2a2743354c983c599407ff2a074:893a1d6edade1e2c24e6e02c6ed60be3,4179d6458d4a1ab558655f0fb3a84399:25594a95153f1d77b349f5805c0e5185,67573ee847d454cd915be0f336f26626:907a34ec86b6edc26cb1249fd5ea139f,67432aaf22a25eeec1ac0d2023dbf826:615375c0830d1b6d387998ebbaf10415,3159c076423c5cc794e519ed705d53e0:fcaea22521e65f0c3beda313099e2757,14af5805a98f52bdb1001f47ee99a211:fd7eb438ff90f8412832e230dd8db804,f854de8fe93f5daa94978fe012416110:cb1001de21d3e82bc8bf466da14a00fa,9dd601e6479ef65999450c994957435c:6c56b0f50843187faeb5ac85815f87bd,8619d8f6a63653ddb4717df5bf58c7b3:3956dc194a62d6cde06702830779b380
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 
 https://streamflexsmm.in/Sflex-Jio/304056/manifest.mpd
