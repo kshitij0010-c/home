@@ -900,26 +900,10 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d43b2a2743354c983c599407ff2a074:893a1d6edade1e2c24e6e02c6ed60be3,8619d8f6a63653ddb4717df5bf58c7b3:3956dc194a62d6cde06702830779b380,3159c076423c5cc794e519ed705d53e0:fcaea22521e65f0c3beda313099e2757,f854de8fe93f5daa94978fe012416110:cb1001de21d3e82bc8bf466da14a00fa,67573ee847d454cd915be0f336f26626:907a34ec86b6edc26cb1249fd5ea139f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
 
 https://streamflexsmm.in/Sflex-Jio/304056/manifest.mpd
 
-#EXTINF:-1 tvg-name="Sonic" tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-https://jcevents.hotstar.com/bpk-tv/JS_SonicNick/JioHotstar/JS_SonicNick.m3u8
-
-#EXTINF:-1 tvg-name="Sonic DG" tvg-id="815" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="Kids", Sonic DG
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-#KODIPROP:inputstream.adaptive.license_key=3d939611fa2e489bb4a7b58d10c10000:1fba40d5aa564f079c8c7e378ccb3019
-https://livetv.hotstar.com/mp1/gec-india-1540068791/78782613f6f54c38bf5961e9f066328a/index.mpd
 
 
 
@@ -938,20 +922,6 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/
 #KODIPROP:inputstream.adaptive.license_key=ee7af8d657de578db2726201c69377b0:89b5479ed25236142381eb5263758edf,9f234493725a521da11653543220a5d8:7e3602612968c4f638767ef31af32c0c,ec6744e821e35c17845d9fb208dd6286:cdee3fdfeedcf51c53e3d84120158151,1122999e0b2d54878311d8f061800b5e:4b1be27715cdfff259ba2e61306bf8b0,35d9b95ff81e53a79158d6df3955ef06:c4fad495143181ffb807c4d8029a77d1
 https://streamflexsmm.in/Sflex-Jio/302079/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6961/1785252356961-h" group-title="Kids", Super Hungama Digital
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794020173~acl=%2f*~id=30a1276b2d4c68a1885369951db80574~data=hdntl~hmac=60dc8972e1477f8e69db4d703ebc2fb691a446335b08d625b74453a123469949"}
-#KODIPROP:inputstream.adaptive.license_key=151c6d430ec946a88dd41b7dcafb0000:29437c1b7f1d4289a6d4c1fc25d35891
-
-https://livetv.hotstar.com/mp1/gec-india-1540075047/feca5fc6c1234205b01efe48d12d4c7f/index.mpd
 
 
 
@@ -996,13 +966,6 @@ https://streamflexsmm.in/Sflex-Jio/301581/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 http://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Shinchan 24/7" group-title="" tvg-logo="https://images.seeklogo.com/logo-png/21/2/anime-logo-png_seeklogo-212481.png" group-title="Kids",Shinchan 24/7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=plaYtv/7.1.5
-http://streamhub.dhruvpatil681.workers.dev/3395.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Animes 24/7" group-title="" tvg-logo="https://images.seeklogo.com/logo-png/21/2/anime-logo-png_seeklogo-212481.png" group-title="Kids",Animes 24/7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1256,9 +1219,4 @@ https://d3sgzbosmwirao.cloudfront.net/video/d213b64bb52693c294545ff1fba4e2a38593
 https://d3sgzbosmwirao.cloudfront.net/video/26a4fbf1b8d2deb62b066b494b42ae4351e0ae3b0366f16a72ff9bc52f42bef2/1/hls/h264_high.m3u8
 
 
-
-#EXTINF:-1 tvg-name="Don't Trouble the Trouble" tvg-id="k04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HDUNbRDyNHGz9hUyudseGjEJ3Jpr6uZtIU9HLnmcxIs2lT8yn2wiRQ8s&s=10" group-title="Kshitij0010" provider-languages="":http-referrer="https://www.jiotv.com/":http-user-agent="Virat" rating="U/A 16+" duration="165" tvg-desc="Tiger Muthuvel Pandian, a retired prison jailer leading a quiet family life, is forced back into the dark underworld when his diligent police officer son disappears while investigating a ruthless idol-smuggling mafia.", Don't Trouble the Trouble
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-https://pixeldrain.dev/api/file/37oqByjc?download
 
