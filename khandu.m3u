@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="DD Sahayadri" tvg-id="695" tvg-logo="http://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg"group-title="DD Channels"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",DD Sahayadri
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index_2.m3u8
+http://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Fakt Marathi"tvg-id="738" tvg-logo="http://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a924cd82e1d44b9cad4a6f62daee5126/version/0" group-title="Entertainment"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",Fakt Marathi
