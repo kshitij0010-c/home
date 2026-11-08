@@ -761,6 +761,13 @@ http://streamflexsmm.in/Sflex-Jio/301984/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=http://www.jiotv.com/&Origin=http://www.jiotv.com/
 http://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids", Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
+#EXTVLCOPT:http-user-agent=Virat
+#EXTHTTP:{"cookie":"__hdnea__=st=1794096010~exp=1794182410~acl=/*~hmac=da4ec5d0c969c830279316618e115a8325c393aad6f8db0e28172f4854f2383c"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="http://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
