@@ -781,18 +781,17 @@ http://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="3578" tvg-name="Disney Channel HD Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel HD Digital
+#EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://tv.hotstar.com
-#EXTVLCOPT:http-cookie=exp=1794235255~acl=%2f*~id=89b9d05eeb5ebed3659a57a64d8158ed~data=hdntl~hmac=9970fe4115c526b731a56e9b652ea043552363a095adc686c137cccd0f0339aa
-#EXTHTTP:{"cookie":"exp=1794235255~acl=%2f*~id=89b9d05eeb5ebed3659a57a64d8158ed~data=hdntl~hmac=9970fe4115c526b731a56e9b652ea043552363a095adc686c137cccd0f0339aa"}
-
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1794235255~acl=%2f*~id=89b9d05eeb5ebed3659a57a64d8158ed~data=hdntl~hmac=9970fe4115c526b731a56e9b652ea043552363a095adc686c137cccd0f0339aa
+#EXTHTTP:{"cookie":"hdntl=exp=1794235255~acl=%2f*~id=89b9d05eeb5ebed3659a57a64d8158ed~data=hdntl~hmac=9970fe4115c526b731a56e9b652ea043552363a095adc686c137cccd0f0339aa"}
 https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd
 
 
