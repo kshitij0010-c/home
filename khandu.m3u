@@ -763,12 +763,12 @@ http://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="http://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="http://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids", Disney Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=http://www.jiotv.com/&Origin=http://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=bb388508e8115e99a9d47adc9ff75a05:a1f994be722f62762ae54b31e54e9aa0,b9b687a7c29b51a397012e44db459008:90e01b578e0fc3630f4aacfb9d4220e1,a5cf424e1c4259be9f2e336797d4cd91:bcdb2801f5d0d0293e0700d0dfe3c8fc,8dfc8dae041853e2ba021f0c4f014dc8:e1a8c6087493ea0045297d1a4177984c,3c78887036795a119afaab68e94818d5:d8f94f0f7d26f50348e0b04ed2d01088
+#KODIPROP:inputstream.adaptive.license_key=5277f479dfee52acacdcc8f67dc569c9:19d9f43e59b518b866f88f3c1a0ebce4,953d36cc84aa86235219f138510c3ec1:3f0adfe177e41ebffe7d67cec38f2c59,2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9,bbcaded9ca3b5633bf6a679ae9c72d20:848b6ecce46f1b72d1dffe05218e97a4,4db073406b755c82905d91867b0f6da1:0046b53dd54d62ae229c98e321890ac6,0ef7421fb177a9beee0459d2b3fea672:9ec5845667ad3d4c0e29ef3bd13ac645,e81d75df704f54b3b5f106a46c6b2521:73ac1ac7421c047207f311296eedcae6,000f16c2230354599c091c8bbcdedab6:7f4302e1ede8d2906ce3589b41dd470b,00b360ae69365b97b2bc918a6f840bda:8c9333fbcc4c2bf0792914f980b8375d,0bc9e5d28c82131149bf99bce31d3975:b120c6a643ea06fa7110f72d35f8b757
 
 http://streamflexsmm.in/Sflex-Jio/302071/manifest.mpd
 
