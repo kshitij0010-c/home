@@ -598,7 +598,7 @@ http://streamflexsmm.in/Sflex-Jio/300255/manifest.mpd
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi HD"tvg-id="892"tvg-logo="http://img.media.jio.com/tvpimages/1/58/300255_1758886957880_l_medium.jpg"group-title="Sports"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",Sony Sports Ten 3 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Virat
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3.m3u8
+http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
 
 
 
@@ -628,7 +628,7 @@ http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonerebo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-#KODIPROP:inputstream.adaptive.license_key=11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f,a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9
+#KODIPROP:inputstream.adaptive.license_key=a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9,dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9,209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3,7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36,11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f
 http://streamflexsmm.in/Sflex-Jio/301982/manifest.mpd
 
 
@@ -669,7 +669,7 @@ http://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=http://www.hotstar.com/&Origin=http://www.hotstar.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e48435ba038548299ee73fef998535d:b89d18e54ad2b5576c27c3259db19a3e,5b50f11a09a15275b5742ef2d6e001e0:9b9ce35c8d91340939031aba5e433991
+#KODIPROP:inputstream.adaptive.license_key=5b50f11a09a15275b5742ef2d6e001e0:9b9ce35c8d91340939031aba5e433991,22e4de22a39b5ce78425c739c4941e7b:b4134f4a41cc0d214ba909cc4ebdb0ba,17a32401741c5072bd2f550f72be7a42:0ddcf0f656f52008a2276a85adbcf42e,0c1a4c4f4a60538a8841ad67b5df3488:939f425e0ef782f16cc9db4b84b47195,8e48435ba038548299ee73fef998535d:b89d18e54ad2b5576c27c3259db19a3e
 http://streamflexsmm.in/Sflex-Jio/301229/manifest.mpd
 
 
