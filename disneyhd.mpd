@@ -1,131 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:mspr="urn:microsoft:playready" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" id="201" type="dynamic" publishTime="2026-11-11T05:46:55+00:00" minimumUpdatePeriod="PT15S" availabilityStartTime="2026-08-06T12:31:55+00:00" minBufferTime="PT10S" suggestedPresentationDelay="PT25.000S" timeShiftBufferDepth="PT86400.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
-  <Period start="PT0.000S" id="1">
-    <AdaptationSet id="1485523442" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
-      <Representation id="1" width="320" height="180" frameRate="25/1" bandwidth="89984" codecs="avc1.42C00D">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_1_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_1_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="2" width="426" height="240" frameRate="25/1" bandwidth="200000" codecs="avc1.4D4015">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_3_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_3_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="3" width="640" height="360" frameRate="25/1" bandwidth="249984" codecs="avc1.4D401E">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_4_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_4_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="4" width="854" height="480" frameRate="25/1" bandwidth="379968" codecs="avc1.4D401F">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_5_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_5_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="5" width="1280" height="720" frameRate="25/1" bandwidth="699968" codecs="avc1.640028">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_6_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_6_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="6" width="1920" height="1080" frameRate="25/1" bandwidth="2499968" codecs="avc1.640028">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_7_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_7_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-      <Representation id="7" width="1920" height="1080" frameRate="25/1" bandwidth="4000000" codecs="avc1.640028">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="25000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_8_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_video_8_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="208905032500" d="100000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
+<!-- Broadpeak BkS350 Origin Packager 1.15.18-32496 -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:cenc="urn:mpeg:cenc:2013"
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     type="dynamic"
+     availabilityStartTime="1970-01-01T00:00:00Z"
+     publishTime="2026-11-11T04:59:41.661541Z"
+     minimumUpdatePeriod="PT2S"
+     timeShiftBufferDepth="PT10M"
+     maxSegmentDuration="PT3S"
+     minBufferTime="PT2S"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+
+  <Period id="1" start="PT0S">
+    <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/</BaseURL>
+
+    <!-- ================= AUDIO: Hindi ================= -->
+    <AdaptationSet id="1" group="1" contentType="audio" lang="hi" segmentAlignment="true"
+                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
+                         cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <!-- 8-second cycle = 96257 + 96255 + 95232 + 96256 = 384000 ticks -->
+          <!-- Original snapshot covers 2026-11-11T04:49:38.978Z - 04:59:38.978Z (600 s = 75 cycles) -->
+          <S t="86129883790975" d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <!-- ... the same 4-line cycle repeats 74 more times in the original file ... -->
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_179634_hin=179600" bandwidth="179600"/>
     </AdaptationSet>
-    <AdaptationSet id="1336605485" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1" bitstreamSwitching="true">
-      <Representation id="8" bandwidth="64575" audioSamplingRate="48000" codecs="mp4a.40.2">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="48000" media="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_audio_2_0_$Number$.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" initialization="https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index_audio_2_0_init.mp4?m=1785229128&amp;hdnts=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd" startNumber="2089052">
-          <SegmentTimeline>
-            <S t="401097662848" d="192000" r="21599"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
+
+    <!-- ================= AUDIO: Tamil ================= -->
+    <AdaptationSet id="2" group="1" contentType="audio" lang="ta" segmentAlignment="true"
+                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
+                         cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86129883790975" d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <!-- ... same cycle repeated to 300 segments ... -->
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_179635_tam=179600" bandwidth="179600"/>
     </AdaptationSet>
-    <SupplementalProperty schemeIdUri="urn:scte:dash:utc-time" value="2026-08-06T12:31:50.180Z"/>
+
+    <!-- ================= AUDIO: Telugu ================= -->
+    <AdaptationSet id="3" group="1" contentType="audio" lang="te" segmentAlignment="true"
+                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
+                         cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86129883790975" d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <!-- ... same cycle repeated to 300 segments ... -->
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_179636_tel=179600" bandwidth="179600"/>
+    </AdaptationSet>
+
+    <!-- ================= VIDEO: 1024x576 ================= -->
+    <AdaptationSet id="4" group="2" contentType="video" par="16:9"
+                   minBandwidth="1268000" maxBandwidth="2698400"
+                   segmentAlignment="true" width="1024" height="576" sar="1:1"
+                   frameRate="25" mimeType="video/mp4" codecs="avc1.64001F" startWithSAP="1">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
+                         cenc:default_KID="B9B687A7-C29B-51A3-9701-2E44DB459008"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG5toenwptRo5cBLkTbRZAIAAAALRIQubaHp8KbUaOXAS5E20WQCCITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600"
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <!-- t=1076623547381, 2 s segments (1200 ticks), 300 segments (r=299) -->
+          <S t="1076623547381" d="1200" r="299"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=1268000" bandwidth="1268000" scanType="progressive"/>
+      <Representation id="video=2698400" bandwidth="2698400" scanType="progressive"/>
+    </AdaptationSet>
   </Period>
+
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-iso:2014" value="https://time.akamai.com/?iso"/>
 </MPD>
