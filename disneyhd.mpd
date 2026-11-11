@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
      xmlns:cenc="urn:mpeg:cenc:2013"
-     type="dynamic"
-     minimumUpdatePeriod="PT2S"
-     timeShiftBufferDepth="PT10M"
+     type="static"
+     mediaPresentationDuration="PT10M"
      minBufferTime="PT2S"
      profiles="urn:mpeg:dash:profile:isoff-live:2011">
-  <Period id="1" start="PT0S">
-    <!-- Replace TOKEN below with a fresh __hdnea__ value from your Jio session -->
-    <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/?__hdnea__=TOKEN</BaseURL>
 
+  <Period id="1" start="PT0S">
+    <!-- PASTE A FRESH __hdnea__ HERE. Without it, every segment 403s. -->
+    <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/?__hdnea__=PASTE_FRESH_TOKEN</BaseURL>
+
+    <!-- ============ Hindi audio (full 300-segment timeline) ============ -->
     <AdaptationSet id="1" contentType="audio" lang="hi" mimeType="audio/mp4"
                    codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true">
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
@@ -19,17 +20,89 @@
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_BTS-audio_179634_hin=179600.dash"
-                       media="Disney_Channel_BTS-audio_179634_hin=179600-$Time$.dash">
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
-          <S t="86129883790975" d="96257"/>
-          <S d="96255"/><S d="95232"/><S d="96256"/>
-          <!-- ... repeat the 4-tick cycle; must be refreshed from live manifest ... -->
+          <S t="86129883790975" d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
+          <S d="96257"/><S d="96255"/><S d="95232"/><S d="96256"/>
         </SegmentTimeline>
       </SegmentTemplate>
       <Representation id="audio_179634_hin=179600" bandwidth="179600"/>
     </AdaptationSet>
 
+    <!-- ============ Video 1024x576 ============ -->
     <AdaptationSet id="4" contentType="video" mimeType="video/mp4"
                    codecs="avc1.64001F" width="1024" height="576"
                    frameRate="25" segmentAlignment="true">
@@ -39,14 +112,14 @@
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG5toenwptRo5cBLkTbRZAIAAAALRIQubaHp8KbUaOXAS5E20WQCCITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
       <SegmentTemplate timescale="600"
-                       initialization="Disney_Channel_BTS-video=$RepresentationID$.dash"
-                       media="Disney_Channel_BTS-video=$RepresentationID$-$Time$.dash">
+                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
           <S t="1076623547381" d="1200" r="299"/>
         </SegmentTimeline>
       </SegmentTemplate>
-      <Representation id="1268000" bandwidth="1268000" scanType="progressive"/>
-      <Representation id="2698400" bandwidth="2698400" scanType="progressive"/>
+      <Representation id="video=1268000" bandwidth="1268000"/>
+      <Representation id="video=2698400" bandwidth="2698400"/>
     </AdaptationSet>
   </Period>
 </MPD>
