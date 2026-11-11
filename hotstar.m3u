@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT:http-cookie=hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1,Hotstar Live
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8
