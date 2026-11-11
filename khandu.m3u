@@ -813,7 +813,7 @@ http://sflex.fun/Sflex-Jio/301585/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77f1f0309bb95b28b1d5f555d9773957:4506d3c672bb15523acc6c9a90cd7182,f729f7a5aa445aab9f8f8f28ae2e2e25:8c602b3905a5aa937cfdbd13392eba4c,c467957a1ea75d30812afe9fbe2303ec:db0f355b43f2b258117cddea13f9ae9a,50a88577073d5fc18189128d3a2e79cb:30904b241e0eb6ec6a52d69c7c172748,867bafd52784556c89a9c53b7f8d0443:2af4937adbd4828b2fc1838791739ce8
+#KODIPROP:inputstream.adaptive.license_key=77f1f0309bb95b28b1d5f555d9773957:4506d3c672bb15523acc6c9a90cd7182,50a88577073d5fc18189128d3a2e79cb:30904b241e0eb6ec6a52d69c7c172748,f729f7a5aa445aab9f8f8f28ae2e2e25:8c602b3905a5aa937cfdbd13392eba4c,c467957a1ea75d30812afe9fbe2303ec:db0f355b43f2b258117cddea13f9ae9a,867bafd52784556c89a9c53b7f8d0443:2af4937adbd4828b2fc1838791739ce8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 
 http://sflex.fun/Sflex-Jio/304059/manifest.mpd
