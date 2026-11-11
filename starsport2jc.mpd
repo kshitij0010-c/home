@@ -1,145 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns:cenc="urn:mpeg:cenc:2013"
-     xmlns:hotstar="https://www.hotstar.com/schemas/dash/2024"
-     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
-     id="082c75fa2fec61647e9192140d488d30"
-     type="dynamic"
-     publishTime="2026-11-11T05:46:55Z"
-     availabilityStartTime="2026-11-04T05:46:55Z"
-     minimumUpdatePeriod="PT15S"
-     minBufferTime="PT10S"
-     suggestedPresentationDelay="PT25S"
-     timeShiftBufferDepth="PT604800S"
-     maxSegmentDuration="PT4S"
-     profiles="urn:mpeg:dash:profile:isoff-live:2011"
-     hotstar:cookie="hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"
-     hotstar:referer="https://www.hotstar.com/"
-     hotstar:userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36">
+#EXTM3U
+#EXT-X-VERSION:3
 
-  <BaseURL>https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/</BaseURL>
+# --- ORIGINAL VARIANTS ---
 
-  <Period id="1" start="PT0S">
+#EXT-X-STREAM-INF:BANDWIDTH=227000,AVERAGE-BANDWIDTH=207000,CODECS="mp4a.40.2,avc1.42E00D",RESOLUTION=320x180,FRAME-RATE=25
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_42842_hin=42800-video=151600.m3u8
 
-    <!-- ══════════════════════════════════════════════════════════════════
-         ADAPTATION SET : VIDEO  (5-tier ladder, no DRM)
-         ══════════════════════════════════════════════════════════════════ -->
-    <AdaptationSet id="1"
-                   contentType="video"
-                   mimeType="video/mp4"
-                   segmentAlignment="true"
-                   startWithSAP="1"
-                   subsegmentAlignment="true"
-                   subsegmentStartsWithSAP="1"
-                   bitstreamSwitching="true"
-                   frameRate="25">
+#EXT-X-STREAM-INF:BANDWIDTH=482000,AVERAGE-BANDWIDTH=438000,CODECS="mp4a.40.2,avc1.42E01E",RESOLUTION=640x360,FRAME-RATE=25
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=305200.m3u8
 
-      <!-- ─────────────────────────────────────────────────────────────
-           Representation 1   (180p)
-             HLS: BANDWIDTH=227000
-             HLS: AVERAGE-BANDWIDTH=207000
-             HLS: CODECS="mp4a.40.2,avc1.42E00D"
-             HLS: RESOLUTION=320x180   FRAME-RATE=25
-           ───────────────────────────────────────────────────────────── -->
-      <Representation id="1"
-                      bandwidth="227000"
-                      width="320"
-                      height="180"
-                      frameRate="25"
-                      codecs="mp4a.40.2,avc1.42E00D">
-        <SegmentTemplate timescale="25000"
-                         duration="100000"
-                         startNumber="1"
-                         media="082c75fa2fec61647e9192140d488d30-audio_42842_hin=42800-video=151600.m3u8"
-                         initialization="082c75fa2fec61647e9192140d488d30-audio_42842_hin=42800-video=151600.m3u8"/>
-      </Representation>
+#EXT-X-STREAM-INF:BANDWIDTH=899000,AVERAGE-BANDWIDTH=818000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=960x540,FRAME-RATE=25
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=662800.m3u8
 
-      <!-- ─────────────────────────────────────────────────────────────
-           Representation 2   (360p)
-             HLS: BANDWIDTH=482000
-             HLS: AVERAGE-BANDWIDTH=438000
-             HLS: CODECS="mp4a.40.2,avc1.42E01E"
-             HLS: RESOLUTION=640x360   FRAME-RATE=25
-           ───────────────────────────────────────────────────────────── -->
-      <Representation id="2"
-                      bandwidth="482000"
-                      width="640"
-                      height="360"
-                      frameRate="25"
-                      codecs="mp4a.40.2,avc1.42E01E">
-        <SegmentTemplate timescale="25000"
-                         duration="100000"
-                         startNumber="1"
-                         media="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=305200.m3u8"
-                         initialization="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=305200.m3u8"/>
-      </Representation>
+#EXT-X-STREAM-INF:BANDWIDTH=1614000,AVERAGE-BANDWIDTH=1467000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,FRAME-RATE=25
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=1275600.m3u8
 
-      <!-- ─────────────────────────────────────────────────────────────
-           Representation 3   (540p)
-             HLS: BANDWIDTH=899000
-             HLS: AVERAGE-BANDWIDTH=818000
-             HLS: CODECS="mp4a.40.2,avc1.4D401F"
-             HLS: RESOLUTION=960x540   FRAME-RATE=25
-           ───────────────────────────────────────────────────────────── -->
-      <Representation id="3"
-                      bandwidth="899000"
-                      width="960"
-                      height="540"
-                      frameRate="25"
-                      codecs="mp4a.40.2,avc1.4D401F">
-        <SegmentTemplate timescale="25000"
-                         duration="100000"
-                         startNumber="1"
-                         media="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=662800.m3u8"
-                         initialization="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=662800.m3u8"/>
-      </Representation>
+#EXT-X-STREAM-INF:BANDWIDTH=3043000,AVERAGE-BANDWIDTH=2767000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=25
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=2501600.m3u8
 
-      <!-- ─────────────────────────────────────────────────────────────
-           Representation 4   (720p)
-             HLS: BANDWIDTH=1614000
-             HLS: AVERAGE-BANDWIDTH=1467000
-             HLS: CODECS="mp4a.40.2,avc1.4D401F"
-             HLS: RESOLUTION=1280x720   FRAME-RATE=25
-           ───────────────────────────────────────────────────────────── -->
-      <Representation id="4"
-                      bandwidth="1614000"
-                      width="1280"
-                      height="720"
-                      frameRate="25"
-                      codecs="mp4a.40.2,avc1.4D401F">
-        <SegmentTemplate timescale="25000"
-                         duration="100000"
-                         startNumber="1"
-                         media="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=1275600.m3u8"
-                         initialization="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=1275600.m3u8"/>
-      </Representation>
+# --- NEW 4K UHD VARIANTS ---
 
-      <!-- ─────────────────────────────────────────────────────────────
-           Representation 5   (1080p)
-             HLS: BANDWIDTH=3043000
-             HLS: AVERAGE-BANDWIDTH=2767000
-             HLS: CODECS="mp4a.40.2,avc1.640028"
-             HLS: RESOLUTION=1920x1080   FRAME-RATE=25
-           ───────────────────────────────────────────────────────────── -->
-      <Representation id="5"
-                      bandwidth="3043000"
-                      width="1920"
-                      height="1080"
-                      frameRate="25"
-                      codecs="mp4a.40.2,avc1.640028">
-        <SegmentTemplate timescale="25000"
-                         duration="100000"
-                         startNumber="1"
-                         media="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=2501600.m3u8"
-                         initialization="082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video=2501600.m3u8"/>
-      </Representation>
+#EXT-X-STREAM-INF:BANDWIDTH=18000000,AVERAGE-BANDWIDTH=14000000,CODECS="hvc1.2.4.L150.B0,mp4a.40.2",RESOLUTION=3840x2160,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video_4k_sdr=14000000.m3u8
 
-    </AdaptationSet>
-
-    <!-- ── DASH-IF UTC wall-clock timing (DVR / catch-up sync) ───────── -->
-    <SupplementalProperty schemeIdUri="urn:scte:dash:utc-time"
-                          value="2026-11-04T05:46:50.000Z"/>
-
-  </Period>
-</MPD>
+#EXT-X-STREAM-INF:BANDWIDTH=22000000,AVERAGE-BANDWIDTH=17000000,CODECS="hvc1.2.4.L150.B0,mp4a.40.2",RESOLUTION=3840x2160,FRAME-RATE=25,VIDEO-RANGE=PQ
+https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30-audio_108038_hin=108000-video_4k_hdr=17000000.m3u8
