@@ -1,122 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Broadpeak BkS350 Origin Packager 1.15.18-32496 -->
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="urn:mpeg:dash:schema:mpd:2011"
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
      xmlns:cenc="urn:mpeg:cenc:2013"
-     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
      type="dynamic"
-     availabilityStartTime="1970-01-01T00:00:00Z"
-     publishTime="2026-11-11T04:59:41.661541Z"
      minimumUpdatePeriod="PT2S"
      timeShiftBufferDepth="PT10M"
-     maxSegmentDuration="PT3S"
      minBufferTime="PT2S"
-     profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
-
+     profiles="urn:mpeg:dash:profile:isoff-live:2011">
   <Period id="1" start="PT0S">
-    <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/</BaseURL>
+    <!-- Replace TOKEN below with a fresh __hdnea__ value from your Jio session -->
+    <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/?__hdnea__=TOKEN</BaseURL>
 
-    <!-- ================= AUDIO: Hindi ================= -->
-    <AdaptationSet id="1" group="1" contentType="audio" lang="hi" segmentAlignment="true"
-                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+    <AdaptationSet id="1" contentType="audio" lang="hi" mimeType="audio/mp4"
+                   codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true">
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
       <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
                          cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
-                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+                       initialization="Disney_Channel_BTS-audio_179634_hin=179600.dash"
+                       media="Disney_Channel_BTS-audio_179634_hin=179600-$Time$.dash">
         <SegmentTimeline>
-          <!-- 8-second cycle = 96257 + 96255 + 95232 + 96256 = 384000 ticks -->
-          <!-- Original snapshot covers 2026-11-11T04:49:38.978Z - 04:59:38.978Z (600 s = 75 cycles) -->
           <S t="86129883790975" d="96257"/>
-          <S d="96255"/>
-          <S d="95232"/>
-          <S d="96256"/>
-          <!-- ... the same 4-line cycle repeats 74 more times in the original file ... -->
+          <S d="96255"/><S d="95232"/><S d="96256"/>
+          <!-- ... repeat the 4-tick cycle; must be refreshed from live manifest ... -->
         </SegmentTimeline>
       </SegmentTemplate>
       <Representation id="audio_179634_hin=179600" bandwidth="179600"/>
     </AdaptationSet>
 
-    <!-- ================= AUDIO: Tamil ================= -->
-    <AdaptationSet id="2" group="1" contentType="audio" lang="ta" segmentAlignment="true"
-                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
-                         cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
-        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
-      </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
-      <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
-                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86129883790975" d="96257"/>
-          <S d="96255"/>
-          <S d="95232"/>
-          <S d="96256"/>
-          <!-- ... same cycle repeated to 300 segments ... -->
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_179635_tam=179600" bandwidth="179600"/>
-    </AdaptationSet>
-
-    <!-- ================= AUDIO: Telugu ================= -->
-    <AdaptationSet id="3" group="1" contentType="audio" lang="te" segmentAlignment="true"
-                   audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
-                         cenc:default_KID="BB388508-E811-5E99-A9D4-7ADC9FF75A05"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
-        <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
-      </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
-      <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
-                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86129883790975" d="96257"/>
-          <S d="96255"/>
-          <S d="95232"/>
-          <S d="96256"/>
-          <!-- ... same cycle repeated to 300 segments ... -->
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_179636_tel=179600" bandwidth="179600"/>
-    </AdaptationSet>
-
-    <!-- ================= VIDEO: 1024x576 ================= -->
-    <AdaptationSet id="4" group="2" contentType="video" par="16:9"
-                   minBandwidth="1268000" maxBandwidth="2698400"
-                   segmentAlignment="true" width="1024" height="576" sar="1:1"
-                   frameRate="25" mimeType="video/mp4" codecs="avc1.64001F" startWithSAP="1">
+    <AdaptationSet id="4" contentType="video" mimeType="video/mp4"
+                   codecs="avc1.64001F" width="1024" height="576"
+                   frameRate="25" segmentAlignment="true">
       <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"
                          cenc:default_KID="B9B687A7-C29B-51A3-9701-2E44DB459008"/>
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG5toenwptRo5cBLkTbRZAIAAAALRIQubaHp8KbUaOXAS5E20WQCCITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="600"
-                       initialization="Disney_Channel_BTS-$RepresentationID$.dash"
-                       media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+                       initialization="Disney_Channel_BTS-video=$RepresentationID$.dash"
+                       media="Disney_Channel_BTS-video=$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
-          <!-- t=1076623547381, 2 s segments (1200 ticks), 300 segments (r=299) -->
           <S t="1076623547381" d="1200" r="299"/>
         </SegmentTimeline>
       </SegmentTemplate>
-      <Representation id="video=1268000" bandwidth="1268000" scanType="progressive"/>
-      <Representation id="video=2698400" bandwidth="2698400" scanType="progressive"/>
+      <Representation id="1268000" bandwidth="1268000" scanType="progressive"/>
+      <Representation id="2698400" bandwidth="2698400" scanType="progressive"/>
     </AdaptationSet>
   </Period>
-
-  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-iso:2014" value="https://time.akamai.com/?iso"/>
 </MPD>
