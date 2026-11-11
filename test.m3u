@@ -40,7 +40,6 @@ https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
 
 
 
-
 #EXTINF:-1 tvg-name="STAR SPORTS 2 Hindi HD" tvg-logo="https://i.ibb.co/YBMBDWtd/SS2HD-HINDI.jpg" group-title="Sports", STAR SPORTS 2 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Virat Kohli
@@ -48,5 +47,5 @@ https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
 #EXTHTTP:{"cookie":"hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
-https://raw.githubusercontent.com/kshitij0010-c/home/main/starsport2jc.mpd
+https://raw.githubusercontent.com/kshitij0010-c/home/main/starsport2jc.m3u8
 
