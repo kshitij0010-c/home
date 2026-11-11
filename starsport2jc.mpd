@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:cenc="urn:mpeg:cenc:2013"
+     xmlns:mspr="urn:microsoft:playready"
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     id="jiohotstar-082c75fa2fec61647e9192140d488d30"
+     type="dynamic"
+     publishTime="2026-11-11T05:46:55Z"
+     availabilityStartTime="2026-08-06T12:31:55Z"
+     minimumUpdatePeriod="PT15S"
+     minBufferTime="PT10S"
+     suggestedPresentationDelay="PT25S"
+     timeShiftBufferDepth="PT604800S"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011">
+
+  <!-- ── PERIOD ─────────────────────────────────────────────────────────── -->
+  <Period id="1" start="PT0S">
+
+    <!-- ══════════════════════════════════════════════════════════════════
+         ADAPTATION SET : VIDEO
+         ══════════════════════════════════════════════════════════════════ -->
+    <AdaptationSet id="1"
+                   mimeType="video/mp4"
+                   segmentAlignment="true"
+                   startWithSAP="1"
+                   subsegmentAlignment="true"
+                   subsegmentStartsWithSAP="1"
+                   bitstreamSwitching="true">
+
+      <!-- ── DRM (same PSSH block for every video Representation) ────── -->
+      <!-- 1. cenc:default_KID (generic CENC signaling) -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+                         value="cenc"
+                         cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000"/>
+
+      <!-- 2. Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
+      </ContentProtection>
+
+      <!-- 3. PlayReady (MSPR 2.0) -->
+      <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"
+                         value="MSPR 2.0">
+        <cenc:pssh>AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
+        <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+      </ContentProtection>
+
+      <!-- ── Video Representations (5-tier ladder) ────────────────────── -->
+
+      <!-- 180p -->
+      <Representation id="video_180p"
+                      bandwidth="227000"
+                      width="320"
+                      height="180"
+                      frameRate="25/1"
+                      codecs="avc1.42E00D">
+        <SegmentTemplate timescale="25000"
+                         media="video_180p_$Number$.mp4"
+                         initialization="video_180p_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="100000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <!-- 360p -->
+      <Representation id="video_360p"
+                      bandwidth="482000"
+                      width="640"
+                      height="360"
+                      frameRate="25/1"
+                      codecs="avc1.42E01E">
+        <SegmentTemplate timescale="25000"
+                         media="video_360p_$Number$.mp4"
+                         initialization="video_360p_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="100000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <!-- 540p -->
+      <Representation id="video_540p"
+                      bandwidth="899000"
+                      width="960"
+                      height="540"
+                      frameRate="25/1"
+                      codecs="avc1.4D401F">
+        <SegmentTemplate timescale="25000"
+                         media="video_540p_$Number$.mp4"
+                         initialization="video_540p_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="100000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <!-- 720p -->
+      <Representation id="video_720p"
+                      bandwidth="1614000"
+                      width="1280"
+                      height="720"
+                      frameRate="25/1"
+                      codecs="avc1.4D401F">
+        <SegmentTemplate timescale="25000"
+                         media="video_720p_$Number$.mp4"
+                         initialization="video_720p_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="100000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <!-- 1080p -->
+      <Representation id="video_1080p"
+                      bandwidth="3043000"
+                      width="1920"
+                      height="1080"
+                      frameRate="25/1"
+                      codecs="avc1.640028">
+        <SegmentTemplate timescale="25000"
+                         media="video_1080p_$Number$.mp4"
+                         initialization="video_1080p_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="100000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+    </AdaptationSet>
+
+    <!-- ══════════════════════════════════════════════════════════════════
+         ADAPTATION SET : AUDIO (Hindi stereo, 48 kHz)
+         ══════════════════════════════════════════════════════════════════ -->
+    <AdaptationSet id="2"
+                   mimeType="audio/mp4"
+                   segmentAlignment="true"
+                   startWithSAP="1"
+                   bitstreamSwitching="true">
+
+      <!-- Same DRM block as video (required for each AdaptationSet) -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+                         value="cenc"
+                         cenc:default_KID="E6B31CCD-0A54-45B3-AEF9-C40E5A0E0000"/>
+
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQ5rMczQpURbOu+cQOWg4AABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
+      </ContentProtection>
+
+      <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"
+                         value="MSPR 2.0">
+        <cenc:pssh>AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB6AFIAeQB6ADUAbABRAEsAcwAwAFcAdQArAGMAUQBPAFcAZwA0AEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+ADAAcABuAEcAdwBrAG0AbgA4ADEAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
+        <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AegBSAHkAegA1AGwAUQBLAHMAMABXAHUAKwBjAFEATwBXAGcANABBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgAwAHAAbgBHAHcAawBtAG4AOAAxAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+      </ContentProtection>
+
+      <!-- Audio Representation (stereo, 48 kHz) -->
+      <Representation id="audio_hin"
+                      bandwidth="108000"
+                      audioSamplingRate="48000"
+                      codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011"
+                                   value="2"/>
+        <SegmentTemplate timescale="48000"
+                         media="audio_hin_$Number$.mp4"
+                         initialization="audio_hin_init.mp4"
+                         startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="192000" r="151199"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+    </AdaptationSet>
+
+    <!-- ── UTC timing for DVR / catch-up synchronization ──────────────── -->
+    <SupplementalProperty schemeIdUri="urn:scte:dash:utc-time"
+                          value="2026-08-06T12:31:50.180Z"/>
+
+  </Period>
+</MPD>
