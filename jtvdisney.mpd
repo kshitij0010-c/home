@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Based on Broadpeak BkS350 Origin Packager output -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:cenc="urn:mpeg:cenc:2013"
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     type="dynamic"
+     availabilityStartTime="1970-01-01T00:00:00Z"
+     publishTime="2026-11-12T07:50:29.156Z"
+     minimumUpdatePeriod="PT2S"
+     timeShiftBufferDepth="PT1M"
+     maxSegmentDuration="PT3S"
+     minBufferTime="PT2S"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period id="1" start="PT0S">
+    <BaseURL>dash/</BaseURL>
+
+    <!-- Audio: English -->
+    <AdaptationSet id="1" group="1" contentType="audio" lang="en"
+                   segmentAlignment="true" audioSamplingRate="48000"
+                   mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86134548697599" d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98836_eng=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Audio: Hindi -->
+    <AdaptationSet id="2" group="1" contentType="audio" lang="hi"
+                   segmentAlignment="true" audioSamplingRate="48000"
+                   mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86134548697599" d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98837_hin=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Audio: Tamil -->
+    <AdaptationSet id="3" group="1" contentType="audio" lang="ta"
+                   segmentAlignment="true" audioSamplingRate="48000"
+                   mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86134548697599" d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98838_tam=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Audio: Telugu -->
+    <AdaptationSet id="4" group="1" contentType="audio" lang="te"
+                   segmentAlignment="true" audioSamplingRate="48000"
+                   mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000"
+                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86134548697599" d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98839_tel=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Video -->
+    <AdaptationSet id="5" group="2" contentType="video" par="16:9"
+                   minBandwidth="658800" maxBandwidth="1680400"
+                   maxWidth="1024" maxHeight="576"
+                   segmentAlignment="true" sar="1:1" frameRate="25"
+                   mimeType="video/mp4" startWithSAP="1">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600"
+                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="1076681859917" d="1200" r="29"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=658800"  bandwidth="658800"  width="960"  height="540" codecs="avc1.4D401F" scanType="progressive"/>
+      <Representation id="video=914000"  bandwidth="914000"  width="1024" height="576" codecs="avc1.4D401F" scanType="progressive"/>
+      <Representation id="video=1680400" bandwidth="1680400" width="1024" height="576" codecs="avc1.64001F" scanType="progressive"/>
+    </AdaptationSet>
+  </Period>
+
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-11-12T07:50:29.233Z"/>
+</MPD>
