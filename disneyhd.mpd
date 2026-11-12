@@ -5,7 +5,7 @@
      xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 https://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
      type="dynamic"
      availabilityStartTime="1970-01-01T00:00:00Z"
-     publishTime="2026-11-11T19:10:00Z"
+     publishTime="2026-11-12T00:00:00Z"
      minimumUpdatePeriod="PT2S"
      timeShiftBufferDepth="PT10M"
      maxSegmentDuration="PT3S"
@@ -15,12 +15,7 @@
   <Period id="1" start="PT0S">
     <BaseURL>https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/dash/</BaseURL>
 
-    <!-- =========================================================
-         AUDIO : Hindi
-         NOTE: the __hdnea__ token is duplicated on EVERY segment
-         URL because a query string on <BaseURL> is not inherited
-         by relative URLs. The '&' is XML-escaped as &amp;.
-         ========================================================= -->
+    <!-- ============ AUDIO: Hindi ============ -->
     <AdaptationSet id="1" group="1" contentType="audio" lang="hi"
                    segmentAlignment="true" audioSamplingRate="48000"
                    mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
@@ -29,15 +24,13 @@
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
-
       <SegmentTemplate timescale="48000"
-        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505"
-        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505">
+        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5"
+        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5">
         <SegmentTimeline>
+          <!-- 300 segments = 10 min @ 48 kHz (75 cycles of 4) -->
           <S t="86132326305408" d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
-          <S d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
           <S d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
           <S d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
           <S d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
@@ -116,10 +109,7 @@
       <Representation id="audio_179634_hin=179600" bandwidth="179600"/>
     </AdaptationSet>
 
-    <!-- =========================================================
-         AUDIO : Tamil  – identical tokenized SegmentTemplate.
-         (timeline is exactly the same 300-segment window)
-         ========================================================= -->
+    <!-- ============ AUDIO: Tamil (same pattern, own Representation ID) ============ -->
     <AdaptationSet id="2" group="1" contentType="audio" lang="ta"
                    segmentAlignment="true" audioSamplingRate="48000"
                    mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
@@ -128,22 +118,20 @@
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505"
-        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505">
+        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5"
+        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5">
         <SegmentTimeline>
+          <!-- same 300-segment timeline as Hindi audio; copy from above -->
           <S t="86132326305408" d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
-          <!-- ... exactly the same 75 lines as the Hindi audio above ... -->
+          <!-- ... repeat 75 cycles total ... -->
         </SegmentTimeline>
       </SegmentTemplate>
       <Representation id="audio_179635_tam=179600" bandwidth="179600"/>
     </AdaptationSet>
 
-    <!-- =========================================================
-         AUDIO : Telugu – identical tokenized SegmentTemplate.
-         ========================================================= -->
+    <!-- ============ AUDIO: Telugu (same pattern, own Representation ID) ============ -->
     <AdaptationSet id="3" group="1" contentType="audio" lang="te"
                    segmentAlignment="true" audioSamplingRate="48000"
                    mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
@@ -152,22 +140,19 @@
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG7OIUI6BFemanUetyf91oFAAAALRIQuziFCOgRXpmp1Hrcn/daBSITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505"
-        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505">
+        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5"
+        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5">
         <SegmentTimeline>
           <S t="86132326305408" d="96255"/><S d="96256"/><S d="95232"/><S d="96257"/>
-          <!-- ... exactly the same 75 lines as the Hindi audio above ... -->
+          <!-- ... repeat 75 cycles total ... -->
         </SegmentTimeline>
       </SegmentTemplate>
       <Representation id="audio_179636_tel=179600" bandwidth="179600"/>
     </AdaptationSet>
 
-    <!-- =========================================================
-         VIDEO – tokenized SegmentTemplate
-         ========================================================= -->
+    <!-- ============ VIDEO ============ -->
     <AdaptationSet id="4" group="2" contentType="video" par="16:9"
                    minBandwidth="1268000" maxBandwidth="2698400"
                    segmentAlignment="true" width="1024" height="576"
@@ -177,11 +162,10 @@
       <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
         <cenc:pssh>AAAAYXBzc2gBAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAG5toenwptRo5cBLkTbRZAIAAAALRIQubaHp8KbUaOXAS5E20WQCCITMjAyNjA4MTBfNjAwMDAwMDU0OEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="600"
-        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505"
-        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505&amp;__hdnea__=st=1794418261~exp=1794439861~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=de1c96f73ec5a22eaa7cdd233af00bed3a8764f0ab1f87c78f07cd7b11c6d505">
+        initialization="Disney_Channel_BTS-$RepresentationID$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5"
+        media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1794447481~exp=1794469081~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=c63f524885804cec10f6fc34283633835a1bed9173b0b06b03dd8ed2166749f5">
         <SegmentTimeline>
           <S t="1076654080013" d="1200" r="299"/>
         </SegmentTimeline>
