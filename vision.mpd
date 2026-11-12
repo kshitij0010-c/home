@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:cenc="urn:mpeg:cenc:2013"
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011"
+     type="static"
+     mediaPresentationDuration="PT1H9M24.573S"
+     minBufferTime="PT4.00S">
+
+  <!-- ============================ PERIOD 1 : Intro (2.990 s) ============================ -->
+  <Period id="seq:-1_0" duration="PT2.990S">
+
+    <!-- ---------- Video: 240p / 360p / 480p ---------- -->
+    <AdaptationSet id="1" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1"
+                   subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/2_sRdSHTI"
+                      width="426" height="240" bandwidth="220253" codecs="avc1.42C015" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/2_sRdSHTI/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/2_sRdSHTI/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="2990"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/3_AeswJSI"
+                      width="640" height="360" bandwidth="305149" codecs="avc1.4D401E" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/3_AeswJSI/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/3_AeswJSI/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="2990"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/4_wpXMuHu"
+                      width="854" height="480" bandwidth="432008" codecs="avc1.4D401F" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/4_wpXMuHu/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/0/avc1/4_wpXMuHu/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="2990"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Video: 720p (separate KID) ---------- -->
+    <AdaptationSet id="2" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1"
+                   subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/1_szvCSJs"
+                      width="1280" height="720" bandwidth="686626" codecs="avc1.640028" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="1660aba7-4f30-e5a2-7394-0e256a6841cd"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/1_szvCSJs/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/1_szvCSJs/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="2990"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/2_RQobCvX"
+                      width="1280" height="720" bandwidth="891069" codecs="avc1.640028" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="1660aba7-4f30-e5a2-7394-0e256a6841cd"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/2_RQobCvX/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794210272628/4/avc1/2_RQobCvX/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="2990"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Audio (ENG / HIN / TAM / TEL — all share same IDs in source) ---------- -->
+    <!-- eng -->
+    <AdaptationSet id="3" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="eng">
+      <Representation id="audio_aac_1794209984432/en/mp4a/1" bandwidth="55901" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/2" bandwidth="71900" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/3" bandwidth="135899" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- hin (identical Representation IDs to eng in source – intentional for bumper) -->
+    <AdaptationSet id="4" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="hin">
+      <Representation id="audio_aac_1794209984432/en/mp4a/1" bandwidth="55901" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/2" bandwidth="71900" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/3" bandwidth="135899" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- tam -->
+    <AdaptationSet id="5" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="tam">
+      <Representation id="audio_aac_1794209984432/en/mp4a/1" bandwidth="55901" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/2" bandwidth="71900" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/3" bandwidth="135899" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- tel -->
+    <AdaptationSet id="6" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="tel">
+      <Representation id="audio_aac_1794209984432/en/mp4a/1" bandwidth="55901" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/2" bandwidth="71900" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794209984432/en/mp4a/3" bandwidth="135899" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794209984432/en/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="2990"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- Subtitle (dummy placeholder in source) -->
+    <AdaptationSet contentType="text" mimeType="text/vtt" lang="eng">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="caption"/>
+      <Representation id="subtitle/dummy" bandwidth="16444">
+        <BaseURL>https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/subtitle/dummy.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+
+  <!-- ============================ PERIOD 2 : Main Content (1h 9m 21.583s) ============================ -->
+  <Period id="seq:0_0" duration="PT1H9M21.583S">
+
+    <!-- ---------- Video: 240p / 360p / 480p ---------- -->
+    <AdaptationSet id="1" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1"
+                   subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/2_BAJfLXX"
+                      width="426" height="240" bandwidth="247618" codecs="avc1.42C015" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/2_BAJfLXX/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/2_BAJfLXX/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="4000" r="1039"/>
+            <S d="1583"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/3_snlysRg"
+                      width="640" height="360" bandwidth="422587" codecs="avc1.4D401E" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/3_snlysRg/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/3_snlysRg/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="4000" r="1039"/>
+            <S d="1583"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/4_qccpanu"
+                      width="854" height="480" bandwidth="596214" codecs="avc1.4D401F" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/4_qccpanu/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/0/avc1/4_qccpanu/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="4000" r="1039"/>
+            <S d="1583"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Video: 720p (separate KID) ---------- -->
+    <AdaptationSet id="2" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1"
+                   subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/1_vGZhEkw"
+                      width="1280" height="720" bandwidth="998427" codecs="avc1.640028" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="1660aba7-4f30-e5a2-7394-0e256a6841cd"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/1_vGZhEkw/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/1_vGZhEkw/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="4000" r="1039"/>
+            <S d="1583"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+
+      <Representation id="video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/2_LJvwLVF"
+                      width="1280" height="720" bandwidth="1447640" codecs="avc1.640028" frameRate="24">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="1660aba7-4f30-e5a2-7394-0e256a6841cd"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/2_LJvwLVF/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/video_singlekey_h264_fhd_sdr_1794227044102/4/avc1/2_LJvwLVF/seg-$Number$.m4s">
+          <SegmentTimeline>
+            <S t="0" d="4000" r="1039"/>
+            <S d="1583"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Audio: ENG ---------- -->
+    <AdaptationSet id="3" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="eng">
+      <Representation id="audio_aac_1794210392189/en/mp4a/1" bandwidth="57370" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210392189/en/mp4a/2" bandwidth="73702" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210392189/en/mp4a/3" bandwidth="136828" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210392189/en/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Audio: HIN ---------- -->
+    <AdaptationSet id="4" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="hin">
+      <Representation id="audio_aac_1794210137399/hi/mp4a/1" bandwidth="56911" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210137399/hi/mp4a/2" bandwidth="73491" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210137399/hi/mp4a/3" bandwidth="136026" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210137399/hi/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Audio: TAM ---------- -->
+    <AdaptationSet id="5" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="tam">
+      <Representation id="audio_aac_1794210471446/ta/mp4a/1" bandwidth="57056" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210471446/ta/mp4a/2" bandwidth="73650" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210471446/ta/mp4a/3" bandwidth="136275" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210471446/ta/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- ---------- Audio: TEL ---------- -->
+    <AdaptationSet id="6" mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="tel">
+      <Representation id="audio_aac_1794210343994/te/mp4a/1" bandwidth="57082" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/1/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/1/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210343994/te/mp4a/2" bandwidth="73572" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/2/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/2/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="audio_aac_1794210343994/te/mp4a/3" bandwidth="136377" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="f1bc7760-e14a-3855-2194-af07a406abae"/>
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="1000" startNumber="1"
+          initialization="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/3/init.mp4"
+          media="https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/audio_aac_1794210343994/te/mp4a/3/seg-$Number$.m4s">
+          <SegmentTimeline><S t="0" d="4000" r="1039"/><S d="1583"/></SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+
+    <!-- Subtitle (EN SDH) -->
+    <AdaptationSet contentType="text" mimeType="text/vtt" lang="eng">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="caption"/>
+      <Representation id="subtitle/en_sdh_1794359771972_0/subtitle" bandwidth="16444">
+        <BaseURL>https://hses9-vod-jiol.cdn.hotstar.com/gsvod1/movies-prod-origin1/videos/hotstarint/v3/1271652472/1271652480/1794209356667/52c00cab79ea700623db005b11805403/subtitle/en_sdh_1794359771972_0/subtitle.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
