@@ -1125,11 +1125,10 @@ http://d3sgzbosmwirao.cloudfront.net/video/26a4fbf1b8d2deb62b066b494b42ae4351e0a
 
 
 
-#EXTINF:-1 tvg-name="Jailer 2" tvg-id="k04" tvg-logo="",Jailer 2
+#EXTINF:-1 tvg-name="Jailer 2" tvg-id="k04" tvg-logo="",vision
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-https://pixeldrain.dev/api/file/i81opoof?download
-
+https://b413255e5e39a358ddcfae276ad7c5e9.r2.cloudflarestorage.com/hub/fab407a7b4482efc41c9664bfa167c10?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=17a2a9e760acf2e1e0ad355345c0ac29%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T142126Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22VisionQuest.S01E08.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv%22&X-Amz-Signature=e69fa5825f97aff91837eab17d32c3535eaecc2408923a4f1f44203b3e501608
 
 #EXTINF:-1 tvg-name="Vision" tvg-id="" tvg-logo="",VisionQuest
 #EXTVLCOPT:http-user-agent=Virat
