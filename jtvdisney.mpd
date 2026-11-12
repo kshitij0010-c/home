@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- MPD: https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd -->
-<!-- Segment BaseURL: https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/ -->
-<!-- LIVE ONLY: 1-minute sliding window, no DVR seek-back -->
+<!-- MPD Hosted on GitHub, but media segments point to Jio CDN -->
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xmlns="urn:mpeg:dash:schema:mpd:2011"
      xmlns:cenc="urn:mpeg:cenc:2013"
@@ -13,10 +11,8 @@
      timeShiftBufferDepth="PT1M"
      maxSegmentDuration="PT3S"
      minBufferTime="PT2S"
-     suggestedPresentationDelay="PT6S"
      profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
   <Period id="1" start="PT0S">
-    <BaseURL>https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/</BaseURL>
 
     <!-- Audio: English -->
     <AdaptationSet id="1" group="1" contentType="audio" lang="en"
@@ -28,10 +24,9 @@
       <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
-                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+                       initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
-          <!-- Live edge at 2026-11-12T07:50:29Z (1794469829s), ~62s window -->
           <S t="86134548697599" d="96256"/>
           <S d="96257"/>
           <S d="96255"/>
@@ -78,8 +73,8 @@
       <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
-                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+                       initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
           <S t="86134548697599" d="96256"/>
           <S d="96257"/>
@@ -127,8 +122,8 @@
       <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
-                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+                       initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
           <S t="86134548697599" d="96256"/>
           <S d="96257"/>
@@ -176,8 +171,8 @@
       <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="48000"
-                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
-                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+                       initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
           <S t="86134548697599" d="96256"/>
           <S d="96257"/>
@@ -226,10 +221,9 @@
       <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="40"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <SegmentTemplate timescale="600"
-                       initialization="Disney_Channel_MOB-$RepresentationID$.dash"
-                       media="Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
+                       initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$.dash"
+                       media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-$RepresentationID$-$Time$.dash">
         <SegmentTimeline>
-          <!-- 30 x 2s = 60s sliding live window -->
           <S t="1076681859917" d="1200" r="29"/>
         </SegmentTimeline>
       </SegmentTemplate>
