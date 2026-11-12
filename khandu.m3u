@@ -1118,7 +1118,13 @@ http://d3sgzbosmwirao.cloudfront.net/video/26a4fbf1b8d2deb62b066b494b42ae4351e0a
 
 
 
-#EXTINF:-1 tvg-name="The Truman Show" tvg-id="k04" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8c9d47a1ca8d8c88c1e79ec1b4271a9db2d3900f6955a5c12646033857aefe8a.jpg",The Truman Show
+#EXTINF:-1 tvg-name="Jailer 2" tvg-id="k04" tvg-logo="",Jailer 2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-https://cold1.gofile.io/download/web/8b096506-f17b-4b2b-aac7-cd2a9b0783dc/The.Truman.Show.1998.720p.HEVC.BluRay.DUAL.AAC2.0.x265.ESub-SkymoviesHD.mkv
+https://pixeldrain.dev/api/file/i81opoof?download
+
+
+#EXTINF:-1 tvg-name="Jailer 2" tvg-id="k04" tvg-logo="",Jailer 2
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=http://www.jiotv.com/
+https://cee4a5cf74935f8a680f710564b4282f.r2.cloudflarestorage.com/hub/cb8f9632f239c8f0c67427b44587c83c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5452c5f4fbff4e8ca3dfc5058fc64dd7%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T064401Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Jailer.2.2026.1080p.10Bit.WEB-DL.DS4K.HIN-TAM.x265.AAC.5.1.ESub-SkymoviesHD.mkv%22&X-Amz-Signature=0982ec9f7330ffbcffd76bfdfde38a9c7271d03934086b97568bc17bcb134959
