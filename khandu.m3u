@@ -234,8 +234,8 @@ http://sflex.fun/Sflex-Jio/301971/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
-#EXTHTTP:{"cookie":"hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
+#EXTHTTP:{"cookie":"hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
 https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
 
 
@@ -651,8 +651,8 @@ http://sflex.fun/Sflex-Jio/301982/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin:http://tv.hotstar.com
-#EXTVLCOPT:http-cookie=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
-#EXTHTTP:{"Origin":"http://tv.hotstar.com","Referer":"http://www.hotstar.com/","User-Agent":"Virat","Cookie":"exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
+#EXTHTTP:{"Origin":"http://tv.hotstar.com","Referer":"http://www.hotstar.com/","User-Agent":"Virat","Cookie":"exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
 
 http://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
@@ -666,8 +666,8 @@ http://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin:http://tv.hotstar.com
-#EXTVLCOPT:http-cookie=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
-#EXTHTTP:{"Origin":"http://tv.hotstar.com","Referer":"http://www.hotstar.com/","User-Agent":"Virat","Cookie":"exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
+#EXTHTTP:{"Origin":"http://tv.hotstar.com","Referer":"http://www.hotstar.com/","User-Agent":"Virat","Cookie":"exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
 #KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
 
 http://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd
@@ -689,8 +689,8 @@ http://sflex.fun/Sflex-Jio/301229/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
-#EXTHTTP:{"cookie":"hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
+#EXTHTTP:{"cookie":"hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
 https://raw.githubusercontent.com/kshitij0010-c/home/main/starsport2jc.m3u8
 
 
@@ -816,8 +816,8 @@ http://sflex.fun/Sflex-Jio/302071/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd
-#EXTHTTP:{"cookie":"hdntl=exp=1794459058~acl=%2f*~id=55408e0c7202a266cfc310ec8fb294df~data=hdntl~hmac=cf39de9bab6be96e511061d88ab2ba94ae499649b3060994a1c5b33081e9bbfd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
+#EXTHTTP:{"cookie":"hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
 https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/disnychhd.mpd
 
 
