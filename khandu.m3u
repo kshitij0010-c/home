@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="DD Sahayadri" tvg-id="695" tvg-logo="http://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg"group-title="DD Channels"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",DD Sahayadri
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index_2.m3u8
 
 
 #EXTINF:-1 tvg-name="Fakt Marathi"tvg-id="738" tvg-logo="http://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a924cd82e1d44b9cad4a6f62daee5126/version/0" group-title="Entertainment"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="Virat",Fakt Marathi
@@ -234,9 +234,18 @@ http://sflex.fun/Sflex-Jio/301971/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
-#EXTHTTP:{"cookie":"hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794545603~acl=%2f*~id=cd16a4bee8b4fdfeb8fe93c0bd11c0ca~data=hdntl~hmac=016340940bd0fcaa52094c9886ba923f88bfff9613222b3006aad03f462b0554
 https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
+
+
+
+#EXTINF:-1 tvg-id="1540068304" tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/Hotstar/StarGold.in.png" group-title="Hotstar Live TV",Star Gold
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0
+#EXTVLCOPT:http-cookie=hdntl=exp=1794545603~acl=%2f*~id=cd16a4bee8b4fdfeb8fe93c0bd11c0ca~data=hdntl~hmac=016340940bd0fcaa52094c9886ba923f88bfff9613222b3006aad03f462b0554
+https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd
 
 
 
@@ -813,8 +822,7 @@ http://sflex.fun/Sflex-Jio/302071/manifest.mpd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c
-#EXTHTTP:{"cookie":"hdntl=exp=1794494608~acl=%2f*~id=8a470ac985a1b773d100321db95b2cc5~data=hdntl~hmac=82cc3a13080d2fc43a680e286374c831b3c51bf324c9585378723e7a7e395d5c"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1794545603~acl=%2f*~id=cd16a4bee8b4fdfeb8fe93c0bd11c0ca~data=hdntl~hmac=016340940bd0fcaa52094c9886ba923f88bfff9613222b3006aad03f462b0554
 #KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
 https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/disnychhd.mpd
 
