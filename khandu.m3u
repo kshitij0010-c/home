@@ -821,8 +821,7 @@ https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/disnychhd.mpd
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1794736145~acl=%2f*~id=bce6fb22c9fafcaf052901d044f9e56a~data=hdntl~hmac=63d4602c0c454aad9fb7635d641355e49aac06c27509886435b4480999c6c8f8
 #KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/dsnytkn.mpd
-
+https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1794649655~exp=1794650255~acl=/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/*~data=ip=tq6UFChTZvOGSnOKUBujc3WfAEdaVJ9XW2FxVILxsMX4817JtPUF8l0-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=9-pl=web-ap=26.10.27.0-ut=paid-~hmac=41f60c73fe84fa2ada1256866422de7731590e540f95f9affeef571ff472e397
 
 
 
