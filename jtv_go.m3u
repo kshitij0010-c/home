@@ -1,7 +1,3 @@
-HLSPartner/manifest/1.m3u8
-
-
-
 #EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="English", CNBC TV18 Prime
