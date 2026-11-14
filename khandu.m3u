@@ -662,8 +662,7 @@ http://sflex.fun/Sflex-Jio/301982/manifest.mpd
 #EXTVLCOPT:http-extra-headers=Origin:http://tv.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1794736145~acl=%2f*~id=bce6fb22c9fafcaf052901d044f9e56a~data=hdntl~hmac=63d4602c0c454aad9fb7635d641355e49aac06c27509886435b4480999c6c8f8
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
-
-http://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
 
 
 #EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD DG" tvg-logo="http://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD DG
@@ -677,7 +676,7 @@ http://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0
 #EXTVLCOPT:http-cookie=hdntl=exp=1794736145~acl=%2f*~id=bce6fb22c9fafcaf052901d044f9e56a~data=hdntl~hmac=63d4602c0c454aad9fb7635d641355e49aac06c27509886435b4480999c6c8f8
 #KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
 
-http://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD Hindi" tvg-logo="http://i.ibb.co/B5Mnd89k/SS2-HINDI.jpg" group-title="Sports", Star Sports 2 HD Hindi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
