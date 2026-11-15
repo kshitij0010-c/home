@@ -35,12 +35,11 @@ https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/disneyhd.mpd
 https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
 
 
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English", History TV18 HD
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English", History TV18 HD H
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6,0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#EXTVLCOPT:http-user-agent=okhttp/4.2.2
-#EXTVLCOPT:http-extra-headers=Origin:
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9899988092&__hdnea__==st=1794677751~exp=1794677871~acl=/*~hmac=661300aa97c257f112f737830b7b054c5ab60c253b8dc2f0e4a653fdf951851b
+#EXTVLCOPT:http-extra-headers=Origin:jio.com
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/History_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1794677751~exp=1794677871~acl=/bpk-tv/History_HD_MOB/WDVLive/*~hmac=661300aa97c257f112f737830b7b054c5ab60c253b8dc2f0e4a653fdf951851b
 
 
