@@ -1,116 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns:cenc="urn:mpeg:cenc:2013"
-     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
-     type="dynamic"
-     availabilityStartTime="1970-01-01T00:00:00Z"
-     publishTime="2026-11-17T15:22:56.325Z"
-     minimumUpdatePeriod="PT2S"
-     timeShiftBufferDepth="PT1M2S"
-     maxSegmentDuration="PT3S"
-     minBufferTime="PT2S"
-     profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
 
-  <Period id="1" start="PT0S">
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
+#EXTVLCOPT:http-cookie=__hdnea__=st=1794906012~exp=1794992412~acl=/*~hmac=2af1eb15e38060b8689e98d330f1315ab7a56b4678f5d1ff7d5e2191bc32fa85
 
-    <!-- English Audio -->
-    <AdaptationSet id="1" contentType="audio" lang="en" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
-      <SegmentTemplate timescale="48000"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98836_eng=98800.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98836_eng=98800-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86156587824639" d="96256" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_98836_eng=98800" bandwidth="98800"/>
-    </AdaptationSet>
+# English Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98836_eng=98800.dash"
 
-    <!-- Hindi Audio -->
-    <AdaptationSet id="2" contentType="audio" lang="hi" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
-      <SegmentTemplate timescale="48000"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98837_hin=98800.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98837_hin=98800-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86156587824639" d="96256" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_98837_hin=98800" bandwidth="98800"/>
-    </AdaptationSet>
+# Hindi Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",LANGUAGE="hi",DEFAULT=NO,AUTOSELECT=YES,URI="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98837_hin=98800.dash"
 
-    <!-- Tamil Audio -->
-    <AdaptationSet id="3" contentType="audio" lang="ta" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
-      <SegmentTemplate timescale="48000"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98838_tam=98800.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98838_tam=98800-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86156587824639" d="96256" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_98838_tam=98800" bandwidth="98800"/>
-    </AdaptationSet>
+# Tamil Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Tamil",LANGUAGE="ta",DEFAULT=NO,AUTOSELECT=YES,URI="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98838_tam=98800.dash"
 
-    <!-- Telugu Audio -->
-    <AdaptationSet id="4" contentType="audio" lang="te" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
-      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
-      <SegmentTemplate timescale="48000"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800-$Time$.dash">
-        <SegmentTimeline>
-          <S t="86156587824639" d="96256" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="audio_98839_tel=98800" bandwidth="98800"/>
-    </AdaptationSet>
+# Telugu Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Telugu",LANGUAGE="te",DEFAULT=NO,AUTOSELECT=YES,URI="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800.dash"
 
-    <!-- Video -->
-    <AdaptationSet id="5" contentType="video" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1024" maxHeight="576" frameRate="25">
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
-      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+# Video Streams
+#EXT-X-STREAM-INF:BANDWIDTH=658800,RESOLUTION=960x540,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio"
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800.dash
 
-      <!-- 960x540 -->
-      <SegmentTemplate timescale="600"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800-$Time$.dash">
-        <SegmentTimeline>
-          <S t="1076957347805" d="1200" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="video=658800" bandwidth="658800" width="960" height="540" codecs="avc1.4D401F"/>
+#EXT-X-STREAM-INF:BANDWIDTH=914000,RESOLUTION=1024x576,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio"
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000.dash
 
-      <!-- 1024x576 Medium -->
-      <SegmentTemplate timescale="600"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000-$Time$.dash">
-        <SegmentTimeline>
-          <S t="1076957347805" d="1200" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="video=914000" bandwidth="914000" width="1024" height="576" codecs="avc1.4D401F"/>
-
-      <!-- 1024x576 High -->
-      <SegmentTemplate timescale="600"
-                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400.dash"
-                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400-$Time$.dash">
-        <SegmentTimeline>
-          <S t="1076957347805" d="1200" r="30"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="video=1680400" bandwidth="1680400" width="1024" height="576" codecs="avc1.64001F"/>
-    </AdaptationSet>
-
-  </Period>
-
-  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-11-17T15:22:56.446Z"/>
-</MPD>
+#EXT-X-STREAM-INF:BANDWIDTH=1680400,RESOLUTION=1024x576,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio"
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400.dash
