@@ -90,6 +90,14 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/blygld/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1794906012~exp=1794992412~acl=/*~hmac=2af1eb15e38060b8689e98d330f1315ab7a56b4678f5d1ff7d5e2191bc32fa85"}
 https://raw.githubusercontent.com/kshitij0010-c/home/refs/heads/main/disneyhd.mpd
 
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD Hindi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94
+#EXTVLCOPT:http-user-agent=Virat
+#EXTHTTP:{"cookie":"__hdnea__=st=1794938155~exp=1794938275~acl=/bpk-tv/History_18_Hindi_MOB/WDVLive/*~hmac=e77784d2c324b2e4287a89512e5f6b2380fd0cf130246c8be852bcd6cf5358a5"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1794938155~exp=1794938275~acl=/bpk-tv/History_18_Hindi_MOB/WDVLive/*~hmac=e77784d2c324b2e4287a89512e5f6b2380fd0cf130246c8be852bcd6cf5358a5
+
 
 #EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
 #KODIPROP:inputstream=inputstream.adaptive
