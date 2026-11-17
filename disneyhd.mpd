@@ -1,81 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:mspr="urn:microsoft:playready" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" id="201" type="dynamic" publishTime="2026-11-11T14:44:50+00:00" minimumUpdatePeriod="PT15S" availabilityStartTime="2026-06-16T06:54:33+00:00" minBufferTime="PT10S" suggestedPresentationDelay="PT25.000S" timeShiftBufferDepth="PT604800.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
-  <Period start="PT0.000S" id="1">
-    <AdaptationSet id="1485523442" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:cenc="urn:mpeg:cenc:2013"
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     type="dynamic"
+     availabilityStartTime="1970-01-01T00:00:00Z"
+     publishTime="2026-11-17T15:22:56.325Z"
+     minimumUpdatePeriod="PT2S"
+     timeShiftBufferDepth="PT1M2S"
+     maxSegmentDuration="PT3S"
+     minBufferTime="PT2S"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
 
-      <!-- Low Quality -->
-      <Representation id="1" width="960" height="540" frameRate="25/1" bandwidth="658800" codecs="avc1.4D401F">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQK1grJJUgShOWzYpxSioAABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBKAEMAdABZAEsAeQBDAFYARQAwAHEAVwB6AFkAcAB4AFMAaQBvAEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEkAWABzAE0AbQAwAEIAcwBNAGkAWQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ASgBDAHQAWQBLAHkAQwBWAEUAMABxAFcAegBZAHAAeABTAGkAbwBBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBJAFgAcwBNAG0AMABCAHMATQBpAFkAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="600" media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800-$Time$.dash?m=1775480621" initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800.dash?m=1775480621" startNumber="3203781">
-          <SegmentTimeline>
-            <S t="1076957347805" d="1200" r="30"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
+  <Period id="1" start="PT0S">
 
-      <!-- Medium Quality -->
-      <Representation id="2" width="1024" height="576" frameRate="25/1" bandwidth="914000" codecs="avc1.4D401F">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQK1grJJUgShOWzYpxSioAABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBKAEMAdABZAEsAeQBDAFYARQAwAHEAVwB6AFkAcAB4AFMAaQBvAEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEkAWABzAE0AbQAwAEIAcwBNAGkAWQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ASgBDAHQAWQBLAHkAQwBWAEUAMABxAFcAegBZAHAAeABTAGkAbwBBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBJAFgAcwBNAG0AMABCAHMATQBpAFkAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="600" media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000-$Time$.dash?m=1775480621" initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000.dash?m=1775480621" startNumber="3203781">
-          <SegmentTimeline>
-            <S t="1076957347805" d="1200" r="30"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-
-      <!-- High Quality -->
-      <Representation id="3" width="1024" height="576" frameRate="25/1" bandwidth="1680400" codecs="avc1.64001F">
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQK1grJJUgShOWzYpxSioAABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBKAEMAdABZAEsAeQBDAFYARQAwAHEAVwB6AFkAcAB4AFMAaQBvAEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEkAWABzAE0AbQAwAEIAcwBNAGkAWQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ASgBDAHQAWQBLAHkAQwBWAEUAMABxAFcAegBZAHAAeABTAGkAbwBBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBJAFgAcwBNAG0AMABCAHMATQBpAFkAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="600" media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400-$Time$.dash?m=1775480621" initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400.dash?m=1775480621" startNumber="3203781">
-          <SegmentTimeline>
-            <S t="1076957347805" d="1200" r="30"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
-
+    <!-- English Audio -->
+    <AdaptationSet id="1" contentType="audio" lang="en" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <SegmentTemplate timescale="48000"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98836_eng=98800.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98836_eng=98800-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86156587824639" d="96256" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98836_eng=98800" bandwidth="98800"/>
     </AdaptationSet>
 
-    <!-- AUDIO (Telugu) -->
-    <AdaptationSet id="1336605485" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1" bitstreamSwitching="true">
-      <Representation id="8" bandwidth="98800" audioSamplingRate="48000" codecs="mp4a.40.2">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C" xmlns:cenc="urn:mpeg:cenc:2013"/>
-        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQK1grJJUgShOWzYpxSioAABoKaW50ZXJ0cnVzdCIBKg==</cenc:pssh>
-        </ContentProtection>
-        <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED" value="MSPR 2.0">
-          <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAACynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqqqAgAAAQABAKACPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBKAEMAdABZAEsAeQBDAFYARQAwAHEAVwB6AFkAcAB4AFMAaQBvAEEAQQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEkAWABzAE0AbQAwAEIAcwBNAGkAWQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAHAAcgAtAGwAaQBuAHUAeAAuAGQAZQB2AC4AZQB4AHAAcgBlAHMAcwBwAGwAYQB5AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAFIAaQBnAGgAdABzAE0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A</cenc:pssh>
-          <mspr:pro>qgIAAAEAAQCgAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ASgBDAHQAWQBLAHkAQwBWAEUAMABxAFcAegBZAHAAeABTAGkAbwBBAEEAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBJAFgAcwBNAG0AMABCAHMATQBpAFkAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBwAHIALQBsAGkAbgB1AHgALgBkAGUAdgAuAGUAeABwAHIAZQBzAHMAcABsAGEAeQAuAGMAbwBtAC8AcABsAGEAeQByAGUAYQBkAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
-        </ContentProtection>
-        <SegmentTemplate timescale="48000" media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800-$Time$.dash?m=1775480621" initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800.dash?m=1775480621" startNumber="3203781">
-          <SegmentTimeline>
-            <S t="86156587824639" d="96256" r="30"/>
-          </SegmentTimeline>
-        </SegmentTemplate>
-      </Representation>
+    <!-- Hindi Audio -->
+    <AdaptationSet id="2" contentType="audio" lang="hi" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <SegmentTemplate timescale="48000"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98837_hin=98800.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98837_hin=98800-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86156587824639" d="96256" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98837_hin=98800" bandwidth="98800"/>
     </AdaptationSet>
 
-    <SupplementalProperty schemeIdUri="urn:scte:dash:utc-time" value="2026-06-16T06:54:16.367Z"/>
+    <!-- Tamil Audio -->
+    <AdaptationSet id="3" contentType="audio" lang="ta" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <SegmentTemplate timescale="48000"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98838_tam=98800.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98838_tam=98800-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86156587824639" d="96256" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98838_tam=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Telugu Audio -->
+    <AdaptationSet id="4" contentType="audio" lang="te" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="48000" segmentAlignment="true" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+      <SegmentTemplate timescale="48000"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-audio_98839_tel=98800-$Time$.dash">
+        <SegmentTimeline>
+          <S t="86156587824639" d="96256" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98839_tel=98800" bandwidth="98800"/>
+    </AdaptationSet>
+
+    <!-- Video -->
+    <AdaptationSet id="5" contentType="video" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1024" maxHeight="576" frameRate="25">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="400D0F35-4DCA-5D44-A540-CD80DB766F4C"/>
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED"/>
+
+      <!-- 960x540 -->
+      <SegmentTemplate timescale="600"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=658800-$Time$.dash">
+        <SegmentTimeline>
+          <S t="1076957347805" d="1200" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=658800" bandwidth="658800" width="960" height="540" codecs="avc1.4D401F"/>
+
+      <!-- 1024x576 Medium -->
+      <SegmentTemplate timescale="600"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=914000-$Time$.dash">
+        <SegmentTimeline>
+          <S t="1076957347805" d="1200" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=914000" bandwidth="914000" width="1024" height="576" codecs="avc1.4D401F"/>
+
+      <!-- 1024x576 High -->
+      <SegmentTemplate timescale="600"
+                      initialization="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400.dash"
+                      media="https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/dash/Disney_Channel_MOB-video=1680400-$Time$.dash">
+        <SegmentTimeline>
+          <S t="1076957347805" d="1200" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=1680400" bandwidth="1680400" width="1024" height="576" codecs="avc1.64001F"/>
+    </AdaptationSet>
+
   </Period>
+
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-11-17T15:22:56.446Z"/>
 </MPD>
