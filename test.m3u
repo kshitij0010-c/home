@@ -40,8 +40,7 @@ https://raw.githubusercontent.com/kshitij0010-c/home/main/stargold.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9899988092&__hdnea__==st=1794677751~exp=1794677871~acl=/*~hmac=661300aa97c257f112f737830b7b054c5ab60c253b8dc2f0e4a653fdf951851b
 #EXTVLCOPT:http-extra-headers=Origin:jio.com
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/History_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1794677751~exp=1794677871~acl=/bpk-tv/History_HD_MOB/WDVLive/*~hmac=661300aa97c257f112f737830b7b054c5ab60c253b8dc2f0e4a653fdf951851b
-
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/History_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Movies Now HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -96,7 +95,7 @@ https://raw.githubusercontent.com/kshitij0010-c/home/refs/heads/main/disneyhd.mp
 #KODIPROP:inputstream.adaptive.license_key=d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94
 #EXTVLCOPT:http-user-agent=Virat
 #EXTHTTP:{"cookie":"__hdnea__=st=1794938155~exp=1794938275~acl=/bpk-tv/History_18_Hindi_MOB/WDVLive/*~hmac=e77784d2c324b2e4287a89512e5f6b2380fd0cf130246c8be852bcd6cf5358a5"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1794938155~exp=1794938275~acl=/bpk-tv/History_18_Hindi_MOB/WDVLive/*~hmac=e77784d2c324b2e4287a89512e5f6b2380fd0cf130246c8be852bcd6cf5358a5
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd
 
 
 #EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
