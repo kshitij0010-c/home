@@ -33,7 +33,7 @@ http://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/
 #EXTINF:-1 tvg-name="Star Pravah HD"tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/StarPravahHD1.png" group-title="Entertainment" provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Star Pravah HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" group-title="Entertainment" tvg-logo="http://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",Sun Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -44,7 +44,7 @@ http://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_in
 #EXTINF:-1 tvg-name="Colors Marathi HD" tvg-id="1368" tvg-logo="http://img.media.jio.com/tvpimages/77/56/304140_1774534080812_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="414" tvg-name="Zee Yuva" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeYuva.png" group-title="Entertainment",Zee Yuva
 #KODIPROP:inputstream=inputstream.adaptive
@@ -74,7 +74,7 @@ http://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_
 #EXTINF:-1 tvg-name="Shemaroo Marathi Bana"tvg-id="1452"tvg-logo="http://img.media.jio.com/imagespublic/22/75/301206_1646912412048_p_medium.jpg" group-title="Movies" provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Shemaroo Marathi Bana
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Awaaz India" tvg-id="3332" tvg-logo="http://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Awaaz India
@@ -90,38 +90,38 @@ http://live1.ottlive.co.in/awaazindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ABP Majha" tvg-id="612" tvg-logo="http://img.media.jio.com/tvpimages/44/28/300057_1753177408768_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",ABP Majha
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
+https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee 24 Taas"tvg-id="442"tvg-logo="http://img.media.jio.com/tvpimages/9/84/301342_1753198923876_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Zee 24 Taas
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-name="Saam Tv "tvg-id="691" tvg-logo="http://img.media.jio.com/imagespublic/61/54/SaamTv_1574695258106_tv.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Saam Tv
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://cdn.pishow.tv/ott/live/437/master.m3u8
+https://cdn.pishow.tv/ott/live/437/master.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Marathi"tvg-id="617"tvg-logo="http://img.media.jio.com/tvpimages/32/65/301135_1753182963586_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",TV9 Marathi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="News18 Marathi" tvg-id="232" tvg-logo="http://img.media.jio.com/tvpimages/87/77/301055_1768105813705_l_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",News18 Marathi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-name="Lokshahi Marathi" tvg-id="1293" tvg-logo="http://img.media.jio.com/imagespublic/70/29/301629_1707138809741_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Lokshahi Marathi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
 #EXTINF:-1 tvg-name="NDTV Marathi" tvg-id="3095" tvg-logo="http://img.media.jio.com/imagespublic/8/42/301789_1723891902194_p_medium.jpg"group-title="News"provider-languages="Marathi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",NDTV Marathi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.m3u8
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.m3u8
 
 
 
@@ -150,17 +150,17 @@ http://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 #EXTINF:-1 tvg-name="DD Bharati"tvg-id="580"tvg-logo="http://img.media.jio.com/imagespublic/40/72/DDbharati_1574667855475_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",DD bharati
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
+https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 
 #EXTINF:-1 tvg-name="DD India"tvg-id="528"tvg-logo="http://img.media.jio.com/imagespublic/98/23/DDIndia_1574667946262_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",DD India
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
 #EXTINF:-1 tvg-name="DD News"tvg-id="203"tvg-logo="http://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg"group-title="DD Channels"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",DD News
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 #EXTINF:-1 tvg-name="&TV HD"tvg-id="472"tvg-logo="http://img.media.jio.com/tvpimages/65/85/300377_1753869832519_l_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",&TV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -180,12 +180,12 @@ http://sflex.fun/Sflex-Jio/304185/manifest.m3u8
 #EXTINF:-1 tvg-name="Shemaroo TV"tvg-id="1961"tvg-logo="http://img.media.jio.com/imagespublic/60/81/301207_1646912578155_p_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Shemaroo TV
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Shemaroo Umang"tvg-id="2078"tvg-logo="http://img.media.jio.com/imagespublic/24/84/301291_1662210047558_p_medium.jpg"group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Shemaroo Umang
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3509" tvg-name="SET HD" group-title="Entertainment" tvg-logo="http://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
 http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8
@@ -488,7 +488,7 @@ http://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/c
 #EXTINF:-1 tvg-name="Shemaroo Bollywood"tvg-id="3075"tvg-logo="http://img.media.jio.com/imagespublic/45/20/301765_1721227984167_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Shemaroo Bollywood
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
 
@@ -498,7 +498,7 @@ http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood
 #EXTINF:-1 tvg-name="Epic Music" tvg-id=""tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Epic Music
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/b40f0922-93e9-463f-bcfd-7a5299fb8018/0.m3u8
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/b40f0922-93e9-463f-bcfd-7a5299fb8018/0.m3u8
 
 #EXTINF:-1 tvg-name="9X Jalwa" tvg-id="440"tvg-logo="http://img.media.jio.com/imagespublic/69/32/9XJalwa_1574666782307_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",9X Jalwa
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
@@ -519,27 +519,27 @@ http://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg0128
 #EXTINF:-1 tvg-name="9XM" tvg-id="587"tvg-logo="http://img.media.jio.com/imagespublic/64/77/9XM_1570454383418_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",9XM
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-name="B4U Music"tvg-id="183"tvg-logo="http://img.media.jio.com/tvpimages/30/10/300003_1754934493448_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",B4U Music
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://cdn.pishow.tv/ott/live/415/master.m3u8
+https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-name="E24"tvg-id="591"tvg-logo="http://img.media.jio.com/imagespublic/31/44/E24_1570454462797_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",E24
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
 #EXTINF:-1 tvg-name="Music India"tvg-id="250"tvg-logo="http://img.media.jio.com/imagespublic/18/48/MusicIndia_1574670346709_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Music India
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-name="NH BollyRaga"tvg-id="3343"tvg-logo="http://img.media.jio.com/tvpimages/16/34/302705_1756192946433_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",NH BollyRaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://sflex.fun/Sflex-Jio/302705/manifest.m3u8
+https://sflex.fun/Sflex-Jio/302705/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Sangeet Marathi"tvg-id="735"tvg-logo="http://img.media.jio.com/imagespublic/16/51/SangeetMarathi_1574695340752_tv.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sangeet Marathi
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
@@ -549,12 +549,12 @@ http://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Filmy Gaane"tvg-id="3074" tvg-logo="http://img.media.jio.com/imagespublic/36/1/301764_1721227873898_p_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Shemaroo Filmy Gaane
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="YRF Music"tvg-id="2753"tvg-logo="http://img.media.jio.com/tvpimages/89/72/301434_1784902414258_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",YRF Music
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zing"tvg-id="585"tvg-logo="http://img.media.jio.com/tvpimages/4/8/300314_1768297503669_l_medium.jpg"group-title="Music"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Zing
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
@@ -801,17 +801,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hd
 https://cdn.jsdelivr.net/gh/kshitij0010-c/home@main/disnychhd.mpd
 
 
-#EXTINF:-1 tvg-name="Disney Channel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" group-title="Kids", Disney Channel Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794736145~acl=%2f*~id=bce6fb22c9fafcaf052901d044f9e56a~data=hdntl~hmac=63d4602c0c454aad9fb7635d641355e49aac06c27509886435b4480999c6c8f8
-#KODIPROP:inputstream.adaptive.license_key=e6b31ccd0a5445b3aef9c40e5a0e0000:5f743841c396447b950d9c2be950dee0
-https://livetv.hotstar.com/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1794649655~exp=1794650255~acl=/mp2/gec-india-1540075053/f9f3720bed4e4ce0b644bfeec74f8fee/*~data=ip=tq6UFChTZvOGSnOKUBujc3WfAEdaVJ9XW2FxVILxsMX4817JtPUF8l0-userid=CSYy1aZUca5te1BgA8KTJC3Wr3MnDwkeF1WBQkco7wi4-did=K8HzRai3HIWNCjXJJnxzoUCqY0oOCYyTlSGUnW1hI2Qs-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=9-pl=web-ap=26.10.27.0-ut=paid-~hmac=41f60c73fe84fa2ada1256866422de7731590e540f95f9affeef571ff472e397
+http://datahub11.com:8080/live/1000449052/449052/19741.ts
 
 
 
@@ -928,7 +923,8 @@ http://sflex.fun/Sflex-Jio/304150/manifest.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="2258" tvg-logo="http://img.media.jio.com/imagespublic/57/24/301325_1674217631954_p_medium.jpg"group-title="Kids" provider-languages="":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Animax
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
 
 
 
@@ -941,7 +937,7 @@ http://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlis
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=  okhttp/4.2.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-http://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Animes 24/7" group-title="" tvg-logo="http://images.seeklogo.com/logo-png/21/2/anime-logo-png_seeklogo-212481.png" group-title="Kids",Animes 24/7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -949,7 +945,7 @@ http://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=  okhttp/4.2.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
-http://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 
 
 
@@ -967,12 +963,12 @@ http://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2& 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-http://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wow kids"tvg-id=""tvg-logo="http://yt3.googleusercontent.com/3uOW-LJchrMU9b4UBAvyxUB_jGj8McvtxhET8pqOhCYWQWNubxeYPYzmYWi91lOaiwp3zHM=s900-c-k-c0x00ffffff-no-rj" group-title="Kids" provider-languages="":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Wow kids
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
 #EXTINF:-1 tvg-id="3451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin1.png" group-title="Infotainment",Animal Planet HD
@@ -1011,7 +1007,7 @@ https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 #EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" group-title="Infotainment" group-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="http://jiotvimages.cdn.jio.com/dare_images/images/channel/f89bad9075c009869645a1af78c33978.png" tvg-category="Infotainment",History TV18 Hindi NW18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-http://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
+https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1786866634~exp=1786888234~acl=/*~hmac=c35df719f9c388c9b8377ea78c060a3198cc71f1a664102240f9e198875fbcab
 
 #EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/616.png", History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1046,12 +1042,21 @@ http://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009252&uid=8004188626&
 
 #EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="http://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",EPIC TV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2&Referer=http://www.hotstar.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0& 
 #KODIPROP:inputstream.adaptive.license_key=2a303ef9295b5809ac9cf6da29c7fa93:7f7854959e7c724073a132203cb26aa7,b1e833398b20540382edbd11c0a0f936:f84e8d3a79d86b25441005c5b621f072,ce0eb252a6655fe8baee0297c157727e:6aa1e979ba80655095fa1764295fa5f5,1ba5c3fa4e5b52edbc9c35f4170e7dd2:5a72e048b875daac411cdf9657e63c14,e90ca201aba45890841c6b73f9805634:8235dc4daff51ae816e5c871d2b0a633
 http://sflex.fun/Sflex-Jio/304031/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-name="EPIC TV" tvg-id="3382" tvg-logo="http://img.media.jio.com/tvpimages/19/79/304031_1776850531433_l_medium.jpg" group-title="Entertainment"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",EPIC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2
+https://jmp2.uk/stvp-IN17000109O
+
 
 #EXTINF:-1 tvg-name="Food Food"tvg-id="561"tvg-logo="http://img.media.jio.com/imagespublic/87/41/301416_1685007957318_p_medium.jpg"group-title="Lifestyle"provider-languages="Hindi,English":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Food Food
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
