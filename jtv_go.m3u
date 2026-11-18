@@ -427,8 +427,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=336eb0b114415971a745af85368c8a7c:4dc9974ddfec2c6da275acd6d617661b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0 okhttp/4.2.2
 
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_MOB/Catchup_Fallback/SonyWAH_MOB-audio_33636_eng=33600-video=148000.m3u8?vb=1794940200=1794940800
-
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_MOB/WDVLive/dash/SonyWAH_MOB-audio_33636_eng=33600-video=148000.mpd?vb=1794940200=1794940800
 
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_MOB/Catchup_Fallback/SonyWAH_MOB-audio_98835_eng=98800-video=658800-299156704.ts
 #EXTINF:-1 tvg-name="Goldmines"tvg-id=""tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Goldmines
