@@ -16,7 +16,7 @@ http://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi" tvg-logo="http://img.media.jio.com/tvpimages/20/34/300275_1753198478530_l_medium.jpg" group-title="Jio",Sony Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=http://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
+ http://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
 
 
 
@@ -188,15 +188,15 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3509" tvg-name="SET HD" group-title="Entertainment" tvg-logo="http://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" tvg-language="Hindi",SET HD
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="http://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sab_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sab_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="http://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" tvg-language="Hindi",Sony Pal
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_pal.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_pal.m3u8
 
 
 
@@ -254,7 +254,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-id="2832"tvg-logo="http://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony MAX HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=http://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
+ http://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
 
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="http://img.media.jio.com/tvpimages/73/72/302104_1753204022099_l_medium.jpg" group-title="Movies",Star Gold 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -398,13 +398,13 @@ http://sflex.fun/Sflex-Jio/301988/manifest.mpd
 #EXTINF:-1 tvg-name="Sony MAX 2"tvg-id="2834"tvg-logo="http://img.media.jio.com/imagespublic/81/86/301559_1697790594048_p_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony MAX 2
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=http://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
+ http://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
 
 
 #EXTINF:-1 tvg-name="Sony WAH"tvg-id="2835"tvg-logo="http://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony WAH
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=
+ 
 
 #EXTINF:-1 tvg-name="Goldmines"tvg-id=""tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"group-title="Movies"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Goldmines
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
@@ -618,7 +618,7 @@ http://sflex.fun/Sflex-Jio/300255/manifest.mpd
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi HD"tvg-id="892"tvg-logo="http://img.media.jio.com/tvpimages/1/58/300255_1758886957880_l_medium.jpg"group-title="Sports"provider-languages="Hindi":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony Sports Ten 3 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
 
 
 
@@ -626,20 +626,20 @@ http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonerebo
 #EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-id="162" tvg-logo="http://img.media.jio.com/tvpimages/5/8/300256_1753198281835_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten1_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_ten1_hd.m3u8
 
 
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-id="891" tvg-logo="http://img.media.jio.com/tvpimages/94/91/300273_1753198175927_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten2_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_ten2_hd.m3u8
 
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-id="155" tvg-logo="http://img.media.jio.com/tvpimages/31/97/300258_1753198241206_l_medium.jpg"group-title="Sports"provider-languages="":http-referrer="http://www.jiotv.com/":http-user-agent="okhttp/4.2.2",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.2.2
 #EXTVLCOPT:http-referrer=http://www.jiotv.com/
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5_hd.m3u8
+ https://allinonereborn2.online/sony-new/playlists/sony_ten5_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="http://img.media.jio.com/tvpimages/5/6/301982_1760005838319_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi HD
@@ -870,7 +870,7 @@ http://sflex.fun/Sflex-Jio/304139/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=okhttp/4.2.2&Referer=http://jiotv.com
-http://allinonereborn2.online/livtest3/stream_proxy.php?url=http://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
+ http://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
 
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids Hindi
 #KODIPROP:inputstream=inputstream.adaptive
